@@ -34,8 +34,8 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 - *2021.09 - present*, The Chinese University of Hong Kong, SRIBD Laboratory, Research under Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505)
 
 # News
-- *2022.02*: &nbsp; Lorem ipsum dolor sit amet1, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp; Lorem ipsum dolor sit amet2, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: 🎉🎉 Lorem ipsum dolor sit amet1, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09*: 🎉🎉 Lorem ipsum dolor sit amet2, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # Selected Publications [Full publication list is available in Google Scholar]
 
@@ -67,9 +67,9 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 
 - (Oral) [TC-DiffRecon: Texture coordination MRI reconstruction method based on diffusion model and modified MF-UNet method](https://ieeexplore.ieee.org/document/10635308), Chenyan Zhang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhenxiong Fan, Yiyu Huang, Wenchao Weng, Ruiquan Ge<sup>*</sup>, Dong Zeng, Changmiao Wang<sup>*</sup>, **ISBI 2024**
 
-- [Deep Object Detection Network Based Automatic Spinopelvic Parameters Measurement Method for Adult Spinal Deformity Classification](https://ieeexplore.ieee.org/document/10635308), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Weiqing Hu, Binfeng Zou, Yitong Pan, Yunyang Ge, Feiwei Qin<sup>*</sup>, Liang Shan, **AINIT 2023**
+- [Deep Object Detection Network Based Automatic Spinopelvic Parameters Measurement Method for Adult Spinal Deformity Classification](https://ieeexplore.ieee.org/abstract/document/10212876), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Weiqing Hu, Binfeng Zou, Yitong Pan, Yunyang Ge, Feiwei Qin<sup>*</sup>, Liang Shan, **AINIT 2023**
 
-- [RTUNet++: Assessment of Osteosarcoma MRI Image Segmentation leveraging Hybrid CNN-Transformer Approach with Dense Skip Connection](https://ieeexplore.ieee.org/document/10635308), Binfeng Zou, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhanghao Chen, Yifei Sun, Yifan Huang, Feiwei Qin<sup>*</sup>, Changmiao Wang, **ICSIP 2023**
+- [RTUNet++: Assessment of Osteosarcoma MRI Image Segmentation leveraging Hybrid CNN-Transformer Approach with Dense Skip Connection](https://ieeexplore.ieee.org/abstract/document/10270849), Binfeng Zou, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhanghao Chen, Yifei Sun, Yifan Huang, Feiwei Qin<sup>*</sup>, Changmiao Wang, **ICSIP 2023**
 
 # 🎖 Selected Honors and Awards
 
@@ -82,20 +82,21 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 - *2022-2023 Academic Year*, twice University **First-Class Scholarship** and the **National Scholarship**
 - *2022-2023 Academic Year*, "Star of Innovation" in the Top 100 Outstanding Students in the 5th "Youth of HDU" program
 - *2021-2022 Academic Year*, twice University **First-Class Scholarships** and the **Zhejiang Provincial Government Scholarship**
-- *2024* China International College Students' Innovation Competition - **National Gold Award**, **National Silver Award**, **International bronze Award**
+- *2024* China International College Students' Innovation Competition - **National Gold, Silver and International Bronze Award**
+- *2024* Higher education ICT industry-teaching integration innovation competition - **National Third Prize**
 - *2024* China Undergraduate Computer Design Contest - **National Third Prize**
-- *2023* China International College Students' Innovation Competition - **National Gold Award**, **International bronze Award**
+- *2023* China International College Students' Innovation Competition - **National Gold and International Bronze Award**
 - *2023* China Undergraduate Computer Design Contest - **National First Prize**
 - *2023* China College Students Service Outsourcing Innovation and Entrepreneurship Competition - **National Third Prize**
 - *2023* iCAN College Students Innovation and Entrepreneurship Competition - **National First Prize**
-- *2023* ICM/MCM Mathematical Contest in Modeling (MCM/ICM) - **International Second Prize**
+- *2023* MCM/ICM Mathematical Contest in Modeling - **International Second Prize**
 - *2023* Dimension Cup National College Mathematical Contest in Modeling - **National First Prize**
 - *2022* Certificate Authority Cup International Mathematical Contest in Modeling - **National First Prize**
 - *2022* Asia and Pacific Mathematical Contest in Modeling - **National Third Prize**
 
 # Funding
 
-<!-- #### PhD -->
+#### PhD
 
 #### Undergraduate
 - *2023* National Undergraduate Innovation and Entrepreneurship Training Program (**Project Lead**, **Key Supported Project**)
@@ -105,5 +106,5 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 # Academic Activities
 
 # Academic Service
-+ **Journal Reviewers of:** IEEE JBHI, IEEE TAI, JDIM.
-+ **Conference Reviewers of:** ISMRM 2025.
++ *Journal Reviewers* of: IEEE JBHI, IEEE TAI, JDIM.
++ *Conference Reviewers* of: ISMRM 2025.
