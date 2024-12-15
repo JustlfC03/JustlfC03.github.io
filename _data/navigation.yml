@@ -3,6 +3,12 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Internships"
+    url: "/#-internships"
+
   - title: "News"
     url: "/#-news"
 
@@ -12,11 +18,14 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Fundings"
+    url: "/#-fundings"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Funding"
+    url: "/#-funding"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Academic Activities"
+    url: "/#-academic-activities"
+
+  - title: "Academic Service"
+    url: "/#-academic-service"
