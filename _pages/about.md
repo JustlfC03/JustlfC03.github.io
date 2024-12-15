@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a visiting student at [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes Artificial Intelligence, Computer Vision, Pattern Recognition, Medical Image Analysis and Artificial Intelligence for Medical.
+I'm currently a visiting student at [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes Artificial Intelligence, Computer Vision, Pattern Recognition, Medical Image Analysis and Artificial Intelligence for Medical <a href='https://scholar.google.com/citations?user=coppwXUAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 I am very fortunate to be advised by [Prof. Qiyuan Tian（田启源）](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) of [Birth Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://bme.med.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). 
 
@@ -25,19 +25,19 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-# Educations
+# 📖 Educations
 - *2025.09 - 2030.06*, PhD student: Biomedical Engineering, Tsinghua University, Beijing, China.
 - *2021.09 - 2025.06*, Undergraduate student: Computer Science of Technology, Hangzhou Dianzi University, Hangzhou, China. 
 
-# Internships
+# 💻 Internships
 - *2024.05 - present*, The Hong Kong University of Science and Technology, Smart Lab Laboratory, Research under Professor [Hao Chen（陈浩）](https://seng.hkust.edu.hk/about/people/faculty/hao-chen)
 - *2021.09 - present*, The Chinese University of Hong Kong, SRIBD Laboratory, Research under Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505)
 
-# News
+# 🔥 News
 - *2025.09*: 🎉🎉 Lorem ipsum dolor sit amet1, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09*: 🎉🎉 Lorem ipsum dolor sit amet2, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# Selected Publications [Full publication list is available in Google Scholar]
+# 📝 Selected Publications [Full publication list is available in Google Scholar]
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -94,17 +94,17 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 - *2022* Certificate Authority Cup International Mathematical Contest in Modeling - **National First Prize**
 - *2022* Asia and Pacific Mathematical Contest in Modeling - **National Third Prize**
 
-# Funding
+# 💰 Funding
 
-#### PhD
+<!-- #### PhD -->
 
 #### Undergraduate
 - *2023* National Undergraduate Innovation and Entrepreneurship Training Program (**Project Lead**, **Key Supported Project**)
 - *2024* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program) (**Project Lead**)
 - *2024* National Undergraduate Innovation and Entrepreneurship Training Program (**Key Member**)
 
-# Academic Activities
+# 💬 Academic Activities
 
-# Academic Service
+# 👯 Academic Service
 + *Journal Reviewers* of: IEEE JBHI, IEEE TAI, JDIM.
 + *Conference Reviewers* of: ISMRM 2025.
