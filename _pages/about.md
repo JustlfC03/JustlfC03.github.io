@@ -37,7 +37,7 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 - *2025.09*: 🎉🎉 Lorem ipsum dolor sit amet1, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09*: 🎉🎉 Lorem ipsum dolor sit amet2, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Selected Publications [Full publication list is available in Google Scholar]
+# 📝 Publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,13 +53,13 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 
 <span style="color:#b02418; font-weight:bold;">✝</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
-#### JOURNAL PAPERS
+#### Selected JOURNAL PAPERS [Full list is available in Google Scholar]
 
 - [Sckansformer: Fine-grained classification of bone marrow cells via kansformer backbone and hierarchical attention mechanisms](https://ieeexplore.ieee.org/abstract/document/10713291), <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhu Zhu<sup>✝, *</sup>, Shenghao Zhu, Linwei Qiu, Binfeng Zou, Fan Jia, Yunpeng Zhu, Chenyan Zhang, Zhaojie Fang, Feiwei Qin<sup>*</sup>, Jin Fan, Changmiao Wang, Gang Yu, Yu Gao, **IEEE Journal of Biomedical and Health Informatics 2024**
 
 - [Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases](https://www.sciencedirect.com/science/article/abs/pii/S0010482524000015), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>*</sup>, Yong Peng, Yu Gao, **Computers in Biology and Medicine 2024**
 
-#### CONFERENCE PAPERS 
+#### Selected CONFERENCE PAPERS [Full list is available in Google Scholar]
 
 - [SCUNet++: Swin-UNet and CNN Bottleneck Hybrid Architecture with Multi-Fusion Dense Skip Connection for Pulmonary Embolism CT Image Segmentation](https://openaccess.thecvf.com/content/WACV2024/html/Chen_SCUNet_Swin-UNet_and_CNN_Bottleneck_Hybrid_Architecture_With_Multi-Fusion_Dense_WACV_2024_paper.html), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Binfeng Zou, Zhaoxin Guo, Yiyu Huang, Yifan Huang, Feiwei Qin<sup>*</sup>, Qinhai Li, Changmiao Wang<sup>*</sup>, **WACV 2024**
 
@@ -71,12 +71,12 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 
 - [RTUNet++: Assessment of Osteosarcoma MRI Image Segmentation leveraging Hybrid CNN-Transformer Approach with Dense Skip Connection](https://ieeexplore.ieee.org/abstract/document/10270849), Binfeng Zou, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhanghao Chen, Yifei Sun, Yifan Huang, Feiwei Qin<sup>*</sup>, Changmiao Wang, **ICSIP 2023**
 
-# 🎖 Selected Honors and Awards
+# 🎖 Honors and Awards
 
-#### PhD
+#### Doctor of Philosophy [Selected]
 - *2024* CHINA POSTGRADUATE IC INNOVATION COMPETITION EDA ELITE CHALLENGE - **National First Prize**
 
-#### Undergraduate
+#### Undergraduate [Selected]
 - *2023-2024 Academic Year*, twice University **First-Class Scholarship** and the **National Scholarship**
 - *2023-2024 Academic Year*, Top 10 Students in the 6th "Youth of HDU" program
 - *2022-2023 Academic Year*, twice University **First-Class Scholarship** and the **National Scholarship**
@@ -96,9 +96,9 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 
 # 💰 Funding
 
-<!-- #### PhD -->
+<!-- #### Doctor of Philosophy [Selected]-->
 
-#### Undergraduate
+#### Undergraduate [Selected]
 - *2023* National Undergraduate Innovation and Entrepreneurship Training Program (**Project Lead**, **Key Supported Project**)
 - *2024* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program) (**Project Lead**)
 - *2024* National Undergraduate Innovation and Entrepreneurship Training Program (**Key Member**)
