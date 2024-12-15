@@ -67,14 +67,6 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 
 - (Oral) [TC-DiffRecon: Texture coordination MRI reconstruction method based on diffusion model and modified MF-UNet method](https://ieeexplore.ieee.org/document/10635308), Chenyan Zhang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhenxiong Fan, Yiyu Huang, Wenchao Weng, Ruiquan Ge<sup>*</sup>, Dong Zeng, Changmiao Wang<sup>*</sup>, **ISBI 2024**
 
-- [Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases](https://www.sciencedirect.com/science/article/abs/pii/S0010482524000015), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>*</sup>, Yong Peng, Yu Gao, **Computers in Biology and Medicine 2024**
-
-- [Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases](https://www.sciencedirect.com/science/article/abs/pii/S0010482524000015), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>*</sup>, Yong Peng, Yu Gao, **Computers in Biology and Medicine 2024**
-
-- [Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases](https://www.sciencedirect.com/science/article/abs/pii/S0010482524000015), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>*</sup>, Yong Peng, Yu Gao, **Computers in Biology and Medicine 2024**
-
-- [Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases](https://www.sciencedirect.com/science/article/abs/pii/S0010482524000015), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>*</sup>, Yong Peng, Yu Gao, **Computers in Biology and Medicine 2024**
-
 # 🎖 Selected Honors and Awards
 
 #### PhD
@@ -90,22 +82,20 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 &nbsp; &nbsp; **twice Awarded University First-Class Scholarship and the National Scholarship**<br />
 &nbsp; &nbsp; **Top 10 Students in the 6th "Youth of HDU" program**<br />
 &nbsp; &nbsp; **Top 10 Students at the 2nd Future Science and Technology Festival**<br />
-&nbsp; &nbsp; **Merit Student**<br />
-&nbsp; &nbsp; **Outstanding Student Cadre**<br />
-&nbsp; &nbsp; **Advanced Individual**<br />
+&nbsp; &nbsp; **Merit Student**, **Outstanding Student Cadre**, **Advanced Individual**<br />
 
 -  *2022-2023 Academic Year* <br />
 &nbsp; &nbsp; **twice First-Class Scholarships and the Zhejiang Provincial Government Scholarship**<br />
 &nbsp; &nbsp; **Outstanding Student Cadre**<br />
 
 - *2023* China International College Students Innovation Competition - **National Gold Award**, **International bronze Award**
-- *2023* China Undergraduate Computer Design Contest, Big Data Practice Track - **National First Prize**
-- *2023* China College Students Service Outsourcing Innovation and Entrepreneurship Competition, Enterprise Proposition Category - **National Third Prize**
-- *2023* iCAN College Students Innovation and Entrepreneurship Competition, Digital Entrepreneurship Simulation Challenge - **National First Prize**
+- *2023* China Undergraduate Computer Design Contest - **National First Prize**
+- *2023* China College Students Service Outsourcing Innovation and Entrepreneurship Competition - **National Third Prize**
+- *2023* iCAN College Students Innovation and Entrepreneurship Competition - **National First Prize**
 - *2023* ICM/MCM Mathematical Contest in Modeling (MCM/ICM) - **International Second Prize**
-- *2023* Shuwei Cup International University Mathematical Modeling Challenge - **National First Prize**
-- *2022* Certification Cup MathorCup Mathematics China Mathematical Modeling International Competition - **National First Prize**
-- *2022* APMCM Asia-Pacific Mathematical Contest in Modeling - **National Third Prize**
+- *2023* Dimension Cup National College Mathematical Contest in Modeling - **National First Prize**
+- *2022* Certificate Authority Cup International Mathematical Contest in Modeling - **National First Prize**
+- *2022* Asia and Pacific Mathematical Contest in Modeling - **National Third Prize**
 
 # Funding
 
