@@ -73,20 +73,20 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 
 #### Undergraduate
 -  *2023-2024 Academic Year* <br />
-&nbsp; &nbsp; **twice Awarded University First-Class Scholarship and the National Scholarship**<br />
-&nbsp; &nbsp; **Top 10 Students in the 6th "Youth of HDU" program**<br />
-&nbsp; &nbsp; **Top 10 Students at the 2nd Future Science and Technology Festival**<br />
-&nbsp; &nbsp; **Outstanding Student Cadre**<br />
+twice Awarded University First-Class Scholarship and the National Scholarship<br />
+Top 10 Students in the 6th "Youth of HDU" program<br />
+Top 10 Students at the 2nd Future Science and Technology Festival<br />
+Outstanding Student Cadre<br />
 
 -  *2022-2023 Academic Year* <br />
-&nbsp; &nbsp; **twice Awarded University First-Class Scholarship and the National Scholarship**<br />
-&nbsp; &nbsp; **Top 10 Students in the 6th "Youth of HDU" program**<br />
-&nbsp; &nbsp; **Top 10 Students at the 2nd Future Science and Technology Festival**<br />
-&nbsp; &nbsp; **Merit Student**, **Outstanding Student Cadre**, **Advanced Individual**<br />
+twice Awarded University First-Class Scholarship and the National Scholarship<br />
+Top 10 Students in the 6th "Youth of HDU" program<br />
+Top 10 Students at the 2nd Future Science and Technology Festival<br />
+Merit Student, Outstanding Student Cadre, Advanced Individual<br />
 
 -  *2022-2023 Academic Year* <br />
-&nbsp; &nbsp; **twice First-Class Scholarships and the Zhejiang Provincial Government Scholarship**<br />
-&nbsp; &nbsp; **Outstanding Student Cadre**<br />
+twice First-Class Scholarships and the Zhejiang Provincial Government Scholarship<br />
+Outstanding Student Cadre<br />
 
 - *2023* China International College Students Innovation Competition - **National Gold Award**, **International bronze Award**
 - *2023* China Undergraduate Computer Design Contest - **National First Prize**
@@ -109,5 +109,5 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 # Academic Activities
 
 # Academic Service
-+ *Journal Reviewers of: *, IEEE JBHI, IEEE TAI, JDIM.
-+ *Conference Reviewers of: *, ISMRM 2025.
++ **Journal Reviewers of:** IEEE JBHI, IEEE TAI, JDIM.
++ **Conference Reviewers of:** ISMRM 2025.
