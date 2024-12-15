@@ -30,8 +30,8 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 - *2021.09 - 2025.06*, Undergraduate student: Computer Science of Technology, Hangzhou Dianzi University, Hangzhou, China. 
 
 # Internships
-- *2024.05 - present*, The Chinese University of Hong Kong, SRIBD Laboratory, Research under Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505)
-- *2021.09 - present*, The Hong Kong University of Science and Technology, Smart Lab Laboratory, Research under Professor [Hao Chen（陈浩）](https://seng.hkust.edu.hk/about/people/faculty/hao-chen)
+- *2024.05 - present*, The Hong Kong University of Science and Technology, Smart Lab Laboratory, Research under Professor [Hao Chen（陈浩）](https://seng.hkust.edu.hk/about/people/faculty/hao-chen)
+- *2021.09 - present*, The Chinese University of Hong Kong, SRIBD Laboratory, Research under Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505)
 
 # News
 - *2022.02*: &nbsp; Lorem ipsum dolor sit amet1, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -74,25 +74,17 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 # 🎖 Selected Honors and Awards
 
 #### PhD
+- *2024* CHINA POSTGRADUATE IC INNOVATION COMPETITION EDA ELITE CHALLENGE - **National First Prize**
 
 #### Undergraduate
--  *2023-2024 Academic Year* <br />
-twice Awarded University First-Class Scholarship and the National Scholarship<br />
-Top 10 Students in the 6th "Youth of HDU" program<br />
-Top 10 Students at the 2nd Future Science and Technology Festival<br />
-Outstanding Student Cadre<br />
-
--  *2022-2023 Academic Year* <br />
-twice Awarded University First-Class Scholarship and the National Scholarship<br />
-Top 10 Students in the 6th "Youth of HDU" program<br />
-Top 10 Students at the 2nd Future Science and Technology Festival<br />
-Merit Student, Outstanding Student Cadre, Advanced Individual<br />
-
--  *2022-2023 Academic Year* <br />
-twice First-Class Scholarships and the Zhejiang Provincial Government Scholarship<br />
-Outstanding Student Cadre<br />
-
-- *2023* China International College Students Innovation Competition - **National Gold Award**, **International bronze Award**
+- *2023-2024 Academic Year*, twice University **First-Class Scholarship** and the **National Scholarship**
+- *2023-2024 Academic Year*, Top 10 Students in the 6th "Youth of HDU" program
+- *2022-2023 Academic Year*, twice University **First-Class Scholarship** and the **National Scholarship**
+- *2022-2023 Academic Year*, "Star of Innovation" in the Top 100 Outstanding Students in the 5th "Youth of HDU" program
+- *2021-2022 Academic Year*, twice University **First-Class Scholarships** and the **Zhejiang Provincial Government Scholarship**
+- *2024* China International College Students' Innovation Competition - **National Gold Award**, **National Silver Award**, **International bronze Award**
+- *2024* China Undergraduate Computer Design Contest - **National Third Prize**
+- *2023* China International College Students' Innovation Competition - **National Gold Award**, **International bronze Award**
 - *2023* China Undergraduate Computer Design Contest - **National First Prize**
 - *2023* China College Students Service Outsourcing Innovation and Entrepreneurship Competition - **National Third Prize**
 - *2023* iCAN College Students Innovation and Entrepreneurship Competition - **National First Prize**
@@ -103,7 +95,7 @@ Outstanding Student Cadre<br />
 
 # Funding
 
-#### PhD
+<!-- #### PhD -->
 
 #### Undergraduate
 - *2023* National Undergraduate Innovation and Entrepreneurship Training Program (**Project Lead**, **Key Supported Project**)
