@@ -36,8 +36,7 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 - *2021.09 - present*, The Chinese University of Hong Kong, SRIBD Laboratory, Research under Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505)
 
 # 🔥 News
-- *2025.09*: 🎉🎉 Lorem ipsum dolor sit amet1, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09*: 🎉🎉 Lorem ipsum dolor sit amet2, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12.08*: 🎉🎉 Won **National First Prize** in China Postgraduate IC Innovation Competition · EDA Elite Challenge!
 
 # 📝 Publications
 
@@ -76,7 +75,7 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 # 🎖 Honors and Awards
 
 #### Doctor of Philosophy [Selected]
-- *2024* CHINA POSTGRADUATE IC INNOVATION COMPETITION EDA ELITE CHALLENGE - **National First Prize**
+- *2024* China Postgraduate IC Innovation Competition · EDA Elite Challenge - **National First Prize**
 
 #### Undergraduate [Selected]
 - *2023-2024 Academic Year*, twice University **First-Class Scholarship** and the **National Scholarship**
@@ -86,11 +85,11 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 - *2021-2022 Academic Year*, twice University **First-Class Scholarships** and the **Zhejiang Provincial Government Scholarship**
 - *2024* China International College Students' Innovation Competition - **National Gold, Silver and International Bronze Award**
 - *2024* Higher education ICT industry-teaching integration innovation competition - **National Third Prize**
-- *2024* China Undergraduate Computer Design Contest - **National Third Prize**
+- *2024* Chinese Collegiate Computing Competition - **National Third Prize**
 - *2023* China International College Students' Innovation Competition - **National Gold and International Bronze Award**
-- *2023* China Undergraduate Computer Design Contest - **National First Prize**
-- *2023* China College Students Service Outsourcing Innovation and Entrepreneurship Competition - **National Third Prize**
-- *2023* iCAN College Students Innovation and Entrepreneurship Competition - **National First Prize**
+- *2023* Chinese Collegiate Computing Competition - **National First Prize**
+- *2023* China College Students' Service Outsourcing Innovation and Entrepreneurship Competition - **National Third Prize**
+- *2023* iCAN College Students' Innovation and Entrepreneurship Competition - **National First Prize**
 - *2023* MCM/ICM Mathematical Contest in Modeling - **International Second Prize**
 - *2023* Dimension Cup National College Mathematical Contest in Modeling - **National First Prize**
 - *2022* Certificate Authority Cup International Mathematical Contest in Modeling - **National First Prize**
@@ -98,7 +97,7 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 
 # 💰 Funding
 
-<!-- #### Doctor of Philosophy [Selected]-->
+#### Doctor of Philosophy [Selected]
 
 #### Undergraduate [Selected]
 - *2023* National Undergraduate Innovation and Entrepreneurship Training Program (**Project Lead**, **Key Supported Project**)
