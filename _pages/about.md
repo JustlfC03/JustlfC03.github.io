@@ -26,7 +26,7 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 <a href='https://scholar.google.com/citations?user=coppwXUAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 [![](https://img.shields.io/github/stars/JustlfC03?style=social)](https://github.com/JustlfC03)
 
-![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DcoppwXUAAAAJ%26hl%3Dzh-CN&style=flat)
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DcoppwXUAAAAJ%26hl%3Dzh-CN&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations)
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
