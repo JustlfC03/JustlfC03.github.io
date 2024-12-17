@@ -85,7 +85,7 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 - *2021-2022 Academic Year*, twice University **First-Class Scholarships** and the **Zhejiang Provincial Government Scholarship**
 - *2024* China International College Students' Innovation Competition - **National Gold, Silver and International Bronze Award**
 - *2024* Higher education ICT industry-teaching integration innovation competition - **National Third Prize**
-- *2024* Chinese Collegiate Computing Competition - **National Third Prize**
+- *2024* Chinese Collegiate Computing Competition - **National Second Prize**
 - *2023* China International College Students' Innovation Competition - **National Gold and International Bronze Award**
 - *2023* Chinese Collegiate Computing Competition - **National First Prize**
 - *2023* China College Students' Service Outsourcing Innovation and Entrepreneurship Competition - **National Third Prize**
