@@ -36,7 +36,7 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 - *2021.09 - present*, The Chinese University of Hong Kong, SRIBD Laboratory, Research under Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505)
 
 # 🔥 News
-- *2024.12.19*: 🎉🎉 Our paper has been accepted by ICASSP 2025!
+- *2024.12.21*: 🎉🎉 Our paper has been accepted by ICASSP 2025!
 - *2024.12.17*: 🎉🎉 Our paper has been accepted by Scientific Data!
 - *2024.12.08*: 🎉🎉 Won **National First Prize** in China Postgraduate IC Innovation Competition · EDA Elite Challenge!
 
