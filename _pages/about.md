@@ -37,7 +37,7 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 - *2021.09 - present*, The Chinese University of Hong Kong, SRIBD Laboratory, Research under Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505)
 
 # 🔥 News
-- *2024.12.31*: 🎉🎉 Our paper has been accepted by [ISBI 2025](https://biomedicalimaging.org/2025/)!
+<!-- - *2024.12.31*: 🎉🎉 Our paper has been accepted by [ISBI 2025](https://biomedicalimaging.org/2025/) (Oral)! -->
 - *2024.12.24*: 🎉🎉 Our paper has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/)!
 - *2024.12.21*: 🎉🎉 Our paper has been accepted by [ICASSP 2025](https://2025.ieeeicassp.org/)!
 - *2024.12.17*: 🎉🎉 Our paper has been accepted by [Scientific Data](https://www.nature.com/sdata/)!
@@ -105,11 +105,13 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 #### Doctor of Philosophy [Selected]
 
 #### Undergraduate [Selected]
-- *2023* National Undergraduate Innovation and Entrepreneurship Training Program (**Project Lead**, **Key Supported Project**)
-- *2024* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program) (**Project Lead**)
+<!-- - *2025* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program) (**Key Member**) -->
 - *2024* National Undergraduate Innovation and Entrepreneurship Training Program (**Key Member**)
-
+- *2024* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program) (**Project Lead**)
+- *2023* National Undergraduate Innovation and Entrepreneurship Training Program (**Project Lead**, **Key Supported Project**)
+- 
 # 💬 Academic Activities
+<!-- - *2025.02.15* Attended the ISMRM 2025 Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan. -->
 
 # 👯 Academic Service
 + *Journal Reviewers* of: JBHI, TAI, JDIM.
