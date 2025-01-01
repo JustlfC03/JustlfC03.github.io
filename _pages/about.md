@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a visiting student at [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes Artificial Intelligence, Computer Vision, Pattern Recognition, Medical Image Analysis, Artificial Intelligence for Medical and Large Model.
+I'm currently a visiting student at [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes Artificial Intelligence, Computer Vision, Pattern Recognition, Medical Image Analysis, Artificial Intelligence for Medical and Large Model for Medical.
 
 I am very fortunate to be advised by [Prof. Qiyuan Tian（田启源）](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) of [Birth Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://bme.med.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). 
 
