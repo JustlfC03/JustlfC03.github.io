@@ -81,7 +81,7 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 
 - [RTUNet++: Assessment of Osteosarcoma MRI Image Segmentation leveraging Hybrid CNN-Transformer Approach with Dense Skip Connection](https://ieeexplore.ieee.org/abstract/document/10270849), Binfeng Zou, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhanghao Chen, Yifei Sun, Yifan Huang, Feiwei Qin<sup>*</sup>, Changmiao Wang, **ICSIP 2023**
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 
 #### Doctor of Philosophy [Selected]
 - *2024* China Postgraduate IC Innovation Competition · EDA Elite Challenge - **National First Prize**
