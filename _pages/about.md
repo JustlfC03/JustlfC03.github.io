@@ -62,7 +62,7 @@ I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.h
 <span style="color:#b02418; font-weight:bold;">✝</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 #### Selected JOURNAL PAPERS [Full list is available in Google Scholar]
-- [A multi-modal dental dataset for semi-supervised deep learning image segmentation](https://justlfc03.github.io/), Yaqi Wang, Fan Ye, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chengkai Wang, Chengyu Wu, Feng Xu, Zhean Ma, Yi Liu, Yifan Zhang, Mingguo Cao<sup>*</sup>, Xiaodiao Chen<sup>*</sup>, **Scientific Data 2025**
+- [A multi-modal dental dataset for semi-supervised deep learning image segmentation](https://www.nature.com/articles/s41597-024-04306-9), Yaqi Wang, Fan Ye, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chengkai Wang, Chengyu Wu, Feng Xu, Zhean Ma, Yi Liu, Yifan Zhang, Mingguo Cao<sup>*</sup>, Xiaodiao Chen<sup>*</sup>, **Scientific Data 2025**
 
 - [LPUWF-LDM: Enhanced latent diffusion model for precise late-phase UWF-FA generation on limited dataset](https://www.sciencedirect.com/science/article/abs/pii/S0957417425000934), Zhaojie Fang, Xiao Yu, Guanyu Zhou, Ke Zhuang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Ruiquan Ge<sup>*</sup>, Changmiao Wang<sup>*</sup>, Gangyong Jia, Qing Wu, Juan Ye, Maimaiti Nuliqiman, Peifang Xu, Ahmed Elazab, **Expert Systems with Applications 2025**
 
