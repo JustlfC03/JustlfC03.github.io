@@ -35,6 +35,7 @@ My research interest includes Artificial Intelligence, Computer Vision, Pattern 
 - *2021.09 - Present*, The Chinese University of Hong Kong - Shenzhen, SRIBD Laboratory, Research under Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505)
 
 # 🔥 News
+- *2025.02.01*: 🎉🎉 Our paper has been accepted by [ISMRM 2025](https://www.ismrm.org/)!
 - *2025.01.07*: 🎉🎉 Our paper has been accepted by [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)!
 - *2025.01.03*: 🎉🎉 Our paper has been accepted by [ISBI 2025](https://biomedicalimaging.org/2025/) !
 - *2024.12.24*: 🎉🎉 Our paper has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/)!
@@ -82,7 +83,9 @@ My research interest includes Artificial Intelligence, Computer Vision, Pattern 
 - [RTUNet++: Assessment of Osteosarcoma MRI Image Segmentation leveraging Hybrid CNN-Transformer Approach with Dense Skip Connection](https://ieeexplore.ieee.org/abstract/document/10270849), Binfeng Zou, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhanghao Chen, Yifei Sun, Yifan Huang, Feiwei Qin<sup>*</sup>, Changmiao Wang, **ICSIP 2023**
 
 #### Selected CONFERENCE ABSTRACTS [Full list is available in Google Scholar]
-- [DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Shenghao Zhu, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>, **ISMRM Workshop on 40 Years of Diffusion 2025**
+- [DiffKAN: Convolutional Kolmogorov-Arnold Networks for Improved Diffusion MRI Microstructural Modeling](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Yuanhan Wang, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>, **ISMRM 2025**
+
+- [DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Shenghao Zhu, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>, **ISMRM 2025 Workshop on 40 Years of Diffusion**
 
 # 🏅 Honors and Awards
 #### Doctor of Philosophy [Selected]
@@ -116,7 +119,8 @@ My research interest includes Artificial Intelligence, Computer Vision, Pattern 
 - *2023* National Undergraduate Innovation and Entrepreneurship Training Program (**Project Lead**, **Key Supporting Field Projects**)
 
 # 💬 Academic Activities
-- *2025.02.15* Attended the ISMRM 2025 Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan.
+- *2025.05.10* Attended the 2025 ISMRM & ISMRT Annual Meeting & Exhibition in Hawaii, United States of America.
+- *2025.02.16* Attended the ISMRM 2025 Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan.
 
 # 👯 Academic Service
 + *Journal Reviewers* of: TIP, TMM, JBHI, TAI, TNSRE, JDIM.
