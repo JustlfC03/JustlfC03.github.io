@@ -123,5 +123,5 @@ My research interest includes Artificial Intelligence, Computer Vision, Pattern 
 - *2025.02.16* Attended the ISMRM 2025 Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan.
 
 # 👯 Academic Service
-+ *Journal Reviewers* of: TIP, TMM, JBHI, TAI, TNSRE, JDIM.
++ *Journal Reviewers* of: IEEE TIP, IEEE TMM, IEEE JBHI, IEEE TAI, IEEE TNSRE, JDIM, BMT.
 + *Conference Reviewers* of: CHIL2025, ISMRM 2025, ICLR 2025 Workshop DeLTa, ICLR 2025 Workshop FM-Wild.
