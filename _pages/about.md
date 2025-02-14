@@ -37,7 +37,7 @@ My research interest includes Artificial Intelligence, Computer Vision, Pattern 
 # 🔥 News
 - *2025.02.01*: 🎉🎉 Our paper has been accepted by [ISMRM 2025](https://www.ismrm.org/)!
 - *2025.01.07*: 🎉🎉 Our paper has been accepted by [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)!
-- *2025.01.03*: 🎉🎉 Our paper has been accepted by [ISBI 2025](https://biomedicalimaging.org/2025/) !
+- *2025.01.03*: 🎉🎉 Our paper has been accepted by [ISBI 2025](https://biomedicalimaging.org/2025/) (**Oral Presentation**)!
 - *2024.12.24*: 🎉🎉 Our paper has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/)!
 - *2024.12.21*: 🎉🎉 Our paper has been accepted by [ICASSP 2025](https://2025.ieeeicassp.org/)!
 - *2024.12.17*: 🎉🎉 Our paper has been accepted by [Scientific Data](https://www.nature.com/sdata/)!
@@ -68,7 +68,7 @@ My research interest includes Artificial Intelligence, Computer Vision, Pattern 
 - [Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases](https://www.sciencedirect.com/science/article/abs/pii/S0010482524000015), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>*</sup>, Yong Peng, Yu Gao, **Computers in Biology and Medicine 2024**
 
 #### Selected CONFERENCE PAPERS [Full list is available in Google Scholar]
-- [Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shenghao Zhu, Zhaojie Fang, Chang Liu, Binfeng Zou, Yuhe Wang, Shuo Chang, Fan Jia, Feiwei Qin<sup>*</sup>, Jin Fan, Yong Peng, Changmiao Wang, **ICASSP 2025**
+- (**Oral**) [Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shenghao Zhu, Zhaojie Fang, Chang Liu, Binfeng Zou, Yuhe Wang, Shuo Chang, Fan Jia, Feiwei Qin<sup>*</sup>, Jin Fan, Yong Peng, Changmiao Wang, **ICASSP 2025**
 
 - [XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision XLSTM and Heteromodal Variational Encoder-Decoder](https://justlfc03.github.io/), Shenghao Zhu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shuo Jiang, Weihong Chen, Chang Liu, Yuanhan Wang, Xu Chen, Yifan Ke, Feiwei Qin<sup>*</sup>, Changmiao Wang, Zhu Zhu<sup>*</sup>, **ISBI 2025**
 
@@ -76,7 +76,7 @@ My research interest includes Artificial Intelligence, Computer Vision, Pattern 
 
 - [Semi-supervised Medical Image Segmentation Method Based on Cross-pseudo Labeling Leveraging Strong and Weak Data Augmentation Strategies](https://ieeexplore.ieee.org/document/10635443), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Yifan Ke, Yiyu Huang, Xuezhou Dai, Feiwei Qin<sup>*</sup>, Yongquan Zhang, Xiaodong Zhang, Changmiao Wang<sup>*</sup>, **ISBI 2024**
 
-- (Oral) [TC-DiffRecon: Texture coordination MRI reconstruction method based on diffusion model and modified MF-UNet method](https://ieeexplore.ieee.org/document/10635308), Chenyan Zhang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhenxiong Fan, Yiyu Huang, Wenchao Weng, Ruiquan Ge<sup>*</sup>, Dong Zeng, Changmiao Wang<sup>*</sup>, **ISBI 2024**
+- (**Oral**) [TC-DiffRecon: Texture coordination MRI reconstruction method based on diffusion model and modified MF-UNet method](https://ieeexplore.ieee.org/document/10635308), Chenyan Zhang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhenxiong Fan, Yiyu Huang, Wenchao Weng, Ruiquan Ge<sup>*</sup>, Dong Zeng, Changmiao Wang<sup>*</sup>, **ISBI 2024**
 
 - [Deep Object Detection Network Based Automatic Spinopelvic Parameters Measurement Method for Adult Spinal Deformity Classification](https://ieeexplore.ieee.org/abstract/document/10212876), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Weiqing Hu, Binfeng Zou, Yitong Pan, Yunyang Ge, Feiwei Qin<sup>*</sup>, Liang Shan, **AINIT 2023**
 
