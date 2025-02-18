@@ -124,4 +124,4 @@ My research interest includes Artificial Intelligence, Computer Vision, Pattern 
 
 # 👯 Academic Service
 + *Journal Reviewers* of: IEEE TIP, IEEE TMM, IEEE JBHI, IEEE TAI, IEEE TNSRE, IEEE TCBB, JDIM, BMT.
-+ *Conference Reviewers* of: MICCAI2025, CHIL2025, ISMRM 2025, ICLR 2025 Workshop(DeLTa, FM-Wild, AI4CHL, XAI4Science).
++ *Conference Reviewers* of: MICCAI2025, CHIL2025, ISMRM 2025, ICLR 2025 Workshop (DeLTa, FM-Wild, AI4CHL, XAI4Science).
