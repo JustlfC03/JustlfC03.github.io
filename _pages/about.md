@@ -97,7 +97,7 @@ My research interest includes Artificial Intelligence, Computer Vision, Pattern 
 - *2022-2023 Academic Year*, twice University **First-Class Scholarships** and the **National Scholarship**
 - *2022-2023 Academic Year*, "Star of Innovation" in the Top 100 Outstanding Students in the 5th "Youth of HDU" program
 - *2021-2022 Academic Year*, twice University **First-Class Scholarships** and the **Zhejiang Provincial Government Scholarship**
-- *2024* China International College Students' Innovation Competition - **National Gold, Silver, Bronze and International Bronze Awards**
+- *2024* China International College Students' Innovation Competition - **National Gold and International Bronze Awards**
 - *2024* Higher education ICT industry-teaching integration innovation competition - **National Third Prize**
 - *2024* Chinese Collegiate Computing Competition - **National Second Prize**
 - *2023* China International College Students' Innovation Competition - **National Gold and International Bronze Awards**
