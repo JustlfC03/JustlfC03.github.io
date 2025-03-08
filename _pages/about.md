@@ -19,7 +19,7 @@ redirect_from:
 
 I'm currently a visiting student at [BIRTH Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/) and fortunate to be advised by [Prof. Qiyuan Tian（田启源）](https://www.med.tsinghua.edu.cn/info/1143/2126.htm). I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.hdu.edu.cn/2021/1217/c6770a140174/page.htm) from [School of Computer Science](https://computer.hdu.edu.cn/main.htm), [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) and [Prof. Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505) from [Medical Big Data Lab](http://sribd.cn/znyy/medical), [Shenzhen Research Institute of Big Data](https://www.sribd.cn/).
 
-My research interest includes Artificial Intelligence, Computer Vision, Pattern Recognition and AI for Medical: Medical Image Analysis, Multimodal for Medical and Large Model for Medical.
+My research interests include Artificial Intelligence, Computer Vision, Pattern Recognition and AI for Medical (Specializing): Medical Image Analysis, Multimodal for Medical and Large Model for Medical.
 
 <a href='https://scholar.google.com/citations?user=coppwXUAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 [![](https://img.shields.io/github/stars/JustlfC03?style=social)](https://github.com/JustlfC03)
