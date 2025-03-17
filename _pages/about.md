@@ -69,9 +69,9 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - [Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases](https://www.sciencedirect.com/science/article/abs/pii/S0010482524000015), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>*</sup>, Yong Peng, Yu Gao, **Computers in Biology and Medicine 2024**
 
 #### Selected CONFERENCE PAPERS [Full list is available in Google Scholar]
-- (**Oral**) [Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach](https://ieeexplore.ieee.org/abstract/document/10888363), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shenghao Zhu, Zhaojie Fang, Chang Liu, Binfeng Zou, Yuhe Wang, Shuo Chang, Fan Jia, Feiwei Qin<sup>*</sup>, Jin Fan, Yong Peng, Changmiao Wang, **ICASSP 2025**
+- [Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach](https://ieeexplore.ieee.org/abstract/document/10888363), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shenghao Zhu, Zhaojie Fang, Chang Liu, Binfeng Zou, Yuhe Wang, Shuo Chang, Fan Jia, Feiwei Qin<sup>*</sup>, Jin Fan, Yong Peng, Changmiao Wang, **ICASSP 2025**
 
-- [XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision XLSTM and Heteromodal Variational Encoder-Decoder](https://justlfc03.github.io/), Shenghao Zhu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shuo Jiang, Weihong Chen, Chang Liu, Yuanhan Wang, Xu Chen, Yifan Ke, Feiwei Qin<sup>*</sup>, Changmiao Wang, Zhu Zhu<sup>*</sup>, **ISBI 2025**
+- (**Oral**) [XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision XLSTM and Heteromodal Variational Encoder-Decoder](https://justlfc03.github.io/), Shenghao Zhu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shuo Jiang, Weihong Chen, Chang Liu, Yuanhan Wang, Xu Chen, Yifan Ke, Feiwei Qin<sup>*</sup>, Changmiao Wang, Zhu Zhu<sup>*</sup>, **ISBI 2025**
 
 - [SCUNet++: Swin-UNet and CNN Bottleneck Hybrid Architecture with Multi-Fusion Dense Skip Connection for Pulmonary Embolism CT Image Segmentation](https://openaccess.thecvf.com/content/WACV2024/html/Chen_SCUNet_Swin-UNet_and_CNN_Bottleneck_Hybrid_Architecture_With_Multi-Fusion_Dense_WACV_2024_paper.html), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Binfeng Zou, Zhaoxin Guo, Yiyu Huang, Yifan Huang, Feiwei Qin<sup>*</sup>, Qinhai Li, Changmiao Wang<sup>*</sup>, **WACV 2024**
 
@@ -89,15 +89,14 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - [DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Shenghao Zhu, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>, **ISMRM 2025 Workshop on 40 Years of Diffusion**
 
 # 🏅 Honors and Awards
-#### Doctor of Philosophy [Selected]
-- *2024* China Postgraduate IC Innovation Competition · EDA Elite Challenge - **National First Prize**
-
+<!-- #### Doctor of Philosophy [Selected] -->
 #### Undergraduate [Selected]
 - *2023-2024 Academic Year*, twice University **First-Class Scholarships** and the **National Scholarship**
 - *2023-2024 Academic Year*, Top 10 Students in the 6th "Youth of HDU" program
 - *2022-2023 Academic Year*, twice University **First-Class Scholarships** and the **National Scholarship**
 - *2022-2023 Academic Year*, "Star of Innovation" in the Top 100 Outstanding Students in the 5th "Youth of HDU" program
 - *2021-2022 Academic Year*, twice University **First-Class Scholarships** and the **Zhejiang Provincial Government Scholarship**
+- *2024* China Postgraduate IC Innovation Competition · EDA Elite Challenge - **National First Prize**
 - *2024* China International College Students' Innovation Competition - **National Gold and International Bronze Awards**
 - *2024* Higher education ICT industry-teaching integration innovation competition - **National Third Prize**
 - *2024* Chinese Collegiate Computing Competition - **National Second Prize**
@@ -112,17 +111,16 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 
 # 💰 Funding
 <!-- - #### Doctor of Philosophy [Selected] -->
-
 #### Undergraduate [Selected]
 - *2025* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program) (**Key Member**)
 - *2024* National Undergraduate Innovation and Entrepreneurship Training Program (**Key Member**)
 - *2024* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program) (**Project Lead**)
 - *2023* National Undergraduate Innovation and Entrepreneurship Training Program (**Project Lead**, **Key Supporting Field Project**)
 
-# 💬 Academic Activities
+# 👯 Academic Activities
 - *2025.05.10* Attended the 2025 ISMRM & ISMRT Annual Meeting & Exhibition in Hawaii, United States of America.
 - *2025.02.16* Attended the ISMRM 2025 Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan.
 
-# 👯 Academic Services
+# 💬 Academic Services
 + *Journal Reviewers* of: TIP, TMM, JBHI, TAI, TNSRE, TCBB, BMT, Sci. Rep., IMAVIS, JDIM, BMC AI, MACH VISION APPL, SIGNAL IMAGE VIDEO P.
 + *Conference Reviewers* of: MICCAI2025, CHIL2025, ICECET 2025, ICLR 2025 Workshop (DeLTa, FM-Wild, AI4CHL, XAI4Science), GSP 2025 Workshop.
