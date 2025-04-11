@@ -126,4 +126,4 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 
 # 💬 Academic Services
 + *Journal Reviewers* of: Sci. Rep., IJCARS, IMAVIS, JDIM, BMC AI, MACH VISION APPL, SIGNAL IMAGE VIDEO P.
-+ *Conference Reviewers* of: MICCAI2025, CHIL2025, ICECET 2025, ICLR 2025 Workshop, GSP 2025 Workshop.
++ *Conference Reviewers* of: NeurIPS 2025, MICCAI2025, CHIL2025, ICECET 2025, ICLR 2025 Workshop, GSP 2025 Workshop.
