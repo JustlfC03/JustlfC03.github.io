@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me
+# 😉 About Me
 I'm currently an incoming PhD. student at [BIRTH Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/) and fortunate to be advised by [Prof. Qiyuan Tian（田启源）](https://www.med.tsinghua.edu.cn/info/1143/2126.htm). I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.hdu.edu.cn/2021/1217/c6770a140174/page.htm) from [School of Computer Science](https://computer.hdu.edu.cn/main.htm), [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) and [Prof. Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505) from [Medical Big Data Lab](http://sribd.cn/znyy/medical), [Shenzhen Research Institute of Big Data](https://www.sribd.cn/).
 
 My research interests include Artificial Intelligence: Computer Vision, Pattern Recognition and AI for Medical (Specializing in). I’m looking to collaborate on: Medical Image Analysis, Multimodal for Medical and Large Model for Medical.
@@ -94,11 +94,13 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 # 🏅 Honors and Awards
 <!-- #### Doctor of Philosophy [Selected] -->
 #### Undergraduate [Selected]
-- *2023-2024 Academic Year*, twice University **First-Class Scholarships** and the **National Scholarship**
-- *2023-2024 Academic Year*, Top 10 Students in the 6th "Youth of HDU" program
-- *2022-2023 Academic Year*, twice University **First-Class Scholarships** and the **National Scholarship**
-- *2022-2023 Academic Year*, "Star of Innovation" in the Top 100 Outstanding Students in the 5th "Youth of HDU" program
-- *2021-2022 Academic Year*, twice University **First-Class Scholarships** and the **Zhejiang Provincial Government Scholarship**
+- *2025*, Outstanding Graduates of Zhejiang Province
+- *2025*, Graduate entrance examination scholarship
+- *2023-2024 Academic Year*, twice University **First-Class Scholarships** and **National Scholarship**
+- *2023-2024 Academic Year*, **Top 10 Students** in the 6th "Youth of HDU" program
+- *2022-2023 Academic Year*, twice University **First-Class Scholarships** and **National Scholarship**
+- *2022-2023 Academic Year*, "Star of Innovation" in the **Top 100 Outstanding Students** in the 5th "Youth of HDU" program
+- *2021-2022 Academic Year*, twice University **First-Class Scholarships** and **Zhejiang Provincial Government Scholarship**
 - *2024* China Postgraduate IC Innovation Competition · EDA Elite Challenge - **National First Prize**
 - *2024* China International College Students' Innovation Competition - **National Gold and International Bronze Awards**
 - *2024* Higher education ICT industry-teaching integration innovation competition - **National Third Prize**
@@ -108,9 +110,6 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2023* China College Students' Service Outsourcing Innovation and Entrepreneurship Competition - **National Third Prize**
 - *2023* iCAN College Students' Innovation and Entrepreneurship Competition - **National First Prize**
 - *2023* MCM/ICM Mathematical Contest in Modeling - **International Second Prize**
-- *2023* Dimension Cup National College Mathematical Contest in Modeling - **National First Prize**
-- *2022* Certificate Authority Cup International Mathematical Contest in Modeling - **National First Prize**
-- *2022* Asia and Pacific Mathematical Contest in Modeling - **National Third Prize**
 
 # 💰 Funding
 <!-- - #### Doctor of Philosophy [Selected] -->
@@ -126,4 +125,4 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 
 # 💬 Academic Services
 + *Journal Reviewers* of: Sci. Rep., IJCARS, IMAVIS, JDIM, BMC AI, MACH VISION APPL, SIGNAL IMAGE VIDEO P.
-+ *Conference Reviewers* of: NeurIPS 2025, ECAI 2025, MICCAI 2025, CHIL 2025, ICECET 2025, ACDSA 2025, ICLR 2025 Workshop, GSP 2025 Workshop.
++ *Conference Reviewers* of: NeurIPS 2025, ECAI 2025, MICCAI 2025, CHIL 2025, ICECET 2025, ACDSA 2025.
