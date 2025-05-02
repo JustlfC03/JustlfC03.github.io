@@ -100,15 +100,15 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2022-2023 Academic Year*, twice University **First-Class Scholarships** and **National Scholarship**
 - *2022-2023 Academic Year*, "Star of Innovation" in the **Top 100 Outstanding Students** in the 5th "Youth of HDU" program
 - *2021-2022 Academic Year*, twice University **First-Class Scholarships** and **Zhejiang Provincial Government Scholarship**
-- *2024* China Postgraduate IC Innovation Competition · EDA Elite Challenge --- **National First Prize**
-- *2024* China International College Students' Innovation Competition --- **National Gold and International Bronze Awards**
-- *2024* Higher education ICT industry-teaching integration innovation competition --- **National Third Prize**
-- *2024* Chinese Collegiate Computing Competition --- **National Second Prize**
-- *2023* China International College Students' Innovation Competition --- **National Gold and International Bronze Awards**
-- *2023* Chinese Collegiate Computing Competition --- **National First Prize**
-- *2023* China College Students' Service Outsourcing Innovation and Entrepreneurship Competition --- **National Third Prize**
-- *2023* iCAN College Students' Innovation and Entrepreneurship Competition --- **National First Prize**
-- *2023* MCM/ICM Mathematical Contest in Modeling --- **International Second Prize**
+- *2024* China Postgraduate IC Innovation Competition · EDA Elite Challenge - **National First Prize**
+- *2024* China International College Students' Innovation Competition - **National Gold and International Bronze Awards**
+- *2024* Higher education ICT industry-teaching integration innovation competition - **National Third Prize**
+- *2024* Chinese Collegiate Computing Competition - **National Second Prize**
+- *2023* China International College Students' Innovation Competition - **National Gold and International Bronze Awards**
+- *2023* Chinese Collegiate Computing Competition - **National First Prize**
+- *2023* China College Students' Service Outsourcing Innovation and Entrepreneurship Competition - **National Third Prize**
+- *2023* iCAN College Students' Innovation and Entrepreneurship Competition - **National First Prize**
+- *2023* MCM/ICM Mathematical Contest in Modeling - **International Second Prize**
 
 # 💰 Funding
 <!-- - #### Doctor of Philosophy [Selected] -->
