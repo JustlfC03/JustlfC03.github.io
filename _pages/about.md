@@ -97,7 +97,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - [DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Shenghao Zhu, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>, **ISMRM 2025 Workshop on 40 Years of Diffusion**
 -->
 
-# 🏅 Honors and Awards
+# 🏅 Honors
 <!-- #### Doctor of Philosophy [Selected] -->
 #### Undergraduate [Selected]
 - *2024-2025 Academic Year* **Outstanding Graduates** of Zhejiang Province and **Graduate Entrance Examination Scholarship**
