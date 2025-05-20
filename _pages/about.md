@@ -43,6 +43,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2024.12.24*: 🎉🎉 Our paper has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/)!
 - *2024.12.21*: 🎉🎉 Our paper has been accepted by [ICASSP 2025](https://2025.ieeeicassp.org/)!
 - *2024.12.17*: 🎉🎉 Our paper has been accepted by [Scientific Data](https://www.nature.com/sdata/)!
+
 <!--
 - *2024.12.08*: 🎉🎉 Won **National First Prize** in China Postgraduate IC Innovation Competition · EDA Elite Challenge!
 -->
@@ -95,13 +96,11 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 
 
 # 🏅 Honors
-<!-- #### Doctor of Philosophy [Selected] -->
-#### Undergraduate [Selected]
 - *2024-2025 Academic Year* **Outstanding Graduates** of Zhejiang Province and **Graduate Entrance Examination Scholarship**
 - *2023-2024 Academic Year*, twice University **First-Class Scholarships** and **National Scholarship**
 - *2023-2024 Academic Year*, **Top 10 Outstanding Students** in the 6th "Youth of HDU" program
 - *2022-2023 Academic Year*, twice University **First-Class Scholarships** and **National Scholarship**
-- *2022-2023 Academic Year*, "Star of Innovation" of the **Top 100 Outstanding Students** in the 5th "Youth of HDU" program
+- *2022-2023 Academic Year*, "Innovation Star" of the **Top 100 Outstanding Students** in the 5th "Youth of HDU" program
 - *2021-2022 Academic Year*, twice University **First-Class Scholarships** and **Zhejiang Provincial Government Scholarship**
 
 <!--
@@ -117,8 +116,6 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 -->
 
 # 💰 Funding
-<!-- - #### Doctor of Philosophy [Selected] -->
-#### Undergraduate [Selected]
 - *2025* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program) (**Key Member**)
 - *2024* National Undergraduate Innovation and Entrepreneurship Training Program (**Key Member**)
 - *2024* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program) (**Project Lead**)
