@@ -43,7 +43,9 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2024.12.24*: 🎉🎉 Our paper has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/)!
 - *2024.12.21*: 🎉🎉 Our paper has been accepted by [ICASSP 2025](https://2025.ieeeicassp.org/)!
 - *2024.12.17*: 🎉🎉 Our paper has been accepted by [Scientific Data](https://www.nature.com/sdata/)!
+<!--
 - *2024.12.08*: 🎉🎉 Won **National First Prize** in China Postgraduate IC Innovation Competition · EDA Elite Challenge!
+-->
 
 # 📝 Publications
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -131,4 +133,4 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 
 # 💬 Academic Services
 + *Journal Reviewers* of: Sci. Rep., IJCARS, IMAVIS, JDIM, BMC AI, MACH VISION APPL, SIGNAL IMAGE VIDEO P.
-+ *Conference Reviewers* of: NeurIPS 2025, ECAI 2025, MICCAI 2025, CHIL 2025, ICECET 2025, ACDSA 2025.
++ *Conference Reviewers* of: NeurIPS 2025, ECAI 2025, MICCAI 2025, BMVC2025, CHIL 2025, ICECET 2025, ACDSA 2025.
