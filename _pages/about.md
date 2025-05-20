@@ -84,27 +84,24 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 
 - (**Oral**) [TC-DiffRecon: Texture coordination MRI reconstruction method based on diffusion model and modified MF-UNet method](https://ieeexplore.ieee.org/document/10635308), Chenyan Zhang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhenxiong Fan, Yiyu Huang, Wenchao Weng, Ruiquan Ge<sup>*</sup>, Dong Zeng, Changmiao Wang<sup>*</sup>, **ISBI 2024**
 
-<!--
 - [Deep Object Detection Network Based Automatic Spinopelvic Parameters Measurement Method for Adult Spinal Deformity Classification](https://ieeexplore.ieee.org/abstract/document/10212876), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Weiqing Hu, Binfeng Zou, Yitong Pan, Yunyang Ge, Feiwei Qin<sup>*</sup>, Liang Shan, **AINIT 2023**
 
 - [RTUNet++: Assessment of Osteosarcoma MRI Image Segmentation leveraging Hybrid CNN-Transformer Approach with Dense Skip Connection](https://ieeexplore.ieee.org/abstract/document/10270849), Binfeng Zou, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhanghao Chen, Yifei Sun, Yifan Huang, Feiwei Qin<sup>*</sup>, Changmiao Wang, **ICSIP 2023**
--->
 
-<!--
 #### Selected CONFERENCE ABSTRACTS [Full list is available in Google Scholar]
 - [DiffKAN: Convolutional Kolmogorov-Arnold Networks for Improved Diffusion MRI Microstructural Modeling](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Yuanhan Wang, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>, **ISMRM 2025**
 
 - [DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Shenghao Zhu, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>, **ISMRM 2025 Workshop on 40 Years of Diffusion**
--->
+
 
 # 🏅 Honors
 <!-- #### Doctor of Philosophy [Selected] -->
 #### Undergraduate [Selected]
 - *2024-2025 Academic Year* **Outstanding Graduates** of Zhejiang Province and **Graduate Entrance Examination Scholarship**
 - *2023-2024 Academic Year*, twice University **First-Class Scholarships** and **National Scholarship**
-- *2023-2024 Academic Year*, **Top 10 Students** in the 6th "Youth of HDU" program
+- *2023-2024 Academic Year*, **Top 10 Outstanding Students** in the 6th "Youth of HDU" program
 - *2022-2023 Academic Year*, twice University **First-Class Scholarships** and **National Scholarship**
-- *2022-2023 Academic Year*, "Star of Innovation" in the **Top 100 Outstanding Students** in the 5th "Youth of HDU" program
+- *2022-2023 Academic Year*, "Star of Innovation" of the **Top 100 Outstanding Students** in the 5th "Youth of HDU" program
 - *2021-2022 Academic Year*, twice University **First-Class Scholarships** and **Zhejiang Provincial Government Scholarship**
 
 <!--
@@ -118,7 +115,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2023* iCAN College Students' Innovation and Entrepreneurship Competition - **National First Prize**
 - *2023* MCM/ICM Mathematical Contest in Modeling - **International Second Prize**
 -->
-  
+
 # 💰 Funding
 <!-- - #### Doctor of Philosophy [Selected] -->
 #### Undergraduate [Selected]
