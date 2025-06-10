@@ -122,7 +122,9 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2023* National Undergraduate Innovation and Entrepreneurship Training Program (**Project Lead**, **Key Supporting Field Project**)
 
 # 👯 Academic Activities
-- *2025.05.10* Attended the 2025 ISMRM & ISMRT Annual Meeting & Exhibition in Hawaii, United States of America.
+- *2025.07.18* Attended the 2025 Medical Imaging Computing Seminar in Cixi, Zhejiang, China.
+- *2025.07.09* Attended the 2025 Medical Imaging with Deep Learning in Salt Lake City, Utah, United States of America.
+- *2025.05.10* Attended the 2025 ISMRM & ISMRT Annual Meeting & Exhibition in Honolulu, Hawaii, United States of America.
 - *2025.02.16* Attended the ISMRM 2025 Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan.
 
 # 💬 Academic Services
