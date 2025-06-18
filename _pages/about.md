@@ -127,6 +127,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 # 👯 Academic Activities
 - *2025.07.18* Attended the 2025 Medical Imaging Computing Seminar in Cixi, Zhejiang, China.
 - *2025.07.09* Attended the 2025 Medical Imaging with Deep Learning in Salt Lake City, Utah, United States of America.
+- *2025.06.20* Attended the 2025 China Biomedical Engineering Conference & Medical Innovation Summit in Suzhou, Jiangsu, China.
 - *2025.05.10* Attended the 2025 ISMRM & ISMRT Annual Meeting & Exhibition in Honolulu, Hawaii, United States of America.
 - *2025.02.16* Attended the ISMRM 2025 Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan.
 
