@@ -36,6 +36,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2021.09 - 2024.04*, The Chinese University of Hong Kong - Shenzhen, SRIBD Laboratory, Research under Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505)
 
 # 🔥 News
+- *2025.06.18*: 🎉🎉 Our paper has been accepted by [MICCAI 2025](https://miccai.org/)!
 - *2025.03.27*: 🎉🎉 Our paper has been accepted by [MIDL 2025](https://2025.midl.io/)!
 - *2025.02.01*: 🎉🎉 Our paper has been accepted by [ISMRM 2025](https://www.ismrm.org/)!
 - *2025.01.07*: 🎉🎉 Our paper has been accepted by [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)!
@@ -73,6 +74,8 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - [Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases](https://www.sciencedirect.com/science/article/abs/pii/S0010482524000015), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>*</sup>, Yong Peng, Yu Gao, **Computers in Biology and Medicine 2024**
 
 #### Selected CONFERENCE PAPERS [Full list is available in Google Scholar]
+- [Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest CT Using Weakly Supervised Deep Learning from Free-text Radiology Report](https://openreview.net/forum?id=ns6nq592HX), Xuguang Bai<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Hongjia Yang, Qiyuan Tian<sup>*</sup>, **MICCAI 2025**
+
 - [Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest CT Using Weakly Supervised Deep Learning from Free-text Radiology Report](https://openreview.net/forum?id=ns6nq592HX), Xuguang Bai<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Hongjia Yang, Qiyuan Tian<sup>*</sup>, **MIDL 2025**
 
 - [Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach](https://ieeexplore.ieee.org/abstract/document/10888363), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shenghao Zhu, Zhaojie Fang, Chang Liu, Binfeng Zou, Yuhe Wang, Shuo Chang, Fan Jia, Feiwei Qin<sup>*</sup>, Jin Fan, Yong Peng, Changmiao Wang, **ICASSP 2025**
