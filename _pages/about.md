@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<!--
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
--->
 
 <span class='anchor' id='about-me'></span>
 
@@ -24,10 +22,12 @@ I'm currently an incoming PhD. student at [BIRTH Lab](https://birthlab.github.io
 
 My research interests include Artificial Intelligence: Computer Vision, Pattern Recognition and AI for Medical (Specializing in). I’m looking to collaborate on: Medical Image Analysis, Multimodal for Medical and Large Model for Medical.
 
+<!--
 <a href='https://scholar.google.com/citations?user=coppwXUAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 [![](https://img.shields.io/github/stars/JustlfC03?style=social)](https://github.com/JustlfC03)
 <!-- [![](https://img.shields.io/badge/WeChat-%E5%BE%AE%E4%BF%A1-7BB32E?style=flat&logo=wechat&logoColor=white)](../images/wechat.png) -->
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+-->
 
 # 📖 Educations
 - *2025.09 - 2030.06*, Doctor of Philosophy student: Biomedical Engineering, Tsinghua University, Beijing, China.
