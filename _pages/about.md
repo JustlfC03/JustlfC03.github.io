@@ -38,6 +38,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2021.09 - 2024.04*, The Chinese University of Hong Kong - Shenzhen, SRIBD Laboratory, Research under Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505)
 
 # 🔥 News
+- *2025.07.09*: 🎉🎉 Our paper has been accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)!
 - *2025.06.18*: 🎉🎉 Our paper has been accepted by [MICCAI 2025](https://miccai.org/)!
 - *2025.03.27*: 🎉🎉 Our paper has been accepted by [MIDL 2025](https://2025.midl.io/)!
 - *2025.02.01*: 🎉🎉 Our paper has been accepted by [ISMRM 2025](https://www.ismrm.org/)!
@@ -67,6 +68,8 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 <span style="color:#b02418; font-weight:bold;">✝</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 #### Selected JOURNAL PAPERS [Full list is available in Google Scholar]
+- [MICCAI 2023 STS Challenge: A retrospective study of semi-supervised approaches for teeth segmentation](https://www.sciencedirect.com/science/article/pii/S0031320325007095), Yaqi Wang, Yifan Zhang, ..., <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, ... Jun Liu<sup>*</sup>, ..., Huiyu Zhou<sup>*</sup>, Qun Jin, **Pattern Recognition 2025**
+
 - [A multi-modal dental dataset for semi-supervised deep learning image segmentation](https://www.nature.com/articles/s41597-024-04306-9), Yaqi Wang, Fan Ye, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chengkai Wang, Chengyu Wu, Feng Xu, Zhean Ma, Yi Liu, Yifan Zhang, Mingguo Cao<sup>*</sup>, Xiaodiao Chen<sup>*</sup>, **Scientific Data 2025**
 
 - [LPUWF-LDM: Enhanced latent diffusion model for precise late-phase UWF-FA generation on limited dataset](https://www.sciencedirect.com/science/article/abs/pii/S0957417425000934), Zhaojie Fang, Xiao Yu, Guanyu Zhou, Ke Zhuang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Ruiquan Ge<sup>*</sup>, Changmiao Wang<sup>*</sup>, Gangyong Jia, Qing Wu, Juan Ye, Maimaiti Nuliqiman, Peifang Xu, Ahmed Elazab, **Expert Systems with Applications 2025**
@@ -82,7 +85,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 
 - [Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach](https://ieeexplore.ieee.org/abstract/document/10888363), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shenghao Zhu, Zhaojie Fang, Chang Liu, Binfeng Zou, Yuhe Wang, Shuo Chang, Fan Jia, Feiwei Qin<sup>*</sup>, Jin Fan, Yong Peng, Changmiao Wang, **ICASSP 2025**
 
-- (**Oral**) [XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision XLSTM and Heteromodal Variational Encoder-Decoder](https://justlfc03.github.io/), Shenghao Zhu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shuo Jiang, Weihong Chen, Chang Liu, Yuanhan Wang, Xu Chen, Yifan Ke, Feiwei Qin<sup>*</sup>, Changmiao Wang, Zhu Zhu<sup>*</sup>, **ISBI 2025**
+- (**Oral**) [XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision XLSTM and Heteromodal Variational Encoder-Decoder](https://ieeexplore.ieee.org/document/10981275), Shenghao Zhu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shuo Jiang, Weihong Chen, Chang Liu, Yuanhan Wang, Xu Chen, Yifan Ke, Feiwei Qin<sup>*</sup>, Changmiao Wang, Zhu Zhu<sup>*</sup>, **ISBI 2025**
 
 - [SCUNet++: Swin-UNet and CNN Bottleneck Hybrid Architecture with Multi-Fusion Dense Skip Connection for Pulmonary Embolism CT Image Segmentation](https://openaccess.thecvf.com/content/WACV2024/html/Chen_SCUNet_Swin-UNet_and_CNN_Bottleneck_Hybrid_Architecture_With_Multi-Fusion_Dense_WACV_2024_paper.html), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Binfeng Zou, Zhaoxin Guo, Yiyu Huang, Yifan Huang, Feiwei Qin<sup>*</sup>, Qinhai Li, Changmiao Wang<sup>*</sup>, **WACV 2024**
 
@@ -98,7 +101,6 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - [DiffKAN: Convolutional Kolmogorov-Arnold Networks for Improved Diffusion MRI Microstructural Modeling](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Yuanhan Wang, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>, **ISMRM 2025**
 
 - [DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Shenghao Zhu, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>, **ISMRM 2025 Workshop on 40 Years of Diffusion**
-
 
 # 🏅 Honors
 - *2024-2025 Academic Year* **Outstanding Graduates** of Zhejiang Province and **Graduate Entrance Examination Scholarship**
