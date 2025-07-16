@@ -38,7 +38,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2021.09 - 2024.04*, The Chinese University of Hong Kong - Shenzhen, SRIBD Laboratory, Research under Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505)
 
 # 🔥 News
-- *2025.07.16*: 🎉🎉 Our paper has been accepted by [MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis](https://pippiworkshop.github.io/)!
+- *2025.07.17*: 🎉🎉 Our paper has been accepted by [MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis](https://pippiworkshop.github.io/)!
 - *2025.07.09*: 🎉🎉 Our paper has been accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)!
 - *2025.06.18*: 🎉🎉 Our paper has been accepted by [MICCAI 2025](https://miccai.org/)!
 - *2025.03.27*: 🎉🎉 Our paper has been accepted by [MIDL 2025](https://2025.midl.io/)!
