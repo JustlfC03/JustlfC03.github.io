@@ -140,4 +140,4 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 
 # 💬 Academic Services
 + *Journal Reviewers* of: KBS, ESWA, COMPUT IND, CIBM, JSCI, MEAS, SR, MPB, IJCARS, IMAVIS, JDIM, BMC AI, MVA, SIVP, MEX, IRBM, DSP.
-+ *Conference Reviewers* of: NeurIPS 2025, ECAI 2025, MICCAI 2025, BMVC2025, CHIL 2025, SciPy 2025, ICECET 2025, ACDSA 2025.
++ *Conference Reviewers* of: NeurIPS 2025, AAAI 2025, ECAI 2025, MICCAI 2025, BMVC2025, CHIL 2025, SciPy 2025, ICECET 2025, ACDSA 2025.
