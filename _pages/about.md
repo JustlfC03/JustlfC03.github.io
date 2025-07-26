@@ -38,6 +38,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2021.09 - 2024.04*, The Chinese University of Hong Kong - Shenzhen, SRIBD Laboratory, Research under Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505)
 
 # 🔥 News
+- *2025.07.24*: 🎉🎉 Our paper has been accepted by [RSNA 2025](https://www.rsna.org/Annual-Meeting)!
 - *2025.07.17*: 🎉🎉 Our paper has been accepted by [MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis](https://pippiworkshop.github.io/)!
 - *2025.07.09*: 🎉🎉 Our paper has been accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)!
 - *2025.06.18*: 🎉🎉 Our paper has been accepted by [MICCAI 2025](https://miccai.org/)!
@@ -101,6 +102,8 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - [RTUNet++: Assessment of Osteosarcoma MRI Image Segmentation leveraging Hybrid CNN-Transformer Approach with Dense Skip Connection](https://ieeexplore.ieee.org/abstract/document/10270849), Binfeng Zou, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhanghao Chen, Yifei Sun, Yifan Huang, Feiwei Qin<sup>*</sup>, Changmiao Wang, **ICSIP 2023**
 
 #### Selected CONFERENCE ABSTRACTS [Full list is available in Google Scholar]
+- [HUMMID: High-fidelity Ultra-fast Macrostructure and Microstructure Imaging Using Deep Learning](https://justlfc03.github.io/), Yuhang He, Jialan Zheng, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Mingxuan Liu, Yi Liao, Haibo Qu, Ziyu Li<sup>*</sup>, **RSNA 2025**
+
 - [DiffKAN: Convolutional Kolmogorov-Arnold Networks for Improved Diffusion MRI Microstructural Modeling](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Yuanhan Wang, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>, **ISMRM 2025**
 
 - [DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Shenghao Zhu, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>, **ISMRM 2025 Workshop on 40 Years of Diffusion**
