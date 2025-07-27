@@ -102,7 +102,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - [RTUNet++: Assessment of Osteosarcoma MRI Image Segmentation leveraging Hybrid CNN-Transformer Approach with Dense Skip Connection](https://ieeexplore.ieee.org/abstract/document/10270849), Binfeng Zou, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhanghao Chen, Yifei Sun, Yifan Huang, Feiwei Qin<sup>*</sup>, Changmiao Wang, **ICSIP 2023**
 
 #### Selected CONFERENCE ABSTRACTS [Full list is available in Google Scholar]
-- [HUMMID: High-fidelity Ultra-fast Macrostructure and Microstructure Imaging Using Deep Learning](https://justlfc03.github.io/), Yuhang He, Jialan Zheng, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Mingxuan Liu, Yi Liao, Haibo Qu, Ziyu Li<sup>*</sup>, **RSNA 2025**
+- [HUMMID: High-fidelity Ultra-fast Macrostructure and Microstructure Imaging Using Deep Learning](https://justlfc03.github.io/), Yuhang He, Jialan Zheng, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Mingxuan Liu, Qiuyuan Fan, Yi Liao, Haibo Qu, Qiyuan Tian, Jie Lu, Ziyu Li<sup>*</sup>, **RSNA 2025**
 
 - [DiffKAN: Convolutional Kolmogorov-Arnold Networks for Improved Diffusion MRI Microstructural Modeling](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Yuanhan Wang, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>, **ISMRM 2025**
 
