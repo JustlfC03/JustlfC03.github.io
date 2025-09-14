@@ -110,11 +110,11 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 
 # 🏅 Honors
 - *2024-2025 Academic Year* **Outstanding Graduates of Zhejiang Province** and **Graduate Entrance Examination Scholarship**.
-- *2023-2024 Academic Year*, twice University **First-Class Scholarships** and **National Scholarship**.
+- *2023-2024 Academic Year*, twice **University First-Class Scholarships** and **National Scholarship**.
 - *2023-2024 Academic Year*, **Top 10 Outstanding Students** in the 6th "Youth of HDU" program.
-- *2022-2023 Academic Year*, twice University **First-Class Scholarships** and **National Scholarship**.
+- *2022-2023 Academic Year*, twice **University First-Class Scholarships** and **National Scholarship**.
 - *2022-2023 Academic Year*, "Innovation Star" of the **Top 100 Outstanding Students** in the 5th "Youth of HDU" program.
-- *2021-2022 Academic Year*, twice University **First-Class Scholarships** and **Zhejiang Provincial Government Scholarship**.
+- *2021-2022 Academic Year*, twice **University First-Class Scholarships** and **Zhejiang Provincial Government Scholarship**.
 
 <!--
 - *2024* China Postgraduate IC Innovation Competition · EDA Elite Challenge - **National First Prize**
@@ -129,9 +129,9 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 -->
 
 # 💰 Funding
-- *2025* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program) (**Key Member**).
+- *2025* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (**Key Member**, **New Talent Program**).
 - *2024* National Undergraduate Innovation and Entrepreneurship Training Program (**Key Member**).
-- *2024* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program) (**Project Lead**).
+- *2024* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (**Key Member**, **New Talent Program**).
 - *2023* National Undergraduate Innovation and Entrepreneurship Training Program (**Project Lead**, **Key Supporting Field Project**).
 
 # 👯 Academic Activities
