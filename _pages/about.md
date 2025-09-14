@@ -34,8 +34,8 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2021.09 - 2025.06*, Undergraduate student: Computer Science of Technology, Hangzhou Dianzi University, Hangzhou, China. 
 
 # 💻 Internships
-- *2024.05 - 2024.08*, The Hong Kong University of Science and Technology, Smart Lab Laboratory, Research under Professor [Hao Chen（陈浩）](https://seng.hkust.edu.hk/about/people/faculty/hao-chen)
-- *2021.09 - 2024.04*, The Chinese University of Hong Kong - Shenzhen, SRIBD Laboratory, Research under Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505)
+- *2024.05 - 2024.08*, The Hong Kong University of Science and Technology, Smart Lab Laboratory, Research under Professor [Hao Chen（陈浩）](https://seng.hkust.edu.hk/about/people/faculty/hao-chen).
+- *2021.09 - 2024.04*, The Chinese University of Hong Kong - Shenzhen, SRIBD Laboratory, Research under Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505).
 
 # 🔥 News
 - *2025.07.24*: 🎉🎉 Our paper has been accepted by [RSNA 2025](https://www.rsna.org/Annual-Meeting)!
@@ -70,51 +70,51 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 <span style="color:#b02418; font-weight:bold;">✝</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 #### Selected JOURNAL PAPERS [Full list is available in Google Scholar]
-- [MICCAI 2023 STS Challenge: A retrospective study of semi-supervised approaches for teeth segmentation](https://www.sciencedirect.com/science/article/pii/S0031320325007095), Yaqi Wang, Yifan Zhang, ..., <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, ... Jun Liu<sup>*</sup>, ..., Huiyu Zhou<sup>*</sup>, Qun Jin, **Pattern Recognition 2025**
+- [MICCAI 2023 STS Challenge: A retrospective study of semi-supervised approaches for teeth segmentation](https://www.sciencedirect.com/science/article/pii/S0031320325007095), Yaqi Wang, Yifan Zhang, ..., <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, ... Jun Liu<sup>*</sup>, ..., Huiyu Zhou<sup>*</sup>, Qun Jin, **Pattern Recognition 2025**.
 
-- [A multi-modal dental dataset for semi-supervised deep learning image segmentation](https://www.nature.com/articles/s41597-024-04306-9), Yaqi Wang, Fan Ye, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chengkai Wang, Chengyu Wu, Feng Xu, Zhean Ma, Yi Liu, Yifan Zhang, Mingguo Cao<sup>*</sup>, Xiaodiao Chen<sup>*</sup>, **Scientific Data 2025**
+- [A multi-modal dental dataset for semi-supervised deep learning image segmentation](https://www.nature.com/articles/s41597-024-04306-9), Yaqi Wang, Fan Ye, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chengkai Wang, Chengyu Wu, Feng Xu, Zhean Ma, Yi Liu, Yifan Zhang, Mingguo Cao<sup>*</sup>, Xiaodiao Chen<sup>*</sup>, **Scientific Data 2025**.
 
-- [LPUWF-LDM: Enhanced latent diffusion model for precise late-phase UWF-FA generation on limited dataset](https://www.sciencedirect.com/science/article/abs/pii/S0957417425000934), Zhaojie Fang, Xiao Yu, Guanyu Zhou, Ke Zhuang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Ruiquan Ge<sup>*</sup>, Changmiao Wang<sup>*</sup>, Gangyong Jia, Qing Wu, Juan Ye, Maimaiti Nuliqiman, Peifang Xu, Ahmed Elazab, **Expert Systems with Applications 2025**
+- [LPUWF-LDM: Enhanced latent diffusion model for precise late-phase UWF-FA generation on limited dataset](https://www.sciencedirect.com/science/article/abs/pii/S0957417425000934), Zhaojie Fang, Xiao Yu, Guanyu Zhou, Ke Zhuang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Ruiquan Ge<sup>*</sup>, Changmiao Wang<sup>*</sup>, Gangyong Jia, Qing Wu, Juan Ye, Maimaiti Nuliqiman, Peifang Xu, Ahmed Elazab, **Expert Systems with Applications 2025**.
 
-- [Sckansformer: Fine-grained classification of bone marrow cells via kansformer backbone and hierarchical attention mechanisms](https://ieeexplore.ieee.org/abstract/document/10713291), <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhu Zhu<sup>✝, *</sup>, Shenghao Zhu, Linwei Qiu, Binfeng Zou, Fan Jia, Yunpeng Zhu, Chenyan Zhang, Zhaojie Fang, Feiwei Qin<sup>*</sup>, Jin Fan, Changmiao Wang, Gang Yu, Yu Gao, **IEEE Journal of Biomedical and Health Informatics 2024**
+- [Sckansformer: Fine-grained classification of bone marrow cells via kansformer backbone and hierarchical attention mechanisms](https://ieeexplore.ieee.org/abstract/document/10713291), <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhu Zhu<sup>✝, *</sup>, Shenghao Zhu, Linwei Qiu, Binfeng Zou, Fan Jia, Yunpeng Zhu, Chenyan Zhang, Zhaojie Fang, Feiwei Qin<sup>*</sup>, Jin Fan, Changmiao Wang, Gang Yu, Yu Gao, **IEEE Journal of Biomedical and Health Informatics 2024**.
 
-- [Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases](https://www.sciencedirect.com/science/article/abs/pii/S0010482524000015), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>*</sup>, Yong Peng, Yu Gao, **Computers in Biology and Medicine 2024**
+- [Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases](https://www.sciencedirect.com/science/article/abs/pii/S0010482524000015), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>*</sup>, Yong Peng, Yu Gao, **Computers in Biology and Medicine 2024**.
 
 #### Selected CONFERENCE PAPERS [Full list is available in Google Scholar]
-- (**Oral**) [FetalExtract-LLM: Structured Information Extraction from Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models](https://justlfc03.github.io/), Mingxuan Liu<sup>✝</sup>, Yijin Li<sup>✝</sup>, Juncheng Zhu<sup>✝</sup>, Hongjia Yang, Yiming Huang, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian<sup>*</sup>, **MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis**
+- (**Oral**) [FetalExtract-LLM: Structured Information Extraction from Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models](https://justlfc03.github.io/), Mingxuan Liu<sup>✝</sup>, Yijin Li<sup>✝</sup>, Juncheng Zhu<sup>✝</sup>, Hongjia Yang, Yiming Huang, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian<sup>*</sup>, **MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis**.
 
-- [Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation](https://justlfc03.github.io/), Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Yuanhan Wang, Chang Liu, Shuo Jiang, Changmiao Wang, Feiwei Qin<sup>*</sup>, **MICCAI 2025**
+- [Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation](https://justlfc03.github.io/), Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Yuanhan Wang, Chang Liu, Shuo Jiang, Changmiao Wang, Feiwei Qin<sup>*</sup>, **MICCAI 2025**.
 
-- [Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest CT Using Weakly Supervised Deep Learning from Free-text Radiology Report](https://openreview.net/forum?id=ns6nq592HX), Xuguang Bai<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Hongjia Yang, Qiyuan Tian<sup>*</sup>, **MIDL 2025**
+- [Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest CT Using Weakly Supervised Deep Learning from Free-text Radiology Report](https://openreview.net/forum?id=ns6nq592HX), Xuguang Bai<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Hongjia Yang, Qiyuan Tian<sup>*</sup>, **MIDL 2025**.
 
-- [Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach](https://ieeexplore.ieee.org/abstract/document/10888363), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shenghao Zhu, Zhaojie Fang, Chang Liu, Binfeng Zou, Yuhe Wang, Shuo Chang, Fan Jia, Feiwei Qin<sup>*</sup>, Jin Fan, Yong Peng, Changmiao Wang, **ICASSP 2025**
+- [Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach](https://ieeexplore.ieee.org/abstract/document/10888363), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shenghao Zhu, Zhaojie Fang, Chang Liu, Binfeng Zou, Yuhe Wang, Shuo Chang, Fan Jia, Feiwei Qin<sup>*</sup>, Jin Fan, Yong Peng, Changmiao Wang, **ICASSP 2025**.
 
-- (**Oral**) [XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision XLSTM and Heteromodal Variational Encoder-Decoder](https://ieeexplore.ieee.org/document/10981275), Shenghao Zhu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shuo Jiang, Weihong Chen, Chang Liu, Yuanhan Wang, Xu Chen, Yifan Ke, Feiwei Qin<sup>*</sup>, Changmiao Wang, Zhu Zhu<sup>*</sup>, **ISBI 2025**
+- (**Oral**) [XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision XLSTM and Heteromodal Variational Encoder-Decoder](https://ieeexplore.ieee.org/document/10981275), Shenghao Zhu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shuo Jiang, Weihong Chen, Chang Liu, Yuanhan Wang, Xu Chen, Yifan Ke, Feiwei Qin<sup>*</sup>, Changmiao Wang, Zhu Zhu<sup>*</sup>, **ISBI 2025**.
 
-- [SCUNet++: Swin-UNet and CNN Bottleneck Hybrid Architecture with Multi-Fusion Dense Skip Connection for Pulmonary Embolism CT Image Segmentation](https://openaccess.thecvf.com/content/WACV2024/html/Chen_SCUNet_Swin-UNet_and_CNN_Bottleneck_Hybrid_Architecture_With_Multi-Fusion_Dense_WACV_2024_paper.html), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Binfeng Zou, Zhaoxin Guo, Yiyu Huang, Yifan Huang, Feiwei Qin<sup>*</sup>, Qinhai Li, Changmiao Wang<sup>*</sup>, **WACV 2024**
+- [SCUNet++: Swin-UNet and CNN Bottleneck Hybrid Architecture with Multi-Fusion Dense Skip Connection for Pulmonary Embolism CT Image Segmentation](https://openaccess.thecvf.com/content/WACV2024/html/Chen_SCUNet_Swin-UNet_and_CNN_Bottleneck_Hybrid_Architecture_With_Multi-Fusion_Dense_WACV_2024_paper.html), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Binfeng Zou, Zhaoxin Guo, Yiyu Huang, Yifan Huang, Feiwei Qin<sup>*</sup>, Qinhai Li, Changmiao Wang<sup>*</sup>, **WACV 2024**.
 
-- [Semi-supervised Medical Image Segmentation Method Based on Cross-pseudo Labeling Leveraging Strong and Weak Data Augmentation Strategies](https://ieeexplore.ieee.org/document/10635443), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Yifan Ke, Yiyu Huang, Xuezhou Dai, Feiwei Qin<sup>*</sup>, Yongquan Zhang, Xiaodong Zhang, Changmiao Wang<sup>*</sup>, **ISBI 2024**
+- [Semi-supervised Medical Image Segmentation Method Based on Cross-pseudo Labeling Leveraging Strong and Weak Data Augmentation Strategies](https://ieeexplore.ieee.org/document/10635443), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Yifan Ke, Yiyu Huang, Xuezhou Dai, Feiwei Qin<sup>*</sup>, Yongquan Zhang, Xiaodong Zhang, Changmiao Wang<sup>*</sup>, **ISBI 2024**.
 
-- (**Oral**) [TC-DiffRecon: Texture coordination MRI reconstruction method based on diffusion model and modified MF-UNet method](https://ieeexplore.ieee.org/document/10635308), Chenyan Zhang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhenxiong Fan, Yiyu Huang, Wenchao Weng, Ruiquan Ge<sup>*</sup>, Dong Zeng, Changmiao Wang<sup>*</sup>, **ISBI 2024**
+- (**Oral**) [TC-DiffRecon: Texture coordination MRI reconstruction method based on diffusion model and modified MF-UNet method](https://ieeexplore.ieee.org/document/10635308), Chenyan Zhang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhenxiong Fan, Yiyu Huang, Wenchao Weng, Ruiquan Ge<sup>*</sup>, Dong Zeng, Changmiao Wang<sup>*</sup>, **ISBI 2024**.
 
-- [Deep Object Detection Network Based Automatic Spinopelvic Parameters Measurement Method for Adult Spinal Deformity Classification](https://ieeexplore.ieee.org/abstract/document/10212876), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Weiqing Hu, Binfeng Zou, Yitong Pan, Yunyang Ge, Feiwei Qin<sup>*</sup>, Liang Shan, **AINIT 2023**
+- [Deep Object Detection Network Based Automatic Spinopelvic Parameters Measurement Method for Adult Spinal Deformity Classification](https://ieeexplore.ieee.org/abstract/document/10212876), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Weiqing Hu, Binfeng Zou, Yitong Pan, Yunyang Ge, Feiwei Qin<sup>*</sup>, Liang Shan, **AINIT 2023**.
 
-- [RTUNet++: Assessment of Osteosarcoma MRI Image Segmentation leveraging Hybrid CNN-Transformer Approach with Dense Skip Connection](https://ieeexplore.ieee.org/abstract/document/10270849), Binfeng Zou, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhanghao Chen, Yifei Sun, Yifan Huang, Feiwei Qin<sup>*</sup>, Changmiao Wang, **ICSIP 2023**
+- [RTUNet++: Assessment of Osteosarcoma MRI Image Segmentation leveraging Hybrid CNN-Transformer Approach with Dense Skip Connection](https://ieeexplore.ieee.org/abstract/document/10270849), Binfeng Zou, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhanghao Chen, Yifei Sun, Yifan Huang, Feiwei Qin<sup>*</sup>, Changmiao Wang, **ICSIP 2023**.
 
 #### Selected CONFERENCE ABSTRACTS [Full list is available in Google Scholar]
-- [HUMMID: High-fidelity Ultra-fast Macrostructure and Microstructure Imaging Using Deep Learning](https://justlfc03.github.io/), Yuhang He, Jialan Zheng, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Mingxuan Liu, Qiuyuan Fan, Yi Liao, Haibo Qu, Qiyuan Tian, Jie Lu, Ziyu Li<sup>*</sup>, **RSNA 2025**
+- [HUMMID: High-fidelity Ultra-fast Macrostructure and Microstructure Imaging Using Deep Learning](https://justlfc03.github.io/), Yuhang He, Jialan Zheng, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Mingxuan Liu, Qiuyuan Fan, Yi Liao, Haibo Qu, Qiyuan Tian, Jie Lu, Ziyu Li<sup>*</sup>, **RSNA 2025**.
 
-- [DiffKAN: Convolutional Kolmogorov-Arnold Networks for Improved Diffusion MRI Microstructural Modeling](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Yuanhan Wang, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>, **ISMRM 2025**
+- [DiffKAN: Convolutional Kolmogorov-Arnold Networks for Improved Diffusion MRI Microstructural Modeling](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Yuanhan Wang, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>, **ISMRM 2025**.
 
-- [DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Shenghao Zhu, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>, **ISMRM 2025 Workshop on 40 Years of Diffusion**
+- [DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Shenghao Zhu, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>, **ISMRM 2025 Workshop on 40 Years of Diffusion**.
 
 # 🏅 Honors
-- *2024-2025 Academic Year* **Outstanding Graduates** of Zhejiang Province and **Graduate Entrance Examination Scholarship**
-- *2023-2024 Academic Year*, twice University **First-Class Scholarships** and **National Scholarship**
-- *2023-2024 Academic Year*, **Top 10 Outstanding Students** in the 6th "Youth of HDU" program
-- *2022-2023 Academic Year*, twice University **First-Class Scholarships** and **National Scholarship**
-- *2022-2023 Academic Year*, "Innovation Star" of the **Top 100 Outstanding Students** in the 5th "Youth of HDU" program
-- *2021-2022 Academic Year*, twice University **First-Class Scholarships** and **Zhejiang Provincial Government Scholarship**
+- *2024-2025 Academic Year* **Outstanding Graduates** of Zhejiang Province and **Graduate Entrance Examination Scholarship**.
+- *2023-2024 Academic Year*, twice University **First-Class Scholarships** and **National Scholarship**.
+- *2023-2024 Academic Year*, **Top 10 Outstanding Students** in the 6th "Youth of HDU" program.
+- *2022-2023 Academic Year*, twice University **First-Class Scholarships** and **National Scholarship**.
+- *2022-2023 Academic Year*, "Innovation Star" of the **Top 100 Outstanding Students** in the 5th "Youth of HDU" program.
+- *2021-2022 Academic Year*, twice University **First-Class Scholarships** and **Zhejiang Provincial Government Scholarship**.
 
 <!--
 - *2024* China Postgraduate IC Innovation Competition · EDA Elite Challenge - **National First Prize**
@@ -129,13 +129,14 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 -->
 
 # 💰 Funding
-- *2025* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program) (**Key Member**)
-- *2024* National Undergraduate Innovation and Entrepreneurship Training Program (**Key Member**)
-- *2024* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program) (**Project Lead**)
-- *2023* National Undergraduate Innovation and Entrepreneurship Training Program (**Project Lead**, **Key Supporting Field Project**)
+- *2025* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program) (**Key Member**).
+- *2024* National Undergraduate Innovation and Entrepreneurship Training Program (**Key Member**).
+- *2024* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program) (**Project Lead**).
+- *2023* National Undergraduate Innovation and Entrepreneurship Training Program (**Project Lead**, **Key Supporting Field Project**).
 
 # 👯 Academic Activities
 - *2025.09.23* Attended the 2025 International Conference on Medical Image Computing and Computer Assisted Intervention in Daejeon, Korea.
+- *2025.09.09* Attended the 2025 Beijing Radiology Quality Control Conference in Beijing, China.
 - *2025.07.18* Attended the 2025 Medical Imaging Computing Seminar in Cixi, Zhejiang, China.
 - *2025.07.09* Attended the 2025 Medical Imaging with Deep Learning in Salt Lake City, Utah, United States of America.
 - *2025.06.20* Attended the 2025 China Biomedical Engineering Conference & Medical Innovation Summit in Suzhou, Jiangsu, China.
