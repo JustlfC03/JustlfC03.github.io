@@ -39,8 +39,8 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 
 # 🔥 News
 - *2025.10.05*: 🎉🎉 Our two papers have been accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/) (**Oral**)!
-- *2025.09.27*: 🎉🎉 won 1st place in the [MICCAI autoPET Challenge](https://autopet-iv.grand-challenge.org/)!
-- *2025.09.23*: 🎉🎉 won 2nd place in the [MICCAI VLM3D Challenge](https://vlm3dchallenge.com/miccai-program/) and 3rd place in the [MICCAI HECKTOR Challenge](https://hecktor25.grand-challenge.org/)!
+- *2025.09.27*: 🎉🎉 Won 1st place in the [MICCAI autoPET Challenge](https://autopet-iv.grand-challenge.org/)!
+- *2025.09.23*: 🎉🎉 Won 2nd place in the [MICCAI VLM3D Challenge](https://vlm3dchallenge.com/miccai-program/) and 3rd place in the [MICCAI HECKTOR Challenge](https://hecktor25.grand-challenge.org/)!
 - *2025.07.24*: 🎉🎉 Our paper has been accepted by [RSNA 2025](https://www.rsna.org/Annual-Meeting)!
 - *2025.07.17*: 🎉🎉 Our paper has been accepted by [MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis](https://pippiworkshop.github.io/) (**Oral**)!
 - *2025.07.09*: 🎉🎉 Our paper has been accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)!
