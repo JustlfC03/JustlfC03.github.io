@@ -142,7 +142,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2023* National Undergraduate Innovation and Entrepreneurship Training Program (**Project Lead**, **Key Supporting Field Project**).
 
 # 👯 Academic Activities
-- *2025.09.10* Attended the 2025 International Symposium on Image Computing and Digital Medicine in Beijing, China.
+- *2025.10.10* Attended the 2025 International Symposium on Image Computing and Digital Medicine in Beijing, China.
 - *2025.09.23* Attended the 2025 International Conference on Medical Image Computing and Computer Assisted Intervention in Daejeon, Korea.
 - *2025.09.09* Attended the 2025 Beijing Radiology Quality Control Conference in Beijing, China.
 - *2025.07.18* Attended the 2025 Medical Imaging Computing Seminar in Cixi, Zhejiang, China.
