@@ -38,6 +38,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2021.09 - 2024.04*, The Chinese University of Hong Kong (Shenzhen), SRIBD Laboratory, advised by Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505).
 
 # 🔥 News
+- *2025.10.21*: 🎉🎉 Our paper has been accepted by [JBHI](https://www.embs.org/jbhi/)!
 - *2025.10.05*: 🎉🎉 Our two papers have been accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/) (**Oral**)!
 - *2025.09.27*: 🎉🎉 Won 1st place in the [MICCAI autoPET Challenge](https://autopet-iv.grand-challenge.org/)!
 - *2025.09.23*: 🎉🎉 Won 2nd place in the [MICCAI VLM3D Challenge](https://vlm3dchallenge.com/miccai-program/) and 3rd place in the [MICCAI HECKTOR Challenge](https://hecktor25.grand-challenge.org/)!
@@ -73,6 +74,8 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 <span style="color:#b02418; font-weight:bold;">✝</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 #### Selected JOURNAL PAPERS [Full list is available in Google Scholar]
+- [Tc-kanrecon: High-quality and accelerated mri reconstruction via adaptive kan mechanisms and intelligent feature scaling](https://justlfc03.github.io/), Ruiquan Ge, Xiao Yu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Fan Jia, Shenghao Zhu, Dong Zeng, Changmiao Wang, Qiegen Liu<sup>*</sup>, Shanzhou Niu<sup>*</sup>, **IEEE Journal of Biomedical and Health Informatics 2025**.
+
 - [MICCAI 2023 STS Challenge: A retrospective study of semi-supervised approaches for teeth segmentation](https://www.sciencedirect.com/science/article/pii/S0031320325007095), Yaqi Wang, Yifan Zhang, ..., <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, ... Jun Liu<sup>*</sup>, ..., Huiyu Zhou<sup>*</sup>, Qun Jin, **Pattern Recognition 2025**.
 
 - [A multi-modal dental dataset for semi-supervised deep learning image segmentation](https://www.nature.com/articles/s41597-024-04306-9), Yaqi Wang, Fan Ye, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chengkai Wang, Chengyu Wu, Feng Xu, Zhean Ma, Yi Liu, Yifan Zhang, Mingguo Cao<sup>*</sup>, Xiaodiao Chen<sup>*</sup>, **Scientific Data 2025**.
