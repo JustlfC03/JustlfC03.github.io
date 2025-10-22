@@ -38,7 +38,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2021.09 - 2024.04*, The Chinese University of Hong Kong (Shenzhen), SRIBD Laboratory, advised by Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505).
 
 # 🔥 News
-- *2025.10.21*: 🎉🎉 Our paper has been accepted by [JBHI](https://www.embs.org/jbhi/)!
+- *2025.10.21*: 🎉🎉 Our paper has been accepted by [IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/)!
 - *2025.10.05*: 🎉🎉 Our two papers have been accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/) (**Oral**)!
 - *2025.09.27*: 🎉🎉 Won 1st place in the [MICCAI autoPET Challenge](https://autopet-iv.grand-challenge.org/)!
 - *2025.09.23*: 🎉🎉 Won 2nd place in the [MICCAI VLM3D Challenge](https://vlm3dchallenge.com/miccai-program/) and 3rd place in the [MICCAI HECKTOR Challenge](https://hecktor25.grand-challenge.org/)!
