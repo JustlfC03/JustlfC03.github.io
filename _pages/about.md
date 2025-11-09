@@ -38,6 +38,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2021.09 - 2024.04*, The Chinese University of Hong Kong (Shenzhen), SRIBD Laboratory, advised by Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505).
 
 # 🔥 News
+- *2025.11.08*: 🎉🎉 Our paper has been accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)!
 - *2025.10.21*: 🎉🎉 Our paper has been accepted by [IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/)!
 - *2025.10.05*: 🎉🎉 Our two papers have been accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/) (**Oral**)!
 - *2025.09.27*: 🎉🎉 Won 1st place in the [MICCAI autoPET Challenge](https://autopet-iv.grand-challenge.org/)!
@@ -87,13 +88,15 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - [Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases](https://www.sciencedirect.com/science/article/abs/pii/S0010482524000015), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>*</sup>, Yong Peng, Yu Gao, **Computers in Biology and Medicine 2024**.
 
 #### Selected CONFERENCE PAPERS [Full list is available in Google Scholar]
+- [IE-SRGS: An Internal-External Knowledge Fusion Framework for High-Fidelity 3D Gaussian Splatting Super-Resolution](https://justlfc03.github.io/), Xiang Feng<sup>✝</sup>, Tieshi Zhong<sup>✝</sup>, Shuo Chang, Weiliu Wang, Chengkai Wang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Tongyu Hu, Yuhe Wang, Zhenzhong Kuang<sup>*</sup>, Xuefei Yin, Yanming Zhu<sup>*</sup>, **AAAI 2026**.
+
 - (**Oral**) [WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation](https://justlfc03.github.io/), Guanyu Zhou<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Gaoxiang Ying, Mingxuan Liu, Xuguang Bai, Jialan Zheng, Bixiao Cui, Qiyuan Tian<sup>*</sup>, Jie Lu, **BIBM 2025**.
 
 - (**Oral**) [DR-TTA: Dynamic and Robust Test-Time Adaptation Under Low-Quality MRI Conditions for Brain Tumor Segmentation](https://justlfc03.github.io/), Yuanhan Wang<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Shuo Jiang, Wenjing Yu, Mingxuan Liu, Beining Wu, Shenghao Zhu, Feiwei Qin<sup>*</sup>, Jin Fan, and Changmiao Wang, **BIBM 2025**.
 
-- (**Oral**) [FetalExtract-LLM: Structured Information Extraction from Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models](https://justlfc03.github.io/), Mingxuan Liu<sup>✝</sup>, Yijin Li<sup>✝</sup>, Juncheng Zhu<sup>✝</sup>, Hongjia Yang, Yiming Huang, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian<sup>*</sup>, **MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis**.
+- (**Oral**) [FetalExtract-LLM: Structured Information Extraction from Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models](https://link.springer.com/chapter/10.1007/978-3-032-05997-0_11), Mingxuan Liu<sup>✝</sup>, Yijin Li<sup>✝</sup>, Juncheng Zhu<sup>✝</sup>, Hongjia Yang, Yiming Huang, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian<sup>*</sup>, **MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis**.
 
-- [Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation](https://justlfc03.github.io/), Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Yuanhan Wang, Chang Liu, Shuo Jiang, Changmiao Wang, Feiwei Qin<sup>*</sup>, **MICCAI 2025**.
+- [Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation](https://link.springer.com/chapter/10.1007/978-3-032-04984-1_10，), Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Yuanhan Wang, Chang Liu, Shuo Jiang, Changmiao Wang, Feiwei Qin<sup>*</sup>, **MICCAI 2025**.
 
 - [Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest CT Using Weakly Supervised Deep Learning from Free-text Radiology Report](https://openreview.net/forum?id=ns6nq592HX), Xuguang Bai<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Hongjia Yang, Qiyuan Tian<sup>*</sup>, **MIDL 2025**.
 
