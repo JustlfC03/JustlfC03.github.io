@@ -75,7 +75,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 <span style="color:#b02418; font-weight:bold;">✝</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 #### Selected JOURNAL PAPERS [Full list is available in Google Scholar]
-- [Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model](https://justlfc03.github.io/), Changwei Wu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup><sup>*</sup></span>, Yuxin Du, Jinying Zong, Jie Dong, Mingxuan Liu, Feiwei Qin<sup>*</sup>, Yong Peng, Jin Fan, Changmiao Wang, **Biomedical Signal Processing and Control 2026**.
+- [Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model](https://justlfc03.github.io/), Changwei Wu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝, *</span>, Yuxin Du, Jinying Zong, Jie Dong, Mingxuan Liu, Feiwei Qin<sup>*</sup>, Yong Peng, Jin Fan, Changmiao Wang, **Biomedical Signal Processing and Control 2026**.
 
 - [Tc-kanrecon: High-quality and accelerated mri reconstruction via adaptive kan mechanisms and intelligent feature scaling](https://justlfc03.github.io/), Ruiquan Ge, Xiao Yu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Fan Jia, Shenghao Zhu, Dong Zeng, Changmiao Wang, Qiegen Liu<sup>*</sup>, Shanzhou Niu<sup>*</sup>, **IEEE Journal of Biomedical and Health Informatics 2025**.
 
