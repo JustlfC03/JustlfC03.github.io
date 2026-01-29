@@ -166,5 +166,5 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2025.02.16* Attended the ISMRM 2025 Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan.
 
 # 💬 Academic Services
-+ *Journal Reviewers* of: EAAI, KBS, ESWA, JBHI, COMPAG, COMPUT IND, CIBM, CMIG, BSPC, JSCI, MEAS, SR, MPB, IJCARS, IMAVIS, JDIM, DISPLA, BMC AI, MVA, SIVP, MEX, IRBM, DSP, Discover AI, COMPJ.
++ *Journal Reviewers* of: TCSVT, EAAI, KBS, ESWA, JBHI, COMPAG, COMPUT IND, CIBM, CMIG, BSPC, JSCI, MEAS, SR, MPB, IJCARS, IMAVIS, JDIM, DISPLA, BMC AI, MVA, SIVP, MEX, IRBM, DSP, Discover AI, COMPJ.
 + *Conference Reviewers* of: CVPR 2026, ECCV 2026, MIDL 2026, ICME 2026, ICASSP 2026, ISMRM 2026, NeurIPS 2025, AAAI 2025, ECAI 2025, MICCAI 2025, BMVC2025, CHIL 2025, SciPy 2025, ICECET 2025, ACDSA 2025.
