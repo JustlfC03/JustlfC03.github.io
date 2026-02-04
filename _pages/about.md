@@ -38,21 +38,22 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2021.09 - 2024.04*, The Chinese University of Hong Kong (Shenzhen), SRIBD Laboratory, advised by Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505).
 
 # 🔥 News
+- *2026.02.04*: 🎉🎉 Our abstract has been accepted by [ISMRM 2026](https://www.ismrm.org/26m/)!
 - *2026.01.27*: 🎉🎉 Our two abstracts has been accepted by [ISMRM Workshop on Unlocking the Potential of Prenatal MRI](https://www.ismrm.org/workshops/2026/PrenatalMRI/)!
 - *2026.01.09*: 🎉🎉 Our paper has been accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)!
 - *2025.11.08*: 🎉🎉 Our paper has been accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)!
 - *2025.10.21*: 🎉🎉 Our paper has been accepted by [IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/)!
-- *2025.10.05*: 🎉🎉 Our two papers have been accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/) (**Oral**)!
+- *2025.10.05*: 🎉🎉 Our two papers have been accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)!
 - *2025.09.27*: 🎉🎉 Won 1st place in the [MICCAI autoPET Challenge](https://autopet-iv.grand-challenge.org/)!
 - *2025.09.23*: 🎉🎉 Won 2nd place in the [MICCAI VLM3D Challenge](https://vlm3dchallenge.com/miccai-program/) and 3rd place in the [MICCAI HECKTOR Challenge](https://hecktor25.grand-challenge.org/)!
 - *2025.07.24*: 🎉🎉 Our paper has been accepted by [RSNA 2025](https://www.rsna.org/Annual-Meeting)!
-- *2025.07.17*: 🎉🎉 Our paper has been accepted by [MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis](https://pippiworkshop.github.io/) (**Oral**)!
+- *2025.07.17*: 🎉🎉 Our paper has been accepted by [MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis](https://pippiworkshop.github.io/)!
 - *2025.07.09*: 🎉🎉 Our paper has been accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)!
-- *2025.06.18*: 🎉🎉 Our paper has been accepted by [MICCAI 2025](https://miccai.org/)!
+- *2025.06.18*: 🎉🎉 Our paper has been accepted by [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp)!
 - *2025.03.27*: 🎉🎉 Our paper has been accepted by [MIDL 2025](https://2025.midl.io/)!
-- *2025.02.01*: 🎉🎉 Our abstract has been accepted by [ISMRM 2025](https://www.ismrm.org/)!
+- *2025.02.01*: 🎉🎉 Our abstract has been accepted by [ISMRM 2025](https://www.ismrm.org/25m/)!
 - *2025.01.07*: 🎉🎉 Our paper has been accepted by [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)!
-- *2025.01.03*: 🎉🎉 Our paper has been accepted by [ISBI 2025](https://biomedicalimaging.org/2025/) (**Oral**)!
+- *2025.01.03*: 🎉🎉 Our paper has been accepted by [ISBI 2025](https://biomedicalimaging.org/2025/)!
 - *2024.12.24*: 🎉🎉 Our abstract has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/)!
 - *2024.12.21*: 🎉🎉 Our paper has been accepted by [ICASSP 2025](https://2025.ieeeicassp.org/)!
 - *2024.12.17*: 🎉🎉 Our paper has been accepted by [Scientific Data](https://www.nature.com/sdata/)!
@@ -119,6 +120,10 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - [RTUNet++: Assessment of Osteosarcoma MRI Image Segmentation leveraging Hybrid CNN-Transformer Approach with Dense Skip Connection](https://ieeexplore.ieee.org/abstract/document/10270849), Binfeng Zou, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhanghao Chen, Yifei Sun, Yifan Huang, Feiwei Qin<sup>*</sup>, Changmiao Wang, **ICSIP 2023**.
 
 #### Selected CONFERENCE ABSTRACTS [Full list is available in Google Scholar]
+- (**Flash Presentation**) [AlignPET: Structure-Aligned MRI-to-PET Synthesis via Variational Autoregression Model for Ischemic Brain Lesions](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Guanyu Zhou, Yuanhan Wang, Mingxuan Liu, Xuguang Bai, Jialan Zheng, Bixiao Cui, Jie Lu, Qiyuan Tian<sup>*</sup>, **ISMRM 2026**.
+
+- (**Oral**) [BioTTA: Maximizing Domain Generalization in Automatic Fetal Brain Biometry with Test-Time Adaptation](https://justlfc03.github.io/), Yuhang He, Jialan Zheng, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Mingxuan Liu, Qiuyuan Fan, Yi Liao, Haibo Qu, Qiyuan Tian, Jie Lu, Ziyu Li<sup>*</sup>, **ISMRM 2026**.
+
 - (**Oral**) [INSTA: Implicit Neural Spatio-Temporal Atlas from Thick-Slice Clinical Fetal Brain MRI](https://justlfc03.github.io/), Yuhang He, Jialan Zheng, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Mingxuan Liu, Qiuyuan Fan, Yi Liao, Haibo Qu, Qiyuan Tian, Jie Lu, Ziyu Li<sup>*</sup>, **ISMRM 2026 Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging**.
 
 - [Quality-Label-Free Stack-Level Quality Control Improves Fetal Brain Slice-to-Volume Reconstruction](https://justlfc03.github.io/), Yuhang He, Jialan Zheng, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Mingxuan Liu, Qiuyuan Fan, Yi Liao, Haibo Qu, Qiyuan Tian, Jie Lu, Ziyu Li<sup>*</sup>, **ISMRM 2026 Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging**.
@@ -130,12 +135,13 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - [DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Shenghao Zhu, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>, **ISMRM 2025 Workshop on 40 Years of Diffusion**.
 
 # 🏅 Honors
+- *2025-2026 Academic Year* **Tsinghua University College Scholarship**.
 - *2024-2025 Academic Year* **Outstanding Graduates of Zhejiang Province** and **Graduate Entrance Examination Scholarship**.
-- *2023-2024 Academic Year*, twice **University First-Class Scholarships** and **National Scholarship**.
+- *2023-2024 Academic Year*, twice **HDU First-Class Scholarships** and **National Scholarship**.
 - *2023-2024 Academic Year*, **Top 10 Outstanding Students** in the 6th "Youth of HDU" program.
-- *2022-2023 Academic Year*, twice **University First-Class Scholarships** and **National Scholarship**.
+- *2022-2023 Academic Year*, twice **HDU First-Class Scholarships** and **National Scholarship**.
 - *2022-2023 Academic Year*, "Innovation Star" of the **Top 100 Outstanding Students** in the 5th "Youth of HDU" program.
-- *2021-2022 Academic Year*, twice **University First-Class Scholarships** and **Zhejiang Provincial Government Scholarship**.
+- *2021-2022 Academic Year*, twice **HDU First-Class Scholarships** and **Zhejiang Provincial Government Scholarship**.
 
 <!--
 - *2024* China Postgraduate IC Innovation Competition · EDA Elite Challenge - **National First Prize**
