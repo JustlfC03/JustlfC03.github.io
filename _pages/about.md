@@ -38,7 +38,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2021.09 - 2024.04*, The Chinese University of Hong Kong (Shenzhen), SRIBD Laboratory, advised by Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505).
 
 # 🔥 News
-- *2026.02.04*: 🎉🎉 Our abstract has been accepted by [ISMRM 2026](https://www.ismrm.org/26m/)!
+- *2026.02.04*: 🎉🎉 Our two abstract has been accepted by [ISMRM 2026](https://www.ismrm.org/26m/)!
 - *2026.01.27*: 🎉🎉 Our two abstracts has been accepted by [ISMRM Workshop on Unlocking the Potential of Prenatal MRI](https://www.ismrm.org/workshops/2026/PrenatalMRI/)!
 - *2026.01.09*: 🎉🎉 Our paper has been accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)!
 - *2025.11.08*: 🎉🎉 Our paper has been accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)!
