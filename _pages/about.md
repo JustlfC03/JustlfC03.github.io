@@ -156,7 +156,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 # 💰 Funding
 - *2025* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (**Key Member**, **New Talent Program**).
 - *2024* National Undergraduate Innovation and Entrepreneurship Training Program (**Key Member**).
-- *2024* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (**Key Member**, **New Talent Program**).
+- *2024* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (**Project Lead**, **New Talent Program**).
 - *2023* National Undergraduate Innovation and Entrepreneurship Training Program (**Project Lead**, **Key Supporting Field Project**).
 
 # 👯 Academic Activities
