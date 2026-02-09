@@ -26,6 +26,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 <a href='https://scholar.google.com/citations?user=coppwXUAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 [![](https://img.shields.io/github/stars/JustlfC03?style=social)](https://github.com/JustlfC03)
 -->
+
 <!-- [![](https://img.shields.io/badge/WeChat-%E5%BE%AE%E4%BF%A1-7BB32E?style=flat&logo=wechat&logoColor=white)](../images/wechat.png) -->
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -47,6 +48,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2025.09.27*: 🎉🎉 Won 1st place in the [MICCAI autoPET Challenge](https://autopet-iv.grand-challenge.org/)!
 - *2025.09.23*: 🎉🎉 Won 2nd place in the [MICCAI VLM3D Challenge](https://vlm3dchallenge.com/miccai-program/) and 3rd place in the [MICCAI HECKTOR Challenge](https://hecktor25.grand-challenge.org/)!
 - *2025.07.24*: 🎉🎉 Our paper has been accepted by [RSNA 2025](https://www.rsna.org/Annual-Meeting)!
+- *2025.07.22*: 🎉🎉 Won **First Prize** in [National Biomedical Engineering Innovation Design Competition for College Students](http://www.csbme.org/main/index.htm)!
 - *2025.07.17*: 🎉🎉 Our paper has been accepted by [MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis](https://pippiworkshop.github.io/)!
 - *2025.07.09*: 🎉🎉 Our paper has been accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)!
 - *2025.06.18*: 🎉🎉 Our paper has been accepted by [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp)!
@@ -57,10 +59,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2024.12.24*: 🎉🎉 Our abstract has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/)!
 - *2024.12.21*: 🎉🎉 Our paper has been accepted by [ICASSP 2025](https://2025.ieeeicassp.org/)!
 - *2024.12.17*: 🎉🎉 Our paper has been accepted by [Scientific Data](https://www.nature.com/sdata/)!
-
-<!--
-- *2024.12.08*: 🎉🎉 Won **National First Prize** in China Postgraduate IC Innovation Competition · EDA Elite Challenge!
--->
+- *2024.12.08*: 🎉🎉 Won **First Prize** in [China Postgraduate IC Innovation Competition · EDA Elite Challenge](https://eda.icisc.cn/)!
 
 # 📝 Publications
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -152,7 +151,6 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 - *2023* Chinese Collegiate Computing Competition - **National First Prize**
 - *2023* China College Students' Service Outsourcing Innovation and Entrepreneurship Competition - **National Third Prize**
 - *2023* iCAN College Students' Innovation and Entrepreneurship Competition - **National First Prize**
-- *2023* MCM/ICM Mathematical Contest in Modeling - **International Second Prize**
 -->
 
 # 💰 Funding
