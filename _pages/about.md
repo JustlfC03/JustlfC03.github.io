@@ -77,7 +77,7 @@ My research interests include Artificial Intelligence: Computer Vision, Pattern 
 <span style="color:#b02418; font-weight:bold;">✝</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 #### Selected JOURNAL PAPERS [Full list is available in Google Scholar]
-- [Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model](https://www.sciencedirect.com/science/article/pii/S1746809426001497), Changwei Wu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝, *</sup></span>, Yuxin Du, Jinying Zong, Jie Dong, Mingxuan Liu, Feiwei Qin<sup>*</sup>, Yong Peng, Jin Fan, Changmiao Wang, **Biomedical Signal Processing and Control 2026**.
+- [Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model](https://www.sciencedirect.com/science/article/pii/S1746809426001497), Changwei Wu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝, *</sup></span>, Yuxin Du, Jinying Zong, Jie Dong, Mingxuan Liu, Feiwei Qin<sup>*</sup>, Yong Peng, Jin Fan, Changmiao Wang, <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomedical Signal Processing and Control 2026</div>.
 
 - [Tc-kanrecon: High-quality and accelerated mri reconstruction via adaptive kan mechanisms and intelligent feature scaling](https://ieeexplore.ieee.org/abstract/document/11223166), Ruiquan Ge, Xiao Yu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Fan Jia, Shenghao Zhu, Dong Zeng, Changmiao Wang, Qiegen Liu<sup>*</sup>, Shanzhou Niu<sup>*</sup>, **IEEE Journal of Biomedical and Health Informatics 2025**.
 
