@@ -43,10 +43,9 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2025.11.08*: 🎉🎉 Our paper has been accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)!
 - *2025.10.21*: 🎉🎉 Our paper has been accepted by [IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/)!
 - *2025.10.05*: 🎉🎉 Our two papers have been accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)!
-- *2025.09.27*: 🎉🎉 Won *1st Place* in the [MICCAI autoPET Challenge](https://autopet-iv.grand-challenge.org/)!
-- *2025.09.23*: 🎉🎉 Won *2nd Place* in the [MICCAI VLM3D Challenge](https://vlm3dchallenge.com/miccai-program/) and *3rd Place* in the [MICCAI HECKTOR Challenge](https://hecktor25.grand-challenge.org/)!
+- *2025.09.27*: 🎉🎉 Won **1st Place** in the [MICCAI autoPET Challenge](https://autopet-iv.grand-challenge.org/)!
+- *2025.09.23*: 🎉🎉 Won **2nd Place** in the [MICCAI VLM3D Challenge](https://vlm3dchallenge.com/miccai-program/) and **3rd Place** in the [MICCAI HECKTOR Challenge](https://hecktor25.grand-challenge.org/)!
 - *2025.07.24*: 🎉🎉 Our paper has been accepted by [RSNA 2025](https://www.rsna.org/Annual-Meeting)!
-- *2025.07.22*: 🎉🎉 Won **First Prize** in [National Biomedical Engineering Innovation Design Competition for College Students](http://www.csbme.org/main/index.htm)!
 - *2025.07.17*: 🎉🎉 Our paper has been accepted by [MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis](https://pippiworkshop.github.io/)!
 - *2025.07.09*: 🎉🎉 Our paper has been accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)!
 - *2025.06.18*: 🎉🎉 Our paper has been accepted by [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp)!
@@ -57,7 +56,6 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2024.12.24*: 🎉🎉 Our abstract has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/)!
 - *2024.12.21*: 🎉🎉 Our paper has been accepted by [ICASSP 2025](https://2025.ieeeicassp.org/)!
 - *2024.12.17*: 🎉🎉 Our paper has been accepted by [Scientific Data](https://www.nature.com/sdata/)!
-- *2024.12.08*: 🎉🎉 Won **First Prize** in [China Postgraduate IC Innovation Competition · EDA Elite Challenge](https://eda.icisc.cn/)!
 
 # 📝 Publications
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -131,25 +129,27 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 
 - [DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Shenghao Zhu, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>, **ISMRM 2025 Workshop on 40 Years of Diffusion**.
 
-# 🏅 Honors
-- *2025-2026 Academic Year* **Tsinghua University College Scholarship**.
-- *2025.05.12* **Graduate Entrance Examination Scholarship**.
-- *2025* **Outstanding Graduates of Zhejiang Province**.
-- *2023-2024 Academic Year*, twice **HDU First-Class Scholarships** and **National Scholarship**.
+# 🎖 Honors
+- *2025-2026 Academic Year*, **Tsinghua University College Scholarship**.
+- *2025-2026 Academic Year*, **Graduate Entrance Examination Scholarship**.
+- *2025-2026 Academic Year*, **Outstanding Graduates of Zhejiang Province**.
+- *2023-2024 Academic Year*, twice **HDU First-class Scholarships** and **National Scholarship**.
 - *2023-2024 Academic Year*, **Top 10 Outstanding Students** in the 6th "Youth of HDU" program.
-- *2022-2023 Academic Year*, twice **HDU First-Class Scholarships** and **National Scholarship**.
+- *2022-2023 Academic Year*, twice **HDU First-class Scholarships** and **National Scholarship**.
 - *2022-2023 Academic Year*, "Innovation Star" of the **Top 100 Outstanding Students** in the 5th "Youth of HDU" program.
-- *2021-2022 Academic Year*, twice **HDU First-Class Scholarships** and **Zhejiang Provincial Government Scholarship**.
+- *2021-2022 Academic Year*, twice **HDU First-class Scholarships** and **Zhejiang Provincial Government Scholarship**.
 
-<!--
-- *2024* China International College Students' Innovation Competition - **National Gold and International Bronze Awards**
-- *2024* Higher education ICT industry-teaching integration innovation competition - **National Third Prize**
-- *2024* Chinese Collegiate Computing Competition - **National Second Prize**
-- *2023* China International College Students' Innovation Competition - **National Gold and International Bronze Awards**
-- *2023* Chinese Collegiate Computing Competition - **National First Prize**
-- *2023* China College Students' Service Outsourcing Innovation and Entrepreneurship Competition - **National Third Prize**
-- *2023* iCAN College Students' Innovation and Entrepreneurship Competition - **National First Prize**
--->
+# 🏅 Awards
+- *2025* **First Prize** in National Biomedical Engineering Innovation Design Competition for College Students.
+- *2024* **First Prize** in China Postgraduate IC Innovation Competition · EDA Elite Challenge.
+- *2024* **Gold Award** in China International College Students' Innovation Competition.
+- *2024* **Third Prize** in Higher Education ICT Industry-teaching Integration Innovation Competition.
+- *2024* **Second Prize** in Chinese Collegiate Computing Competition.
+- *2023* **Gold Award** in China International College Students' Innovation Competition.
+- *2023* **First Prize** in Chinese Collegiate Computing Competition.
+- *2023* **Third Prize** China College Students' Service Outsourcing Innovation and Entrepreneurship Competition.
+- *2023* **First Prize** in iCAN College Students' Innovation and Entrepreneurship Competition.
+- *2023* **Second Prize** in MCM/ICM Mathematical Contest in Modeling.
 
 # 💰 Funding
 - *2025* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (**Key Member**, **New Talent Program**).
