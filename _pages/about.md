@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😉 About Me
-I'm currently a first-year PhD student at [BIRTH Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/) and fortunate to be advised by [Prof. Qiyuan Tian（田启源）](https://www.med.tsinghua.edu.cn/info/1143/2126.htm). I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.hdu.edu.cn/2021/1217/c6770a140174/page.htm) from [School of Computer Science](https://computer.hdu.edu.cn/main.htm), [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm). My research interests include Artificial Intelligence: Computer Vision, Pattern Recognition and AI for Medicine (Specializing in). I’m looking to collaborate on: Medical Image Analysis, Multimodal and Large Model.
+I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/) and fortunate to be advised by [Prof. Qiyuan Tian（田启源）](https://www.med.tsinghua.edu.cn/info/1143/2126.htm). I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.hdu.edu.cn/2021/1217/c6770a140174/page.htm) from [School of Computer Science](https://computer.hdu.edu.cn/main.htm), [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm). My research interests include Artificial Intelligence: Computer Vision, Pattern Recognition and AI for Medicine (Specializing in). I’m looking to collaborate on: Medical Image Analysis, Multimodal and Large Model.
 
 <!--
 <a href='https://scholar.google.com/citations?user=coppwXUAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
@@ -29,8 +29,8 @@ I'm currently a first-year PhD student at [BIRTH Lab](https://birthlab.github.io
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
-- *2025.09 - 2030.06*, Doctor of Philosophy student: Biomedical Engineering, Tsinghua University, Beijing, China.
-- *2021.09 - 2025.06*, Undergraduate student: Computer Science of Technology, Hangzhou Dianzi University, Hangzhou, China. 
+- *2025.09 - 2030.06*, Doctoral Degree: Biomedical Engineering, Tsinghua University, Beijing, China.
+- *2021.09 - 2025.06*, Bachelor Degree: Computer Science and Technology, Hangzhou Dianzi University, Hangzhou, China. 
 
 # 💻 Internships
 - *2024.05 - 2024.08*, The Hong Kong University of Science and Technology, Smart Lab Laboratory, advised by Professor [Hao Chen（陈浩）](https://seng.hkust.edu.hk/about/people/faculty/hao-chen).
