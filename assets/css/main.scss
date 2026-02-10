@@ -109,13 +109,9 @@ h1:before, .anchor:before {
 }
 
 .highlight {
-  display: inline-block;
-  background-color: #1f4bd8;
-  color: #ffffff;
-  font-weight: 600;
-  padding: 6px 14px;
-  border-radius: 4px;
-  font-size: 14px;
-  line-height: 1.2;
-  white-space: nowrap;
+    background-color: #00369f;
+    color: white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: .8em;
 }
