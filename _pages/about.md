@@ -43,8 +43,8 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2025.11.08*: 🎉🎉 Our paper has been accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)!
 - *2025.10.21*: 🎉🎉 Our paper has been accepted by [IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/)!
 - *2025.10.05*: 🎉🎉 Our two papers have been accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)!
-- *2025.09.27*: 🎉🎉 Won 1st place in the [MICCAI autoPET Challenge](https://autopet-iv.grand-challenge.org/)!
-- *2025.09.23*: 🎉🎉 Won 2nd place in the [MICCAI VLM3D Challenge](https://vlm3dchallenge.com/miccai-program/) and 3rd place in the [MICCAI HECKTOR Challenge](https://hecktor25.grand-challenge.org/)!
+- *2025.09.27*: 🎉🎉 Won *1st Place* in the [MICCAI autoPET Challenge](https://autopet-iv.grand-challenge.org/)!
+- *2025.09.23*: 🎉🎉 Won *2nd Place* in the [MICCAI VLM3D Challenge](https://vlm3dchallenge.com/miccai-program/) and *3rd Place* in the [MICCAI HECKTOR Challenge](https://hecktor25.grand-challenge.org/)!
 - *2025.07.24*: 🎉🎉 Our paper has been accepted by [RSNA 2025](https://www.rsna.org/Annual-Meeting)!
 - *2025.07.22*: 🎉🎉 Won **First Prize** in [National Biomedical Engineering Innovation Design Competition for College Students](http://www.csbme.org/main/index.htm)!
 - *2025.07.17*: 🎉🎉 Our paper has been accepted by [MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis](https://pippiworkshop.github.io/)!
@@ -133,7 +133,8 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 
 # 🏅 Honors
 - *2025-2026 Academic Year* **Tsinghua University College Scholarship**.
-- *2024-2025 Academic Year* **Outstanding Graduates of Zhejiang Province** and **Graduate Entrance Examination Scholarship**.
+- *2025.05.12* **Graduate Entrance Examination Scholarship**.
+- *2025* **Outstanding Graduates of Zhejiang Province**.
 - *2023-2024 Academic Year*, twice **HDU First-Class Scholarships** and **National Scholarship**.
 - *2023-2024 Academic Year*, **Top 10 Outstanding Students** in the 6th "Youth of HDU" program.
 - *2022-2023 Academic Year*, twice **HDU First-Class Scholarships** and **National Scholarship**.
@@ -141,7 +142,6 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2021-2022 Academic Year*, twice **HDU First-Class Scholarships** and **Zhejiang Provincial Government Scholarship**.
 
 <!--
-- *2024* China Postgraduate IC Innovation Competition · EDA Elite Challenge - **National First Prize**
 - *2024* China International College Students' Innovation Competition - **National Gold and International Bronze Awards**
 - *2024* Higher education ICT industry-teaching integration innovation competition - **National Third Prize**
 - *2024* Chinese Collegiate Computing Competition - **National Second Prize**
