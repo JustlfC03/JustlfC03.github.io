@@ -37,6 +37,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2021.09 - 2024.04*, The Chinese University of Hong Kong (Shenzhen), SRIBD Laboratory, advised by Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505).
 
 # 🔥 News
+- *2026.02.13*: 🎉🎉 Our four abstracts have been accepted by [OHBM 2026](https://humanbrainmapping.org/i4a/pages/index.cfm?pageid=4317)!
 - *2026.02.04*: 🎉🎉 Our two abstracts have been accepted by [ISMRM 2026](https://www.ismrm.org/26m/)!
 - *2026.01.27*: 🎉🎉 Our two abstracts have been accepted by [ISMRM Workshop on Unlocking the Potential of Prenatal MRI](https://www.ismrm.org/workshops/2026/PrenatalMRI/)!
 - *2026.01.09*: 🎉🎉 Our paper has been accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)!
@@ -115,6 +116,14 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - [RTUNet++: Assessment of Osteosarcoma MRI Image Segmentation leveraging Hybrid CNN-Transformer Approach with Dense Skip Connection](https://ieeexplore.ieee.org/abstract/document/10270849), Binfeng Zou, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhanghao Chen, Yifei Sun, Yifan Huang, Feiwei Qin<sup>*</sup>, Changmiao Wang, **ICSIP 2023**.
 
 #### Selected CONFERENCE ABSTRACTS [Full list is available in Google Scholar]
+- [Modality-Agnostic PET Synthesis from Single-Modality Thick-Slice MRI via Structured MRI-PET Mapping](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Guanyu Zhou, Yuanhan Wang, Mingxuan Liu, Xuguang Bai, Jialan Zheng, Bixiao Cui, Jie Lu, Qiyuan Tian<sup>*</sup>, **OHBM 2026**.
+
+- [Benchmarking Spatiotemporal Fetal Brain Atlas Construction](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Guanyu Zhou, Yuanhan Wang, Mingxuan Liu, Xuguang Bai, Jialan Zheng, Bixiao Cui, Jie Lu, Qiyuan Tian<sup>*</sup>, **OHBM 2026**.
+
+- [Towards Robustness Fetal Brain Developmer Monitoring and Universal Multi-Disease Diagnosis](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Guanyu Zhou, Yuanhan Wang, Mingxuan Liu, Xuguang Bai, Jialan Zheng, Bixiao Cui, Jie Lu, Qiyuan Tian<sup>*</sup>, **OHBM 2026**.
+
+- [AlignPET: Structure-Aligned MRI-to-PET Synthesis via Variational Autoregression Model for Ischemic Brain Lesions](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Guanyu Zhou, Yuanhan Wang, Mingxuan Liu, Xuguang Bai, Jialan Zheng, Bixiao Cui, Jie Lu, Qiyuan Tian<sup>*</sup>, **ISMRM 2026**.
+
 - (**Flash Presentation**) [AlignPET: Structure-Aligned MRI-to-PET Synthesis via Variational Autoregression Model for Ischemic Brain Lesions](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Guanyu Zhou, Yuanhan Wang, Mingxuan Liu, Xuguang Bai, Jialan Zheng, Bixiao Cui, Jie Lu, Qiyuan Tian<sup>*</sup>, **ISMRM 2026**.
 
 - (**Oral**) [BioTTA: Maximizing Domain Generalization in Automatic Fetal Brain Biometry with Test-Time Adaptation](https://justlfc03.github.io/), Yuhang He, Jialan Zheng, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Mingxuan Liu, Qiuyuan Fan, Yi Liao, Haibo Qu, Qiyuan Tian, Jie Lu, Ziyu Li<sup>*</sup>, **ISMRM 2026**.
