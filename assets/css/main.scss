@@ -108,10 +108,11 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.highlight {
-    background-color: #00369f;
-    color: white;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    font-size: 1em;
+.page__content .highlight {
+  background-color: #00369f;
+  color: white;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: inherit !important;   /* 关键：继承父级的真实字号 */
+  line-height: inherit !important;
 }
