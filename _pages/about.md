@@ -37,6 +37,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2021.09 - 2024.04*, The Chinese University of Hong Kong (Shenzhen), SRIBD Laboratory, advised by Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505).
 
 # 🔥 News
+- *2026.04.22*: 🎉🎉 Our four abstracts have been accepted by [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis)!
 - *2026.02.13*: 🎉🎉 Our four abstracts have been accepted by [OHBM 2026](https://humanbrainmapping.org/i4a/pages/index.cfm?pageid=4317)!
 - *2026.02.04*: 🎉🎉 Our two abstracts have been accepted by [ISMRM 2026](https://www.ismrm.org/26m/)!
 - *2026.01.27*: 🎉🎉 Our two abstracts have been accepted by [ISMRM Workshop on Unlocking the Potential of Prenatal MRI](https://www.ismrm.org/workshops/2026/PrenatalMRI/)!
@@ -74,6 +75,8 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 <span style="color:#b02418; font-weight:bold;">✝</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 #### Selected JOURNAL PAPERS [Full list is available in Google Scholar]
+- [No Modality Left Behind: Adapting to Missing Modalities via Knowledge Distillation for Brain Tumor Segmentation](https://justlfc03.github.io/), Shenghao Zhu, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Shuo Jiang, Guanyu Zhou, Yuanhan Wang, Feiwei Qin<sup>*</sup>, Changmiao Wang, Qiyuan Tian<sup>*</sup>. <span class="highlight">Medical Image Analysis 2026</span>
+
 - [Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model](https://www.sciencedirect.com/science/article/pii/S1746809426001497), Changwei Wu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝, *</sup></span>, Yuxin Du, Jinying Zong, Jie Dong, Mingxuan Liu, Feiwei Qin<sup>*</sup>, Yong Peng, Jin Fan, Changmiao Wang. <span class="highlight">Biomedical Signal Processing and Control 2026</span>
 
 - [Tc-kanrecon: High-quality and accelerated mri reconstruction via adaptive kan mechanisms and intelligent feature scaling](https://ieeexplore.ieee.org/abstract/document/11223166), Ruiquan Ge, Xiao Yu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Fan Jia, Shenghao Zhu, Dong Zeng, Changmiao Wang, Qiegen Liu<sup>*</sup>, Shanzhou Niu<sup>*</sup>. <span class="highlight">IEEE Journal of Biomedical and Health Informatics 2025</span>
@@ -89,7 +92,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - [Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases](https://www.sciencedirect.com/science/article/abs/pii/S0010482524000015), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>*</sup>, Yong Peng, Yu Gao. <span class="highlight">Computers in Biology and Medicine 2024</span>
 
 #### Selected CONFERENCE PAPERS [Full list is available in Google Scholar]
-- [IE-SRGS: An Internal-External Knowledge Fusion Framework for High-Fidelity 3D Gaussian Splatting Super-Resolution](https://justlfc03.github.io/), Xiang Feng<sup>✝</sup>, Tieshi Zhong<sup>✝</sup>, Shuo Chang, Weiliu Wang, Chengkai Wang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Tongyu Hu, Yuhe Wang, Zhenzhong Kuang<sup>*</sup>, Xuefei Yin, Yanming Zhu<sup>*</sup>, **AAAI 2026**.
+- [IE-SRGS: An Internal-External Knowledge Fusion Framework for High-Fidelity 3D Gaussian Splatting Super-Resolution](https://ojs.aaai.org/index.php/AAAI/article/view/37398), Xiang Feng<sup>✝</sup>, Tieshi Zhong<sup>✝</sup>, Shuo Chang, Weiliu Wang, Chengkai Wang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Tongyu Hu, Yuhe Wang, Zhenzhong Kuang<sup>*</sup>, Xuefei Yin, Yanming Zhu<sup>*</sup>, **AAAI 2026**.
 
 - (**Oral**) [WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation](https://ieeexplore.ieee.org/document/11356448), Guanyu Zhou<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Gaoxiang Ying, Mingxuan Liu, Xuguang Bai, Jialan Zheng, Bixiao Cui, Qiyuan Tian<sup>*</sup>, Jie Lu, **BIBM 2025**.
 
@@ -110,10 +113,6 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - [Semi-supervised Medical Image Segmentation Method Based on Cross-pseudo Labeling Leveraging Strong and Weak Data Augmentation Strategies](https://ieeexplore.ieee.org/document/10635443), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Yifan Ke, Yiyu Huang, Xuezhou Dai, Feiwei Qin<sup>*</sup>, Yongquan Zhang, Xiaodong Zhang, Changmiao Wang<sup>*</sup>, **ISBI 2024**.
 
 - (**Oral**) [TC-DiffRecon: Texture coordination MRI reconstruction method based on diffusion model and modified MF-UNet method](https://ieeexplore.ieee.org/document/10635308), Chenyan Zhang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhenxiong Fan, Yiyu Huang, Wenchao Weng, Ruiquan Ge<sup>*</sup>, Dong Zeng, Changmiao Wang<sup>*</sup>, **ISBI 2024**.
-
-- [Deep Object Detection Network Based Automatic Spinopelvic Parameters Measurement Method for Adult Spinal Deformity Classification](https://ieeexplore.ieee.org/abstract/document/10212876), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Weiqing Hu, Binfeng Zou, Yitong Pan, Yunyang Ge, Feiwei Qin<sup>*</sup>, Liang Shan, **AINIT 2023**.
-
-- [RTUNet++: Assessment of Osteosarcoma MRI Image Segmentation leveraging Hybrid CNN-Transformer Approach with Dense Skip Connection](https://ieeexplore.ieee.org/abstract/document/10270849), Binfeng Zou, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhanghao Chen, Yifei Sun, Yifan Huang, Feiwei Qin<sup>*</sup>, Changmiao Wang, **ICSIP 2023**.
 
 #### Selected CONFERENCE ABSTRACTS [Full list is available in Google Scholar]
 - [Modality-Agnostic PET Synthesis from Single-Modality Thick-Slice MRI via Structured MRI-PET Mapping](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Guanyu Zhou, Yuanhan Wang, Mingxuan Liu, Xuguang Bai, Jialan Zheng, Bixiao Cui, Jie Lu, Qiyuan Tian<sup>*</sup>, **OHBM 2026**.
