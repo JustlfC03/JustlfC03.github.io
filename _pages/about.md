@@ -122,7 +122,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 
 - [Towards Robustness Fetal Brain Developmer Monitoring and Universal Multi-Disease Diagnosis](https://justlfc03.github.io/), Yijin Li, Mingxuan Liu, Hongjia Yang, Yi Liao, Kasidit Anmahapong, Ziang Wang, Junchen Zhu, Xiaotian Hu, Yingqi Hao, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Haoxiang Li, Ziyu Li, Fenglin Jia, Haibo Qu, Qiyuan Tian<sup>*</sup>. **OHBM 2026**.
 
-- [AlignPET: Structure-Aligned MRI-to-PET Synthesis via Variational Autoregression Model for Ischemic Brain Lesions](https://justlfc03.github.io/), Xinfeng Zhang, Mingxuan Liu, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Juncheng Zhu, Xuguang Bai, Yiming Huang, Yingqi Hao, Zihan Li, Yi Liao, Gang Ning, Haibo Qu, Qiyuan Tian<sup>*</sup>. **OHBM 2026**.
+- [Automated Induction of Standardized Reporting Templates from Fetal Brain MRI Free-Text Corpora](https://justlfc03.github.io/), Xinfeng Zhang, Mingxuan Liu, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Juncheng Zhu, Xuguang Bai, Yiming Huang, Yingqi Hao, Zihan Li, Yi Liao, Gang Ning, Haibo Qu, Qiyuan Tian<sup>*</sup>. **OHBM 2026**.
 
 - (**Flash Presentation**) [AlignPET: Structure-Aligned MRI-to-PET Synthesis via Variational Autoregression Model for Ischemic Brain Lesions](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Guanyu Zhou, Yuanhan Wang, Mingxuan Liu, Xuguang Bai, Jialan Zheng, Bixiao Cui, Jie Lu, Qiyuan Tian<sup>*</sup>. **ISMRM 2026**.
 
