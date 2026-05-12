@@ -39,6 +39,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 # 🔥 News
 - *2025.11.08*: 🎉🎉 Our three papers have been early accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/)!
 - *2026.04.22*: 🎉🎉 Our paper has been accepted by [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis)!
+- *2026.03.15*: 🎉🎉 Our paper has been accepted by [ISBI 2026](https://biomedicalimaging.org/2026/)!
 - *2026.02.13*: 🎉🎉 Our four abstracts have been accepted by [OHBM 2026](https://humanbrainmapping.org/i4a/pages/index.cfm?pageid=4317)!
 - *2026.02.04*: 🎉🎉 Our two abstracts have been accepted by [ISMRM 2026](https://www.ismrm.org/26m/)!
 - *2026.01.27*: 🎉🎉 Our two abstracts have been accepted by [ISMRM Workshop on Unlocking the Potential of Prenatal MRI](https://www.ismrm.org/workshops/2026/PrenatalMRI/)!
