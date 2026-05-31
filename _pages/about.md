@@ -37,7 +37,9 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2021.09 - 2024.04*, The Chinese University of Hong Kong (Shenzhen), SRIBD Laboratory, advised by Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505).
 
 # 🔥 News
-- *2025.11.08*: 🎉🎉 Our three papers have been early accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/)!
+- *2026.05.31*: 🎉🎉 Our paper has been accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)!
+- *2026.05.22*: 🎉🎉 Our paper has been accepted by [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)!
+- *2026.05.08*: 🎉🎉 Our three papers have been early accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/)!
 - *2026.04.22*: 🎉🎉 Our paper has been accepted by [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis)!
 - *2026.03.15*: 🎉🎉 Our paper has been accepted by [ISBI 2026](https://biomedicalimaging.org/2026/)!
 - *2026.02.13*: 🎉🎉 Our four abstracts have been accepted by [OHBM 2026](https://humanbrainmapping.org/i4a/pages/index.cfm?pageid=4317)!
@@ -77,6 +79,10 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 <span style="color:#b02418; font-weight:bold;">✝</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 #### Selected JOURNAL PAPERS [Full list is available in Google Scholar]
+- [MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation](https://justlfc03.github.io/), Jinying Zong<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝, *</sup></span>, Mingxuan Liu<sup>✝</sup>, Yuxin Du, Changwei Wu, Beining Wu, Guanyu Zhou, Feiwei Qin<sup>*</sup>. **Pattern Recognition 2026**.
+
+- [PathLens: A Lightweight Multimodal Reasoner for In-Depth Pathology Insights](https://www.sciencedirect.com/science/article/pii/S0950705126009871), Zhu zhu, Huangwei Chen, Zhenyu Yan, Donghoo Zhang, Yueyi Wu, Yuqi Zhan, Weihao Cheng, Manli Zhao, Weizhong Gu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Feiwei Qin<sup>*</sup>, Gang Yu<sup>*</sup>. **Knowledge-Based Systems**.
+
 - [No Modality Left Behind: Adapting to Missing Modalities via Knowledge Distillation for Brain Tumor Segmentation](https://www.sciencedirect.com/science/article/pii/S1361841526001775), Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Shuo Jiang, Guanyu Zhou, Yuanhan Wang, Feiwei Qin<sup>*</sup>, Changmiao Wang, Qiyuan Tian<sup>*</sup>. **Medical Image Analysis 2026**.
 
 - [Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model](https://www.sciencedirect.com/science/article/pii/S1746809426001497), Changwei Wu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝, *</sup></span>, Yuxin Du, Jinying Zong, Jie Dong, Mingxuan Liu, Feiwei Qin<sup>*</sup>, Yong Peng, Jin Fan, Changmiao Wang. **Biomedical Signal Processing and Control 2026**.
