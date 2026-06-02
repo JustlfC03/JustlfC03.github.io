@@ -80,7 +80,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 <span style="color:#b02418; font-weight:bold;">✝</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 #### Selected JOURNAL PAPERS [Full list is available in Google Scholar]
-- [MicroKAN: Mapping Human Brain Microstructure Using Diffusion MRI and Adaptive Nonlinear Modeling ](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zihan Li<sup>✝</sup>, Yuanhan Wang, Yijin Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Tolga Cukur, Qiuyun Fan, Ziyu Li<sup>*</sup>, Jie Lu<sup>*</sup>, Qiyuan Tian<sup>*</sup>. **NeuroImage 2026**.
+- [MicroKAN: Mapping Human Brain Microstructure Using Diffusion MRI and Adaptive Nonlinear Modeling](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zihan Li<sup>✝</sup>, Yuanhan Wang, Yijin Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Tolga Cukur, Qiuyun Fan, Ziyu Li<sup>*</sup>, Jie Lu<sup>*</sup>, Qiyuan Tian<sup>*</sup>. **NeuroImage 2026**.
 
 - [MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation](https://justlfc03.github.io/), Jinying Zong<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝, *</sup></span>, Mingxuan Liu<sup>✝</sup>, Yuxin Du, Changwei Wu, Beining Wu, Guanyu Zhou, Feiwei Qin<sup>*</sup>. **Pattern Recognition 2026**.
 
