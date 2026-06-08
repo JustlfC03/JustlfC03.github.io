@@ -37,6 +37,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2021.09 - 2024.04*, The Chinese University of Hong Kong (Shenzhen), SRIBD Laboratory, advised by Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505).
 
 # 🔥 News
+- *2026.06.08*: 🎉🎉 Our paper has been accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)!
 - *2026.06.02*: 🎉🎉 Our paper has been accepted by [NeuroImage](https://www.sciencedirect.com/journal/neuroimage)!
 - *2026.05.31*: 🎉🎉 Our paper has been accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)!
 - *2026.05.22*: 🎉🎉 Our paper has been accepted by [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)!
@@ -80,6 +81,8 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 <span style="color:#b02418; font-weight:bold;">✝</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 #### Selected JOURNAL PAPERS [Full list is available in Google Scholar]
+- [Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model](https://justlfc03.github.io/), Huangwei Chen<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhenyu Yan, Mingyang Ding, Chenlei Li, Feiwei Qin, Daxing Zhang<sup>*</sup>, Zhu Zhu<sup>*</sup>. **Biomedical Signal Processing and Control 2026**.
+
 - [MicroKAN: Mapping Human Brain Microstructure Using Diffusion MRI and Adaptive Nonlinear Modeling](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zihan Li<sup>✝</sup>, Yuanhan Wang, Yijin Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Tolga Cukur, Qiuyun Fan, Ziyu Li<sup>*</sup>, Jie Lu<sup>*</sup>, Qiyuan Tian<sup>*</sup>. **NeuroImage 2026**.
 
 - [MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation](https://justlfc03.github.io/), Jinying Zong<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝, *</sup></span>, Mingxuan Liu<sup>✝</sup>, Yuxin Du, Changwei Wu, Beining Wu, Guanyu Zhou, Feiwei Qin<sup>*</sup>. **Pattern Recognition 2026**.
