@@ -81,7 +81,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 <span style="color:#b02418; font-weight:bold;">✝</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 #### Selected JOURNAL PAPERS [Full list is available in Google Scholar]
-- [Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model](https://justlfc03.github.io/), Huangwei Chen<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhenyu Yan, Mingyang Ding, Chenlei Li, Feiwei Qin, Daxing Zhang<sup>*</sup>, Zhu Zhu<sup>*</sup>. **Biomedical Signal Processing and Control 2026**.
+- [MMLNB: Multi-Modal Learning for Neuroblastoma Subtyping Classification Assisted with Textual Description Generation](https://justlfc03.github.io/), Huangwei Chen<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhenyu Yan, Mingyang Ding, Chenlei Li, Feiwei Qin, Daxing Zhang<sup>*</sup>, Zhu Zhu<sup>*</sup>. **Biomedical Signal Processing and Control 2026**.
 
 - [MicroKAN: Mapping Human Brain Microstructure Using Diffusion MRI and Adaptive Nonlinear Modeling](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zihan Li<sup>✝</sup>, Yuanhan Wang, Yijin Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Tolga Cukur, Qiuyun Fan, Ziyu Li<sup>*</sup>, Jie Lu<sup>*</sup>, Qiyuan Tian<sup>*</sup>. **NeuroImage 2026**.
 
