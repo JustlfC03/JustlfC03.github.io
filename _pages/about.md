@@ -37,6 +37,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2021.09 - 2024.04*, The Chinese University of Hong Kong (Shenzhen), SRIBD Laboratory, advised by Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505).
 
 # 🔥 News
+- *2026.06.13*: 🎉🎉 Our two papers have been accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/)!
 - *2026.06.08*: 🎉🎉 Our paper has been accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)!
 - *2026.06.02*: 🎉🎉 Our paper has been accepted by [NeuroImage](https://www.sciencedirect.com/journal/neuroimage)!
 - *2026.05.31*: 🎉🎉 Our paper has been accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)!
