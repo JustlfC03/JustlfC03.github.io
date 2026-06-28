@@ -37,6 +37,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2021.09 - 2024.04*, The Chinese University of Hong Kong (Shenzhen), SRIBD Laboratory, advised by Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505).
 
 # 🔥 News
+- *2026.06.28*: 🎉🎉 Our paper has been accepted by [IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/)!
 - *2026.06.13*: 🎉🎉 Our two papers have been accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/)!
 - *2026.06.08*: 🎉🎉 Our paper has been accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)!
 - *2026.06.02*: 🎉🎉 Our paper has been accepted by [NeuroImage](https://www.sciencedirect.com/journal/neuroimage)!
@@ -82,11 +83,13 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 <span style="color:#b02418; font-weight:bold;">✝</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 #### Selected JOURNAL PAPERS [Full list is available in Google Scholar]
-- [MMLNB: Multi-Modal Learning for Neuroblastoma Subtyping Classification Assisted with Textual Description Generation](https://justlfc03.github.io/), Huangwei Chen<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhenyu Yan, Mingyang Ding, Chenlei Li, Feiwei Qin, Daxing Zhang<sup>*</sup>, Zhu Zhu<sup>*</sup>. **Biomedical Signal Processing and Control 2026**.
+- [Multimodal Feature Prototype Learning for Interpretable and Discriminative Cancer Survival Prediction](https://ieeexplore.ieee.org/abstract/document/11223166), Shuo Jiang, Zhuwen Chen, Liaoman Xu, Yanming Zhu, Changmiao Wang, Jiong Zhang, Feiwei Qin<sup>*</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>*</sup></span>, Zhu Zhu<sup>*</sup>. **IEEE Journal of Biomedical and Health Informatics 2026**.
 
-- [MicroKAN: Mapping Human Brain Microstructure Using Diffusion MRI and Adaptive Nonlinear Modeling](https://justlfc03.github.io/), <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zihan Li<sup>✝</sup>, Yuanhan Wang, Yijin Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Tolga Cukur, Qiuyun Fan, Ziyu Li<sup>*</sup>, Jie Lu<sup>*</sup>, Qiyuan Tian<sup>*</sup>. **NeuroImage 2026**.
+- [MMLNB: Multi-Modal Learning for Neuroblastoma Subtyping Classification Assisted with Textual Description Generation](https://www.sciencedirect.com/science/article/pii/S1746809426013522), Huangwei Chen<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhenyu Yan, Mingyang Ding, Chenlei Li, Feiwei Qin, Daxing Zhang<sup>*</sup>, Zhu Zhu<sup>*</sup>. **Biomedical Signal Processing and Control 2026**.
 
-- [MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation](https://justlfc03.github.io/), Jinying Zong<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝, *</sup></span>, Mingxuan Liu<sup>✝</sup>, Yuxin Du, Changwei Wu, Beining Wu, Guanyu Zhou, Feiwei Qin<sup>*</sup>. **Pattern Recognition 2026**.
+- [MicroKAN: Mapping Human Brain Microstructure Using Diffusion MRI and Adaptive Nonlinear Modeling](https://www.sciencedirect.com/science/article/pii/S1053811926003472), <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zihan Li<sup>✝</sup>, Yuanhan Wang, Yijin Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Tolga Cukur, Qiuyun Fan, Ziyu Li<sup>*</sup>, Jie Lu<sup>*</sup>, Qiyuan Tian<sup>*</sup>. **NeuroImage 2026**.
+
+- [MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation](https://www.sciencedirect.com/science/article/pii/S0031320326011088), Jinying Zong<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝, *</sup></span>, Mingxuan Liu<sup>✝</sup>, Yuxin Du, Changwei Wu, Beining Wu, Guanyu Zhou, Feiwei Qin<sup>*</sup>. **Pattern Recognition 2026**.
 
 - [PathLens: A Lightweight Multimodal Reasoner for In-Depth Pathology Insights](https://www.sciencedirect.com/science/article/pii/S0950705126009871), Zhu zhu, Huangwei Chen, Zhenyu Yan, Donghoo Zhang, Yueyi Wu, Yuqi Zhan, Weihao Cheng, Manli Zhao, Weizhong Gu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Feiwei Qin<sup>*</sup>, Gang Yu<sup>*</sup>. **Knowledge-Based Systems**.
 
