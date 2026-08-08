@@ -229,70 +229,156 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 -->
 
 # 🎖 Honors
-2025-2026 Academic Year:
-- Awarded **Tsinghua University College Scholarship** (¥ 5,000).
 
-2024-2025 Academic Year:
-- Recognized as **Outstanding Graduates of Zhejiang Province**.
-- Awarded **Graduate Entrance Examination Scholarship** (¥ 1,500).
+<style>
+.cv-grid{display:grid;grid-template-columns:1fr 1fr;gap:0;margin:.2em 0 1.1em;font-size:.88em;border:1px dashed #c5cbd1;border-radius:4px;overflow:hidden}
+.cv-grid .cell{display:flex;gap:10px;align-items:baseline;padding:8px 12px;line-height:1.4;border-top:1px dashed #d6dbe0;border-left:1px dashed #d6dbe0}
+.cv-grid .cell:nth-child(-n+2){border-top:none}
+.cv-grid .cell:nth-child(odd){border-left:none}
+.cv-grid .yr{flex:0 0 60px;color:#00369f;font-weight:700;font-variant-numeric:tabular-nums;font-size:.92em}
+.cv-grid .it{flex:1 1 auto}
+.cv-grid .amt{color:#7a8288;font-weight:400}
+.cv-grid .tag{display:block;margin-top:2px;font-size:.9em;font-weight:600;color:#00369f}
+.cv-grid .tag.t2{color:#3a6ea5}.cv-grid .tag.t3{color:#7a8288}
+.cv-sub{font-weight:700;color:#4b555c;font-size:.95em;margin:.5em 0 .35em}
+@media(max-width:680px){.cv-grid{grid-template-columns:1fr}.cv-grid .cell{border-left:none!important}.cv-grid .cell:nth-child(2){border-top:1px dashed #d6dbe0}}
+</style>
 
-2023-2024 Academic Year:
-- Awarded **National Scholarship** (¥ 8,000).
-- Awarded **University First-Class Scholarship** (¥ 1,500) twice.
-- Recognized as **Outstanding Student Cadre** at HDU.
-- Selected as one of the **Top 10 Students** in the 6th "Youth of HDU" program.
-- Selected as one of the **Top 10 Students** at the 2nd Future Science and Technology Festival.
+<div class="cv-sub" markdown="0">Scholarships</div>
+<div class="cv-grid" markdown="0">
+  <div class="cell"><span class="yr">2025&ndash;26</span><span class="it">Awarded <b>Tsinghua University College Scholarship</b> <span class="amt">(&yen; 5,000)</span>.</span></div>
+  <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Awarded <b>Graduate Entrance Examination Scholarship</b> <span class="amt">(&yen; 1,500)</span>.</span></div>
+  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Awarded <b>National Scholarship</b> <span class="amt">(&yen; 8,000)</span>.</span></div>
+  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Awarded <b>University First-Class Scholarships</b> <span class="amt">(&yen; 1,500)</span> twice.</span></div>
+  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Awarded <b>National Scholarship</b> <span class="amt">(&yen; 8,000)</span>.</span></div>
+  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Awarded <b>University First-Class Scholarships</b> <span class="amt">(&yen; 1,500)</span> twice.</span></div>
+  <div class="cell"><span class="yr">2021&ndash;22</span><span class="it">Awarded <b>Zhejiang Provincial Government Scholarship</b> <span class="amt">(&yen; 6,000)</span>.</span></div>
+  <div class="cell"><span class="yr">2021&ndash;22</span><span class="it">Awarded <b>University First-Class Scholarships</b> <span class="amt">(&yen; 1,500)</span> twice.</span></div>
+</div>
 
-2022-2023 Academic Year:
-- Awarded **National Scholarship** (¥ 8,000).
-- Awarded **University First-Class Scholarships** (¥ 1,500) twice.
-- Recognized as **Merit Student** at HDU.
-- Recognized as **Outstanding Student Cadre** at HDU.
-- Recognized as **Advanced Individual** at HDU.
-- Selected as **"Star of Innovation"** of the **Top 100 Outstanding Students** in the 5th "Youth of HDU" program.
-- Selected as **"Star of Innovation"** at the 1st Future Science and Technology Festival.
-
-2021-2022 Academic Year:
-- Awarded **Zhejiang Provincial Government Scholarship** (¥ 6,000).
-- Awarded **University First-Class Scholarships** (¥ 1,500) twice.
-- Recognized as **Outstanding Student Cadre** at HDU.
+<div class="cv-sub" markdown="0">Honors</div>
+<div class="cv-grid" markdown="0">
+  <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Recognized as <b>Outstanding Graduates of Zhejiang Province</b>.</span></div>
+  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Recognized as <b>Outstanding Student Cadre</b> at HDU.</span></div>
+  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Selected as one of the <b>Top 10 Students</b> in the 6th &ldquo;Youth of HDU&rdquo; program.</span></div>
+  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Selected as one of the <b>Top 10 Students</b> at the 2nd Future Science and Technology Festival.</span></div>
+  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as <b>Merit Student</b> at HDU.</span></div>
+  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as <b>Outstanding Student Cadre</b> at HDU.</span></div>
+  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as <b>Advanced Individual</b> at HDU.</span></div>
+  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Selected as <b>&ldquo;Star of Innovation&rdquo;</b> of the Top 100 Outstanding Students in the 5th &ldquo;Youth of HDU&rdquo; program.</span></div>
+  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Selected as <b>&ldquo;Star of Innovation&rdquo;</b> at the 1st Future Science and Technology Festival.</span></div>
+  <div class="cell"><span class="yr">2021&ndash;22</span><span class="it">Recognized as <b>Outstanding Student Cadre</b> at HDU.</span></div>
+</div>
 
 # 🏅 Awards
-- *2025* **1st Place** in the MICCAI autoPET Challenge.
-- *2025* **3rd place** in the MICCAI HECKTOR Challenge.
-- *2025* **2nd place** in the MICCAI VLM3D Challenge.
-- *2025* Nation Biomedical Engineering Innovation Design Competition for College Student - **National First Prize**.
-- *2024* China Postgraduate IC Innovation Competition · EDA Elite Challenge - **National First Prize**.
-- *2024* China International College Students’ Innovation Competition - **National Gold Award**.
-- *2024* Higher Education ICT Industry-teaching Integration Innovation Competition - **National Third Prize**.
-- *2023* Chinese Collegiate Computing Competition, Big Data Practice Track - **National First Prize**.
-- *2023* China College Students’ Service Outsourcing Innovation and Entrepreneurship Competition, Enterprise Proposition Category - **National Third Prize**.
-- *2023* iCAN College Students’ Innovation and Entrepreneurship Competition, Digital Entrepreneurship Simulation Challenge - **National First Prize**.
-- *2023* MCM/ICM Mathematical Contest in Modeling - **International Second Prize**.
+
+<style>
+.cv-hover .cell{transition:background .15s}
+.cv-hover .cell:hover{background:#f4f7fb}
+.cv-grid .fund-amt{display:inline-block;margin-left:4px;color:#00369f;font-weight:700;font-variant-numeric:tabular-nums}
+.cv-grid .role{display:inline-block;margin-left:8px;font-size:.8em;font-weight:600;color:#4b555c;background:#eef1f4;border:1px solid #e0e5ea;border-radius:3px;padding:0 7px;vertical-align:middle}
+.cv-grid .role.lead{color:#00369f;background:#e9effb;border-color:#cfe0fb}
+.cv-1col{grid-template-columns:1fr}
+.cv-1col .cell:nth-child(2){border-top:1px dashed #d6dbe0}
+.cv-1col .cell{border-left:none}
+</style>
+
+<div class="cv-grid cv-hover" markdown="0">
+  <div class="cell"><span class="yr">2025</span><span class="it">MICCAI autoPET Challenge<span class="tag">1st Place</span></span></div>
+  <div class="cell"><span class="yr">2025</span><span class="it">MICCAI VLM3D Challenge<span class="tag t2">2nd Place</span></span></div>
+  <div class="cell"><span class="yr">2025</span><span class="it">MICCAI HECKTOR Challenge<span class="tag t3">3rd Place</span></span></div>
+  <div class="cell"><span class="yr">2025</span><span class="it">National Biomedical Engineering Innovation Design Competition<span class="tag">National 1st Prize</span></span></div>
+  <div class="cell"><span class="yr">2024</span><span class="it">China Postgraduate IC Innovation Competition &middot; EDA Elite Challenge<span class="tag">National 1st Prize</span></span></div>
+  <div class="cell"><span class="yr">2024</span><span class="it">China International College Students&rsquo; Innovation Competition<span class="tag">National Gold</span></span></div>
+  <div class="cell"><span class="yr">2024</span><span class="it">Higher Education ICT Industry-teaching Integration Innovation Competition<span class="tag t3">National 3rd Prize</span></span></div>
+  <div class="cell"><span class="yr">2023</span><span class="it">Chinese Collegiate Computing Competition, Big Data Practice Track<span class="tag">National 1st Prize</span></span></div>
+  <div class="cell"><span class="yr">2023</span><span class="it">Service Outsourcing Innovation &amp; Entrepreneurship Competition<span class="tag t3">National 3rd Prize</span></span></div>
+  <div class="cell"><span class="yr">2023</span><span class="it">iCAN Innovation and Entrepreneurship Competition<span class="tag">National 1st Prize</span></span></div>
+  <div class="cell"><span class="yr">2023</span><span class="it">MCM/ICM Mathematical Contest in Modeling<span class="tag t2">International 2nd Prize</span></span></div>
+</div>
 
 # 💰 Funding
-- *2025* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program, **¥ 5,000**) - (Key Member).
-- *2024* National Undergraduate Innovation and Entrepreneurship Training Program (Normal Project, **¥ 10,000**) - (Key Member).
-- *2024* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program, **¥ 5,000**) - (Project Lead).
-- *2023* National Undergraduate Innovation and Entrepreneurship Training Program (Key Supporting Field Project, ¥ **20,000**) - (Project Lead).
+
+<style>
+.fund-tbl{display:grid;grid-template-columns:64px 1fr auto auto;column-gap:14px;margin:.2em 0 1.1em;font-size:.88em;border:1px dashed #c5cbd1;border-radius:4px;overflow:hidden}
+.fund-tbl>div{padding:8px 12px;line-height:1.4;border-top:1px dashed #d6dbe0;display:flex;align-items:baseline}
+.fund-tbl>div:nth-child(-n+4){border-top:none}
+.fund-tbl .c-yr{color:#00369f;font-weight:700;font-variant-numeric:tabular-nums}
+.fund-tbl .c-name .sub{color:#7a8288;font-weight:400}
+.fund-tbl .c-amt{color:#00369f;font-weight:700;font-variant-numeric:tabular-nums;justify-content:flex-end;white-space:nowrap}
+.fund-tbl .c-role{justify-content:flex-end}
+.fund-tbl .c-role span{font-size:.85em;font-weight:600;color:#4b555c;background:#eef1f4;border:1px solid #e0e5ea;border-radius:3px;padding:1px 8px;white-space:nowrap}
+.fund-tbl .c-role span.lead{color:#00369f;background:#e9effb;border-color:#cfe0fb}
+.fund-tbl .rowbg:hover>div,.fund-tbl>div:hover{background:#f4f7fb}
+@media(max-width:680px){
+.fund-tbl{grid-template-columns:1fr auto}
+.fund-tbl .c-yr{grid-column:1}.fund-tbl .c-role{grid-column:2}
+.fund-tbl .c-name{grid-column:1 / -1;border-top:none;padding-top:0}
+.fund-tbl .c-amt{grid-column:1 / -1;border-top:none;padding-top:0;justify-content:flex-start}
+}
+</style>
+
+<div class="fund-tbl" markdown="0">
+  <div class="c-yr">2025</div><div class="c-name">Zhejiang Provincial Undergraduate Sci-Tech Innovation Activities Program (New Talent Program)</div><div class="c-amt">&yen; 5,000</div><div class="c-role"><span>Key Member</span></div>
+  <div class="c-yr">2024</div><div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program (Normal Project)</div><div class="c-amt">&yen; 10,000</div><div class="c-role"><span>Key Member</span></div>
+  <div class="c-yr">2024</div><div class="c-name">Zhejiang Provincial Undergraduate Sci-Tech Innovation Activities Program (New Talent Program)</div><div class="c-amt">&yen; 5,000</div><div class="c-role"><span class="lead">Project Lead</span></div>
+  <div class="c-yr">2023</div><div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program (Key Supporting Field Project)</div><div class="c-amt">&yen; 20,000</div><div class="c-role"><span class="lead">Project Lead</span></div>
+</div>
 
 # 🔖 Academic Services
-+ *Conference Organization*: Medical Imaging Computing Seminar (MICS), 2026.
-+ *Teaching Assistantship*: Medical Image Processing (Undergraduate Course), School of Biomedical Engineering, Tsinghua University, 2025, 2026.
-+ *Journal Reviewers* of: MIA, PR, TCSVT, EAAI, KBS, ESWA, JBHI, COMPAG, COMPUT IND, CIBM, CMIG, BSPC, JSCI, MEAS, SR, MPB, IJCARS, IMAVIS, JDIM, DISPLA, BMC AI, MVA, SIVP, MEX, IRBM, DSP, Discover AI, COMPJ.
-+ *Conference Reviewers* of: CVPR 2026, ECCV 2026, MIDL 2026, ICME 2026, ICASSP 2026, ISMRM 2026, NeurIPS 2025, AAAI 2025, ECAI 2025, MICCAI 2025, BMVC 2025, CHIL 2025, SciPy 2025, ICECET 2025, ACDSA 2025.
+
+<style>
+.svc{margin:.2em 0 1.2em;font-size:.9em}
+.svc .sblock{padding:10px 0;border-top:1px dashed #d6dbe0}
+.svc .sblock:first-child{border-top:none}
+.svc .slabel{display:flex;align-items:center;gap:7px;font-weight:700;color:#00369f;font-size:.92em;margin-bottom:5px}
+.svc .slabel:before{content:"";width:6px;height:6px;border-radius:50%;background:#00369f;flex:0 0 auto}
+.svc .sbody{line-height:1.7}
+.svc .chips{display:flex;flex-wrap:wrap;gap:6px}
+.svc .chip{display:inline-block;padding:2px 9px;font-size:.82em;color:#3a4750;background:#eef2f7;border-radius:4px;white-space:nowrap;transition:background .15s,color .15s}
+.svc .chip:hover{background:#dbe6f8;color:#00369f}
+
+.tl{margin:.2em 0 1.2em;font-size:.9em;display:grid;grid-template-columns:96px 1fr;column-gap:14px}
+.tl>div{padding:7px 0;border-top:1px dashed #d6dbe0;line-height:1.45}
+.tl>div:nth-child(-n+2){border-top:none}
+.tl .c-date{color:#00369f;font-weight:700;font-variant-numeric:tabular-nums;font-size:.9em}
+.tl .c-ev .loc{color:#7a8288}
+@media(max-width:680px){.tl{grid-template-columns:78px 1fr;column-gap:10px}}
+</style>
+
+<div class="svc" markdown="0">
+  <div class="sblock">
+    <div class="slabel">Conference Organization</div>
+    <div class="sbody">Medical Imaging Computing Seminar (MICS), 2026.</div>
+  </div>
+  <div class="sblock">
+    <div class="slabel">Teaching Assistantship</div>
+    <div class="sbody">Medical Image Processing (Undergraduate Course), School of Biomedical Engineering, Tsinghua University, 2025, 2026.</div>
+  </div>
+  <div class="sblock">
+    <div class="slabel">Journal Reviewer</div>
+    <div class="sbody"><div class="chips"><span class="chip">MIA</span><span class="chip">PR</span><span class="chip">TCSVT</span><span class="chip">EAAI</span><span class="chip">KBS</span><span class="chip">ESWA</span><span class="chip">JBHI</span><span class="chip">COMPAG</span><span class="chip">COMPUT IND</span><span class="chip">CIBM</span><span class="chip">CMIG</span><span class="chip">BSPC</span><span class="chip">JSCI</span><span class="chip">MEAS</span><span class="chip">SR</span><span class="chip">MPB</span><span class="chip">IJCARS</span><span class="chip">IMAVIS</span><span class="chip">JDIM</span><span class="chip">DISPLA</span><span class="chip">BMC AI</span><span class="chip">MVA</span><span class="chip">SIVP</span><span class="chip">MEX</span><span class="chip">IRBM</span><span class="chip">DSP</span><span class="chip">Discover AI</span><span class="chip">COMPJ</span></div></div>
+  </div>
+  <div class="sblock">
+    <div class="slabel">Conference Reviewer</div>
+    <div class="sbody"><div class="chips"><span class="chip">CVPR 2026</span><span class="chip">ECCV 2026</span><span class="chip">MIDL 2026</span><span class="chip">ICME 2026</span><span class="chip">ICASSP 2026</span><span class="chip">ISMRM 2026</span><span class="chip">NeurIPS 2025</span><span class="chip">AAAI 2025</span><span class="chip">ECAI 2025</span><span class="chip">MICCAI 2025</span><span class="chip">BMVC 2025</span><span class="chip">CHIL 2025</span><span class="chip">SciPy 2025</span><span class="chip">ICECET 2025</span><span class="chip">ACDSA 2025</span></div></div>
+  </div>
+</div>
 
 # 👯 Academic Activities
-- *2026.07.10* Attended the 2026 Medical Imaging Computing Seminar in Beijing, China.
-- *2026.03.02* Attended the 2025 ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart, and Placenta Imaging in Washington, D.C., USA.
-- *2025.10.10* Attended the 2025 International Symposium on Image Computing and Digital Medicine in Beijing, China.
-- *2025.09.23* Attended the 2025 International Conference on Medical Image Computing and Computer Assisted Intervention in Daejeon, Korea.
-- *2025.09.09* Attended the 2025 Beijing Radiology Quality Control Conference in Beijing, China.
-- *2025.07.18* Attended the 2025 Medical Imaging Computing Seminar in Cixi, Zhejiang, China.
-- *2025.07.09* Attended the 2025 Medical Imaging with Deep Learning in Salt Lake City, Utah, USA.
-- *2025.06.20* Attended the 2025 China Biomedical Engineering Conference & Medical Innovation Summit in Suzhou, Jiangsu, China.
-- *2025.05.10* Attended the 2025 ISMRM & ISMRT Annual Meeting & Exhibition in Honolulu, Hawaii, USA.
-- *2025.02.16* Attended the 2025 ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan.
+
+<div class="tl" markdown="0">
+  <div class="c-date">2026.07.10</div><div class="c-ev">2026 Medical Imaging Computing Seminar <span class="loc">Beijing, China</span></div>
+  <div class="c-date">2026.03.02</div><div class="c-ev">2025 ISMRM Workshop on Unlocking the Potential of Prenatal MRI <span class="loc">Washington, D.C., USA</span></div>
+  <div class="c-date">2025.10.10</div><div class="c-ev">2025 International Symposium on Image Computing and Digital Medicine <span class="loc">Beijing, China</span></div>
+  <div class="c-date">2025.09.23</div><div class="c-ev">2025 International Conference on Medical Image Computing and Computer Assisted Intervention <span class="loc">Daejeon, Korea</span></div>
+  <div class="c-date">2025.09.09</div><div class="c-ev">2025 Beijing Radiology Quality Control Conference <span class="loc">Beijing, China</span></div>
+  <div class="c-date">2025.07.18</div><div class="c-ev">2025 Medical Imaging Computing Seminar <span class="loc">Cixi, Zhejiang, China</span></div>
+  <div class="c-date">2025.07.09</div><div class="c-ev">2025 Medical Imaging with Deep Learning <span class="loc">Salt Lake City, Utah, USA</span></div>
+  <div class="c-date">2025.06.20</div><div class="c-ev">2025 China Biomedical Engineering Conference &amp; Medical Innovation Summit <span class="loc">Suzhou, Jiangsu, China</span></div>
+  <div class="c-date">2025.05.10</div><div class="c-ev">2025 ISMRM &amp; ISMRT Annual Meeting &amp; Exhibition <span class="loc">Honolulu, Hawaii, USA</span></div>
+  <div class="c-date">2025.02.16</div><div class="c-ev">2025 ISMRM Workshop on 40 Years of Diffusion: Past, Present &amp; Future Perspectives <span class="loc">Kyoto, Japan</span></div>
+</div>
 
 <!--
 # 💬 Talks and Presentations
