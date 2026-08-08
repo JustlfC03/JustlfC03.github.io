@@ -38,7 +38,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 
 # 🔥 News
 - *2026.08.08*: 🎉🎉 Our paper has been accepted by [BMVC 2026](https://bmvc2026.bmva.org/)!
-- *2025.07.31*: 🎉🎉 Our paper has been accepted by [MICCAI 2026 Workshop on Perinatal, Preterm and Paediatric Image Analysis](https://pippiworkshop.github.io/)!
+- *2026.07.31*: 🎉🎉 Our paper has been accepted by [MICCAI 2026 Workshop on Perinatal, Preterm and Paediatric Image Analysis](https://pippiworkshop.github.io/)!
 - *2026.07.27*: 🎉🎉 Our paper has been accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)!
 - *2026.06.28*: 🎉🎉 Our paper has been accepted by [IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/)!
 - *2026.06.13*: 🎉🎉 Our two papers have been accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/)!
@@ -95,7 +95,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 
 - [MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation](https://www.sciencedirect.com/science/article/pii/S0031320326011088). Jinying Zong<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝, *</sup></span>, Mingxuan Liu<sup>✝</sup>, Yuxin Du, Changwei Wu, Beining Wu, Guanyu Zhou, Feiwei Qin<sup>*</sup>. **Pattern Recognition 2026**.
 
-- [PathLens: A Lightweight Multimodal Reasoner for In-Depth Pathology Insights](https://www.sciencedirect.com/science/article/pii/S0950705126009871). Zhu zhu, Huangwei Chen, Zhenyu Yan, Donghoo Zhang, Yueyi Wu, Yuqi Zhan, Weihao Cheng, Manli Zhao, Weizhong Gu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Feiwei Qin<sup>*</sup>, Gang Yu<sup>*</sup>. **Knowledge-Based Systems**.
+- [PathLens: A Lightweight Multimodal Reasoner for In-Depth Pathology Insights](https://www.sciencedirect.com/science/article/pii/S0950705126009871). Zhu Zhu, Huangwei Chen, Zhenyu Yan, Donghao Zhang, Yueyi Wu, Yuqi Zhan, Weihao Cheng, Manli Zhao, Weizhong Gu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Feiwei Qin<sup>*</sup>, Gang Yu<sup>*</sup>. **Knowledge-Based Systems 2026**.
 
 - [No Modality Left Behind: Adapting to Missing Modalities via Knowledge Distillation for Brain Tumor Segmentation](https://www.sciencedirect.com/science/article/pii/S1361841526001775). Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Shuo Jiang, Guanyu Zhou, Yuanhan Wang, Feiwei Qin<sup>*</sup>, Changmiao Wang, Qiyuan Tian<sup>*</sup>. **Medical Image Analysis 2026**.
 
@@ -122,7 +122,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 
 - [FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis](https://justlfc03.github.io/). Xiaotian Hu<sup>✝</sup>, Junwei Huang<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, Kasidit Anmahapong, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Yitong Luo, Yimin Huang, Xuguang Bai, Zihan Li, Yi Liao, Haibo Qu, Qiyuan Tian<sup>*</sup>. **MICCAI 2026**.
 
-- [R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound](https://justlfc03.github.io/). Yuanhan Wang<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Beining Wu, Mingxuan Liu, Xiaotian Hu, Chunbo Jiang, Yijin Li, Changmiao Wang, Feiwei Qin<sup>*</sup>, Qiyuan Tian<sup>*</sup>. **MICCAI 2026 Workshop on Perinatal, Preterm and Paediatric Image Analysis**.
+- (**Oral**) [R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound](https://justlfc03.github.io/). Yuanhan Wang<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Beining Wu, Mingxuan Liu, Xiaotian Hu, Chunbo Jiang, Yijin Li, Changmiao Wang, Feiwei Qin<sup>*</sup>, Qiyuan Tian<sup>*</sup>. **MICCAI 2026 Workshop on Perinatal, Preterm and Paediatric Image Analysis**.
 
 - [GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT](https://justlfc03.github.io/). Shuo Jiang<sup>✝</sup>, Yuhao Hong<sup>✝</sup>, Chunbo Jiang, Weihong Chen, Huangwei Chen, Shenghao Zhu, Beining Wu, Mingxuan Liu, Zhu Zhu, Feiwei Qin<sup>*</sup>, Min Tan, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>*</sup></span>. **MICCAI 2026**.
 
@@ -161,7 +161,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 
 - (**Oral**) [BioTTA: Maximizing Domain Generalization in Automatic Fetal Brain Biometry with Test-Time Adaptation](https://justlfc03.github.io/). Yijin Li, Mingxuan Liu, Hongjia Yang, Xiaotian Hu, Yi Liao, Kasidit Anmahapong, Ziang Wang, Junchen Zhu, Yingqi Hao, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Haoxiang Li, Ziyu Li, Fenglin Jia, Haibo Qu, Qiyuan Tian<sup>*</sup>. **ISMRM 2026**.
 
-- (**Oral**) [INSTA: Implicit Neural Spatio-Temporal Atlas from Thick-Slice Clinical Fetal Brain MRI](https://justlfc03.github.io/). Xiaotian Hu, Mingxuan Liu, Hongjia Yang, Yijin Li, Yinqi Hao, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Junchen Zhu, Yi Liao, Gang Ning, Haibo Qu, Qiyuan Tian<sup>*</sup>. **ISMRM 2026 Workshop on Unlocking the Potential of Prenatal MRI**.
+- (**Oral**) [INSTA: Implicit Neural Spatio-Temporal Atlas from Thick-Slice Clinical Fetal Brain MRI](https://justlfc03.github.io/). Xiaotian Hu, Mingxuan Liu, Hongjia Yang, Yijin Li, Yingqi Hao, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Junchen Zhu, Yi Liao, Gang Ning, Haibo Qu, Qiyuan Tian<sup>*</sup>. **ISMRM 2026 Workshop on Unlocking the Potential of Prenatal MRI**.
 
 - [Quality-Label-Free Stack-Level Quality Control Improves Fetal Brain Slice-to-Volume Reconstruction](https://justlfc03.github.io/). Mingxuan Liu, Yingqi Hao, Yi Liao, Haoxiang Li, Junchen Zhu, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Xuguang Bai, Haibo Qu, Qiyuan Tian<sup>*</sup>. **ISMRM 2026 Workshop on Unlocking the Potential of Prenatal MRI**.
 
@@ -189,7 +189,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2024* **Second Prize** in Chinese Collegiate Computing Competition.
 - *2023* **Gold Award** in China International College Students' Innovation Competition.
 - *2023* **First Prize** in Chinese Collegiate Computing Competition.
-- *2023* **Third Prize** China College Students' Service Outsourcing Innovation and Entrepreneurship Competition.
+- *2023* **Third Prize** in China College Students' Service Outsourcing Innovation and Entrepreneurship Competition.
 - *2023* **First Prize** in iCAN College Students' Innovation and Entrepreneurship Competition.
 - *2023* **Second Prize** in MCM/ICM Mathematical Contest in Modeling.
 
@@ -200,16 +200,19 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2023* National Undergraduate Innovation and Entrepreneurship Training Program (**Project Lead**, **Key Supporting Field Project**).
 
 # 👯 Academic Activities
+- *2026.07.10* Attended the 2026 Medical Imaging Computing Seminar in Beijing, China.
 - *2026.03.02* Attended the 2025 ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart, and Placenta Imaging in Washington, D.C., USA.
 - *2025.10.10* Attended the 2025 International Symposium on Image Computing and Digital Medicine in Beijing, China.
 - *2025.09.23* Attended the 2025 International Conference on Medical Image Computing and Computer Assisted Intervention in Daejeon, Korea.
 - *2025.09.09* Attended the 2025 Beijing Radiology Quality Control Conference in Beijing, China.
 - *2025.07.18* Attended the 2025 Medical Imaging Computing Seminar in Cixi, Zhejiang, China.
-- *2025.07.09* Attended the 2025 Medical Imaging with Deep Learning in Salt Lake City, Utah, United States of America.
+- *2025.07.09* Attended the 2025 Medical Imaging with Deep Learning in Salt Lake City, Utah, USA.
 - *2025.06.20* Attended the 2025 China Biomedical Engineering Conference & Medical Innovation Summit in Suzhou, Jiangsu, China.
-- *2025.05.10* Attended the 2025 ISMRM & ISMRT Annual Meeting & Exhibition in Honolulu, Hawaii, United States of America.
+- *2025.05.10* Attended the 2025 ISMRM & ISMRT Annual Meeting & Exhibition in Honolulu, Hawaii, USA.
 - *2025.02.16* Attended the 2025 ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan.
 
 # 💬 Academic Services
++ *Conference Organization*: Medical Imaging Computing Seminar (MICS), 2026.
++ *Teaching Assistantship*: Medical Image Processing (Undergraduate Course, 3 Units), School of Biomedical Engineering, Tsinghua University, 2025, 2026.
 + *Journal Reviewers* of: MIA, PR, TCSVT, EAAI, KBS, ESWA, JBHI, COMPAG, COMPUT IND, CIBM, CMIG, BSPC, JSCI, MEAS, SR, MPB, IJCARS, IMAVIS, JDIM, DISPLA, BMC AI, MVA, SIVP, MEX, IRBM, DSP, Discover AI, COMPJ.
-+ *Conference Reviewers* of: CVPR 2026, ECCV 2026, MIDL 2026, ICME 2026, ICASSP 2026, ISMRM 2026, NeurIPS 2025, AAAI 2025, ECAI 2025, MICCAI 2025, BMVC2025, CHIL 2025, SciPy 2025, ICECET 2025, ACDSA 2025.
++ *Conference Reviewers* of: CVPR 2026, ECCV 2026, MIDL 2026, ICME 2026, ICASSP 2026, ISMRM 2026, NeurIPS 2025, AAAI 2025, ECAI 2025, MICCAI 2025, BMVC 2025, CHIL 2025, SciPy 2025, ICECET 2025, ACDSA 2025.
