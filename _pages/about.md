@@ -56,6 +56,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2026.02.04*: 🎉🎉 Our two abstracts have been accepted by [ISMRM 2026](https://www.ismrm.org/26m/)!
 - *2026.01.27*: 🎉🎉 Our two abstracts have been accepted by [ISMRM Workshop on Unlocking the Potential of Prenatal MRI](https://www.ismrm.org/workshops/2026/PrenatalMRI/)!
 - *2026.01.09*: 🎉🎉 Our paper has been accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)!
+<!--
 - *2025.11.08*: 🎉🎉 Our paper has been accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)!
 - *2025.10.21*: 🎉🎉 Our paper has been accepted by [IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/)!
 - *2025.10.05*: 🎉🎉 Our two papers have been accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)!
@@ -72,6 +73,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2024.12.24*: 🎉🎉 Our abstract has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/)!
 - *2024.12.21*: 🎉🎉 Our paper has been accepted by [ICASSP 2025](https://2025.ieeeicassp.org/)!
 - *2024.12.17*: 🎉🎉 Our paper has been accepted by [Scientific Data](https://www.nature.com/sdata/)!
+-->
 
 # 📝 Publications
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
