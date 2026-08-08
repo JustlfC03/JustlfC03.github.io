@@ -227,7 +227,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2024* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program, **¥ 5,000**) - (Project Lead).
 - *2023* National Undergraduate Innovation and Entrepreneurship Training Program (Key Supporting Field Project, ¥ **20,000**) - (Project Lead).
 
-# 💬 Academic Services
+# 🔖 Academic Services
 + *Conference Organization*: Medical Imaging Computing Seminar (MICS), 2026.
 + *Teaching Assistantship*: Medical Image Processing (Undergraduate Course, 3 Units), School of Biomedical Engineering, Tsinghua University, 2025, 2026.
 + *Journal Reviewers* of: MIA, PR, TCSVT, EAAI, KBS, ESWA, JBHI, COMPAG, COMPUT IND, CIBM, CMIG, BSPC, JSCI, MEAS, SR, MPB, IJCARS, IMAVIS, JDIM, DISPLA, BMC AI, MVA, SIVP, MEX, IRBM, DSP, Discover AI, COMPJ.
@@ -244,3 +244,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2025.06.20* Attended the 2025 China Biomedical Engineering Conference & Medical Innovation Summit in Suzhou, Jiangsu, China.
 - *2025.05.10* Attended the 2025 ISMRM & ISMRT Annual Meeting & Exhibition in Honolulu, Hawaii, USA.
 - *2025.02.16* Attended the 2025 ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan.
+
+<!--
+# 💬 Talks and Presentations
+-->
