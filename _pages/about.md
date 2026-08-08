@@ -172,15 +172,6 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - [DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications](https://justlfc03.github.io/). <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Shenghao Zhu, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>. **ISMRM 2025 Workshop on 40 Years of Diffusion**.
 
 # 🎖 Honors
-- *2025-2026 Academic Year*, **Tsinghua University College Scholarship**.
-- *2025-2026 Academic Year*, **Graduate Entrance Examination Scholarship**.
-- *2025-2026 Academic Year*, **Outstanding Graduates of Zhejiang Province**.
-- *2023-2024 Academic Year*, twice **HDU First-class Scholarships** and **National Scholarship**.
-- *2023-2024 Academic Year*, **Top 10 Outstanding Students** in the 6th "Youth of HDU" program.
-- *2022-2023 Academic Year*, twice **HDU First-class Scholarships** and **National Scholarship**.
-- *2022-2023 Academic Year*, "Innovation Star" of the **Top 100 Outstanding Students** in the 5th "Youth of HDU" program.
-- *2021-2022 Academic Year*, twice **HDU First-class Scholarships** and **Zhejiang Provincial Government Scholarship**.
-
 2025-2026 Academic Year:
 - Awarded **Tsinghua University College Scholarship** (¥ 5,000).
 
