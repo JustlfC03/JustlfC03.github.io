@@ -229,7 +229,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 
 # 🔖 Academic Services
 + *Conference Organization*: Medical Imaging Computing Seminar (MICS), 2026.
-+ *Teaching Assistantship*: Medical Image Processing (Undergraduate Course, 3 Units), School of Biomedical Engineering, Tsinghua University, 2025, 2026.
++ *Teaching Assistantship*: Medical Image Processing (Undergraduate Course), School of Biomedical Engineering, Tsinghua University, 2025, 2026.
 + *Journal Reviewers* of: MIA, PR, TCSVT, EAAI, KBS, ESWA, JBHI, COMPAG, COMPUT IND, CIBM, CMIG, BSPC, JSCI, MEAS, SR, MPB, IJCARS, IMAVIS, JDIM, DISPLA, BMC AI, MVA, SIVP, MEX, IRBM, DSP, Discover AI, COMPJ.
 + *Conference Reviewers* of: CVPR 2026, ECCV 2026, MIDL 2026, ICME 2026, ICASSP 2026, ISMRM 2026, NeurIPS 2025, AAAI 2025, ECAI 2025, MICCAI 2025, BMVC 2025, CHIL 2025, SciPy 2025, ICECET 2025, ACDSA 2025.
 
