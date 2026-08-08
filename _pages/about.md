@@ -81,7 +81,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 <span style="color:#b02418; font-weight:bold;">✝</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 #### Selected JOURNAL PAPERS [Full list is available in Google Scholar]
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2026</div><img src='images/MorVess.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MorVess: Morphology-Aware Pulmonary Vessel Segmentation Network](https://www.sciencedirect.com/science/article/pii/S0031320326015141)
