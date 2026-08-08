@@ -257,20 +257,6 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 - Awarded **University First-Class Scholarships** (¥ 1,500) twice.
 - Recognized as **Outstanding Student Cadre** at HDU.
 
-# 🎖 Honors & Awards
-
-<div align="center">
-
-| Year | Honors |
-| :--- | :--- |
-| **2025–2026** | **Tsinghua University College Scholarship** (¥5,000) |
-| **2024–2025** | **Outstanding Graduates of Zhejiang Province** <br> Graduate Entrance Examination Scholarship (¥1,500) |
-| **2023–2024** | **National Scholarship** (¥8,000) <br> University First-Class Scholarship ×2 <br> Top 10 Students, *Youth of HDU* <br> Top 10 Students, Future Science & Technology Festival <br> Outstanding Student Cadre |
-| **2022–2023** | **National Scholarship** (¥8,000) <br> University First-Class Scholarship ×2 <br> Star of Innovation, *Youth of HDU* <br> Star of Innovation, Future Science & Technology Festival <br> Outstanding Student Cadre & Merit Student |
-| **2021–2022** | **Zhejiang Provincial Government Scholarship** (¥6,000) <br> University First-Class Scholarship ×2 <br> Outstanding Student Cadre |
-
-</div>
-
 # 🏅 Awards
 - *2025* **1st Place** in the MICCAI autoPET Challenge.
 - *2025* **3rd place** in the MICCAI HECKTOR Challenge.
