@@ -118,6 +118,9 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 <div class='paper-box-text' markdown="1">
 [Sckansformer: Fine-grained classification of bone marrow cells via kansformer backbone and hierarchical attention mechanisms](https://ieeexplore.ieee.org/abstract/document/10713291)
 <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhu Zhu<sup>✝, *</sup>, Shenghao Zhu, Linwei Qiu, Binfeng Zou, Fan Jia, Yunpeng Zhu, Chenyan Zhang, Zhaojie Fang, Feiwei Qin<sup>*</sup>, Jin Fan, Changmiao Wang, Gang Yu, Yu Gao. **IEEE Journal of Biomedical and Health Informatics 2025**.
+
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QpOCKMwAAAAJ&citation_for_view=QpOCKMwAAAAJ:d1gkVwhDpl0C'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
+[![](https://img.shields.io/github/stars/JustlfC03/SCKansformer?style=social&label=Code+Stars)](https://github.com/JustlfC03/SCKansformer)
 </div>
 </div>
 
