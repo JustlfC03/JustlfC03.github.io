@@ -101,7 +101,9 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 
 - [MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation](https://www.sciencedirect.com/science/article/pii/S0031320326011088). Jinying Zong<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝, *</sup></span>, Mingxuan Liu<sup>✝</sup>, Yuxin Du, Changwei Wu, Beining Wu, Guanyu Zhou, Feiwei Qin<sup>*</sup>. **Pattern Recognition 2026**.
 
+<!--
 - [PathLens: A Lightweight Multimodal Reasoner for In-Depth Pathology Insights](https://www.sciencedirect.com/science/article/pii/S0950705126009871). Zhu Zhu, Huangwei Chen, Zhenyu Yan, Donghao Zhang, Yueyi Wu, Yuqi Zhan, Weihao Cheng, Manli Zhao, Weizhong Gu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Feiwei Qin<sup>*</sup>, Gang Yu<sup>*</sup>. **Knowledge-Based Systems 2026**.
+-->
 
 - [No Modality Left Behind: Adapting to Missing Modalities via Knowledge Distillation for Brain Tumor Segmentation](https://www.sciencedirect.com/science/article/pii/S1361841526001775). Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Shuo Jiang, Guanyu Zhou, Yuanhan Wang, Feiwei Qin<sup>*</sup>, Changmiao Wang, Qiyuan Tian<sup>*</sup>. **Medical Image Analysis 2026**.
 
@@ -109,24 +111,36 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 
 - [Tc-kanrecon: High-quality and accelerated mri reconstruction via adaptive kan mechanisms and intelligent feature scaling](https://ieeexplore.ieee.org/abstract/document/11223166). Ruiquan Ge, Xiao Yu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Fan Jia, Shenghao Zhu, Dong Zeng, Changmiao Wang, Qiegen Liu<sup>*</sup>, Shanzhou Niu<sup>*</sup>. **IEEE Journal of Biomedical and Health Informatics 2025**.
 
+<!--
 - [MICCAI 2023 STS Challenge: A retrospective study of semi-supervised approaches for teeth segmentation](https://www.sciencedirect.com/science/article/pii/S0031320325007095). Yaqi Wang, Yifan Zhang, ..., <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, ... Jun Liu<sup>*</sup>, ..., Huiyu Zhou<sup>*</sup>, Qun Jin. **Pattern Recognition 2025**.
+-->
 
 - [A multi-modal dental dataset for semi-supervised deep learning image segmentation](https://www.nature.com/articles/s41597-024-04306-9). Yaqi Wang, Fan Ye, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chengkai Wang, Chengyu Wu, Feng Xu, Zhean Ma, Yi Liu, Yifan Zhang, Mingguo Cao<sup>*</sup>, Xiaodiao Chen<sup>*</sup>. **Scientific Data 2025**.
 
+<!--
 - [LPUWF-LDM: Enhanced latent diffusion model for precise late-phase UWF-FA generation on limited dataset](https://www.sciencedirect.com/science/article/abs/pii/S0957417425000934). Zhaojie Fang, Xiao Yu, Guanyu Zhou, Ke Zhuang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Ruiquan Ge<sup>*</sup>, Changmiao Wang<sup>*</sup>, Gangyong Jia, Qing Wu, Juan Ye, Maimaiti Nuliqiman, Peifang Xu, Ahmed Elazab. **Expert Systems with Applications 2025**.
+-->
 
 - [Sckansformer: Fine-grained classification of bone marrow cells via kansformer backbone and hierarchical attention mechanisms](https://ieeexplore.ieee.org/abstract/document/10713291). <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhu Zhu<sup>✝, *</sup>, Shenghao Zhu, Linwei Qiu, Binfeng Zou, Fan Jia, Yunpeng Zhu, Chenyan Zhang, Zhaojie Fang, Feiwei Qin<sup>*</sup>, Jin Fan, Changmiao Wang, Gang Yu, Yu Gao. **IEEE Journal of Biomedical and Health Informatics 2024**.
 
 - [Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases](https://www.sciencedirect.com/science/article/abs/pii/S0010482524000015). <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>*</sup>, Yong Peng, Yu Gao. **Computers in Biology and Medicine 2024**.
 
 #### Selected CONFERENCE PAPERS [Full list is available in Google Scholar]
+<!--
 - [FetAngle: Toward Generalizable Automated Fetal Brain Angle Biometry via Test-Time Adaptation](https://justlfc03.github.io/). Yitong Luo<sup>✝</sup>, Yijin Li<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, Yi Liao, Kasidit Anmahapong, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Xiaotian Hu, Haibo Qu<sup>*</sup>, Qiyuan Tian<sup>*</sup>. **BMVC 2026**.
+-->
 
+<!--
 - [ASTAR: Automated Induction of Standardized Medical Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora](https://justlfc03.github.io/). Xinfeng Zhang<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Juncheng Zhu, Kasidit Anmahapong, Yiming Huang, Yuan Zhang, Hongjia Yang, Yi Liao, Gang Ning, Haibo Qu, Qiyuan Tian<sup>*</sup>. **MICCAI 2026**.
+-->
 
+<!--
 - [Directed Ordinal Diffusion Regularization for Progression-Aware Diabetic Retinopathy Grading](https://justlfc03.github.io/). Huangwei Chen<sup>✝</sup>, Junhao Jia<sup>✝</sup>, Ruocheng Li, Cunyuan Yang, Wu Li, Xiaotao Pang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Haishuai Wang<sup>*</sup>, Jiajun Bu, Lei Wu<sup>*</sup>. **MICCAI 2026**.
+-->
 
+<!--
 - [FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis](https://justlfc03.github.io/). Xiaotian Hu<sup>✝</sup>, Junwei Huang<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, Kasidit Anmahapong, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Yitong Luo, Yimin Huang, Xuguang Bai, Zihan Li, Yi Liao, Haibo Qu, Qiyuan Tian<sup>*</sup>. **MICCAI 2026**.
+-->
 
 - (**Oral**) [R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound](https://justlfc03.github.io/). Yuanhan Wang<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Beining Wu, Mingxuan Liu, Xiaotian Hu, Chunbo Jiang, Yijin Li, Changmiao Wang, Feiwei Qin<sup>*</sup>, Qiyuan Tian<sup>*</sup>. **MICCAI 2026 Workshop on Perinatal, Preterm and Paediatric Image Analysis**.
 
@@ -154,6 +168,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 
 - (**Oral**) [TC-DiffRecon: Texture coordination MRI reconstruction method based on diffusion model and modified MF-UNet method](https://ieeexplore.ieee.org/document/10635308). Chenyan Zhang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhenxiong Fan, Yiyu Huang, Wenchao Weng, Ruiquan Ge<sup>*</sup>, Dong Zeng, Changmiao Wang<sup>*</sup>. **ISBI 2024**.
 
+<!--
 #### Selected CONFERENCE ABSTRACTS [Full list is available in Google Scholar]
 - [Modality-Agnostic PET Synthesis from Single-Modality Thick-Slice MRI via Structured MRI-PET Mapping](https://justlfc03.github.io/). <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Guanyu Zhou, Yuanhan Wang, Mingxuan Liu, Xuguang Bai, Jialan Zheng, Bixiao Cui, Jie Lu, Qiyuan Tian<sup>*</sup>. **OHBM 2026**.
 
@@ -176,6 +191,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - [DiffKAN: Convolutional Kolmogorov-Arnold Networks for Improved Diffusion MRI Microstructural Modeling](https://justlfc03.github.io/). <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Yuanhan Wang, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>. **ISMRM 2025**.
 
 - [DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications](https://justlfc03.github.io/). <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Shenghao Zhu, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>. **ISMRM 2025 Workshop on 40 Years of Diffusion**.
+-->
 
 # 🎖 Honors
 2025-2026 Academic Year:
