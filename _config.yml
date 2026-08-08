@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yifei Chen（陈一飞）"
-description              : Specializing in Artificial Intelligence for Medicine.
+description              : Developing foundation models and multimodal AI systems for medical imaging, diagnosis, and precision healthcare.
 repository               : "JustlfC03/JustlfC03.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yifei Chen"
   avatar           : "images/profile.png"
-  bio              : "Tsinghua University"
+  bio              : "Ph.D. Student @ Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
