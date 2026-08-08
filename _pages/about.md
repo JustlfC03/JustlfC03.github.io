@@ -224,16 +224,17 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - Recognized as **Outstanding Student Cadre** at HDU.
 
 # 🏅 Awards
-- *2025* **First Prize** in National Biomedical Engineering Innovation Design Competition for College Students.
-- *2024* **First Prize** in China Postgraduate IC Innovation Competition · EDA Elite Challenge.
-- *2024* **Gold Award** in China International College Students' Innovation Competition.
-- *2024* **Third Prize** in Higher Education ICT Industry-teaching Integration Innovation Competition.
-- *2024* **Second Prize** in Chinese Collegiate Computing Competition.
-- *2023* **Gold Award** in China International College Students' Innovation Competition.
-- *2023* **First Prize** in Chinese Collegiate Computing Competition.
-- *2023* **Third Prize** in China College Students' Service Outsourcing Innovation and Entrepreneurship Competition.
-- *2023* **First Prize** in iCAN College Students' Innovation and Entrepreneurship Competition.
-- *2023* **Second Prize** in MCM/ICM Mathematical Contest in Modeling.
+- *2025* **1st Place** in the MICCAI autoPET Challenge.
+- *2025* **3rd place** in the MICCAI HECKTOR Challenge.
+- *2025* **2nd place** in the MICCAI VLM3D Challenge.
+- *2025* Nation Biomedical Engineering Innovation Design Competition for College Student - **National First Prize**.
+- *2024* China Postgraduate IC Innovation Competition · EDA Elite Challenge - **National First Prize**.
+- *2024* China International College Students’ Innovation Competition - **National Gold Award**.
+- *2024* Higher Education ICT Industry-teaching Integration Innovation Competition - **National Third Prize**.
+- *2023* Chinese Collegiate Computing Competition, Big Data Practice Track - **National First Prize**.
+- *2023* China College Students’ Service Outsourcing Innovation and Entrepreneurship Competition, Enterprise Proposition Category - **National Third Prize**.
+- *2023* iCAN College Students’ Innovation and Entrepreneurship Competition, Digital Entrepreneurship Simulation Challenge - **National First Prize**.
+- *2023* MCM/ICM Mathematical Contest in Modeling - **International Second Prize**.
 
 # 💰 Funding
 - *2025* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program, **¥ 5,000**) - (Key Member).
