@@ -181,6 +181,34 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2022-2023 Academic Year*, "Innovation Star" of the **Top 100 Outstanding Students** in the 5th "Youth of HDU" program.
 - *2021-2022 Academic Year*, twice **HDU First-class Scholarships** and **Zhejiang Provincial Government Scholarship**.
 
+2025-2026 Academic Year:
+- Awarded **Tsinghua University College Scholarship** (¥ 5,000).
+
+2024-2025 Academic Year:
+- Recognized as **Outstanding Graduates of Zhejiang Province**.
+- Awarded **Graduate Entrance Examination Scholarship** (¥ 1,500).
+
+2023-2024 Academic Year:
+- Awarded **National Scholarship** (¥ 8,000).
+- Awarded **University First-Class Scholarship** (¥ 1,500) twice.
+- Recognized as **Outstanding Student Cadre** at HDU.
+- Selected as one of the **Top 10 Students** in the 6th "Youth of HDU" program.
+- Selected as one of the **Top 10 Students** at the 2nd Future Science and Technology Festival.
+
+2022-2023 Academic Year:
+- Awarded **National Scholarship** (¥ 8,000).
+- Awarded **University First-Class Scholarships** (¥ 1,500) twice.
+- Recognized as **Merit Student** at HDU.
+- Recognized as **Outstanding Student Cadre** at HDU.
+- Recognized as **Advanced Individual** at HDU.
+- Selected as **"Star of Innovation"** of the **Top 100 Outstanding Students** in the 5th "Youth of HDU" program.
+- Selected as **"Star of Innovation"** at the 1st Future Science and Technology Festival.
+
+2021-2022 Academic Year:
+- Awarded **Zhejiang Provincial Government Scholarship** (¥ 6,000).
+- Awarded **University First-Class Scholarships** (¥ 1,500) twice.
+- Recognized as **Outstanding Student Cadre** at HDU.
+
 # 🏅 Awards
 - *2025* **First Prize** in National Biomedical Engineering Innovation Design Competition for College Students.
 - *2024* **First Prize** in China Postgraduate IC Innovation Competition · EDA Elite Challenge.
@@ -194,10 +222,16 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2023* **Second Prize** in MCM/ICM Mathematical Contest in Modeling.
 
 # 💰 Funding
-- *2025* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (**Key Member**, **New Talent Program**).
-- *2024* National Undergraduate Innovation and Entrepreneurship Training Program (**Key Member**).
-- *2024* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (**Project Lead**, **New Talent Program**).
-- *2023* National Undergraduate Innovation and Entrepreneurship Training Program (**Project Lead**, **Key Supporting Field Project**).
+- *2025* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program, **¥ 5,000**) - (Key Member).
+- *2024* National Undergraduate Innovation and Entrepreneurship Training Program (Normal Project, **¥ 10,000**) - (Key Member).
+- *2024* Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program, **¥ 5,000**) - (Project Lead).
+- *2023* National Undergraduate Innovation and Entrepreneurship Training Program (Key Supporting Field Project, ¥ **20,000**) - (Project Lead).
+
+# 💬 Academic Services
++ *Conference Organization*: Medical Imaging Computing Seminar (MICS), 2026.
++ *Teaching Assistantship*: Medical Image Processing (Undergraduate Course, 3 Units), School of Biomedical Engineering, Tsinghua University, 2025, 2026.
++ *Journal Reviewers* of: MIA, PR, TCSVT, EAAI, KBS, ESWA, JBHI, COMPAG, COMPUT IND, CIBM, CMIG, BSPC, JSCI, MEAS, SR, MPB, IJCARS, IMAVIS, JDIM, DISPLA, BMC AI, MVA, SIVP, MEX, IRBM, DSP, Discover AI, COMPJ.
++ *Conference Reviewers* of: CVPR 2026, ECCV 2026, MIDL 2026, ICME 2026, ICASSP 2026, ISMRM 2026, NeurIPS 2025, AAAI 2025, ECAI 2025, MICCAI 2025, BMVC 2025, CHIL 2025, SciPy 2025, ICECET 2025, ACDSA 2025.
 
 # 👯 Academic Activities
 - *2026.07.10* Attended the 2026 Medical Imaging Computing Seminar in Beijing, China.
@@ -210,9 +244,3 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2025.06.20* Attended the 2025 China Biomedical Engineering Conference & Medical Innovation Summit in Suzhou, Jiangsu, China.
 - *2025.05.10* Attended the 2025 ISMRM & ISMRT Annual Meeting & Exhibition in Honolulu, Hawaii, USA.
 - *2025.02.16* Attended the 2025 ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan.
-
-# 💬 Academic Services
-+ *Conference Organization*: Medical Imaging Computing Seminar (MICS), 2026.
-+ *Teaching Assistantship*: Medical Image Processing (Undergraduate Course, 3 Units), School of Biomedical Engineering, Tsinghua University, 2025, 2026.
-+ *Journal Reviewers* of: MIA, PR, TCSVT, EAAI, KBS, ESWA, JBHI, COMPAG, COMPUT IND, CIBM, CMIG, BSPC, JSCI, MEAS, SR, MPB, IJCARS, IMAVIS, JDIM, DISPLA, BMC AI, MVA, SIVP, MEX, IRBM, DSP, Discover AI, COMPJ.
-+ *Conference Reviewers* of: CVPR 2026, ECCV 2026, MIDL 2026, ICME 2026, ICASSP 2026, ISMRM 2026, NeurIPS 2025, AAAI 2025, ECAI 2025, MICCAI 2025, BMVC 2025, CHIL 2025, SciPy 2025, ICECET 2025, ACDSA 2025.
