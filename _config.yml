@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yifei Chen"
   avatar           : "images/profile.png"
-  bio              : "Intelligence, in service of healthcare 让智能，服务于医疗"
+  bio              : "Intelligence, in service of healthcare<br>让智能，服务于医疗"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
