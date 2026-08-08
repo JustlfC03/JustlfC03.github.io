@@ -1,10 +1,5 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
-
-  - title: "Educations"
-    url: "/#-educations"
 
   - title: "Internships"
     url: "/#-internships"
