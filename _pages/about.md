@@ -126,7 +126,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 <a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QpOCKMwAAAAJ&citation_for_view=QpOCKMwAAAAJ:d1gkVwhDpl0C'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 [![](https://img.shields.io/github/stars/JustlfC03/SCKansformer?style=social&label=Code+Stars)](https://github.com/JustlfC03/SCKansformer)
 
-<strong>ESI Hot Paper</strong>
+<span style="color:#b02418; font-weight:bold;">ESI Hot Paper</span>
 </div>
 </div>
 
@@ -138,7 +138,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 <a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QpOCKMwAAAAJ&citation_for_view=QpOCKMwAAAAJ:u5HHmVD_uO8C'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 [![](https://img.shields.io/github/stars/JustlfC03/MFDS-DETR?style=social&label=Code+Stars)](https://github.com/JustlfC03/MFDS-DETR)
 
-<strong>ESI Hot Paper & ESI Highly Cited Paper</strong>
+<span style="color:#b02418; font-weight:bold;">ESI Hot Paper & ESI Highly Cited Paper</span>
 </div>
 </div>
 
