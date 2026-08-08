@@ -95,7 +95,12 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - [PathLens: A Lightweight Multimodal Reasoner for In-Depth Pathology Insights](https://www.sciencedirect.com/science/article/pii/S0950705126009871). Zhu Zhu, Huangwei Chen, Zhenyu Yan, Donghao Zhang, Yueyi Wu, Yuqi Zhan, Weihao Cheng, Manli Zhao, Weizhong Gu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Feiwei Qin<sup>*</sup>, Gang Yu<sup>*</sup>. **Knowledge-Based Systems 2026**.
 -->
 
-- [No Modality Left Behind: Adapting to Missing Modalities via Knowledge Distillation for Brain Tumor Segmentation](https://www.sciencedirect.com/science/article/pii/S1361841526001775). Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Shuo Jiang, Guanyu Zhou, Yuanhan Wang, Feiwei Qin<sup>*</sup>, Changmiao Wang, Qiyuan Tian<sup>*</sup>. **Medical Image Analysis 2026**.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA 2026</div><img src='images/AdaMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[No Modality Left Behind: Adapting to Missing Modalities via Knowledge Distillation for Brain Tumor Segmentation](https://www.sciencedirect.com/science/article/pii/S1361841526001775)
+Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Shuo Jiang, Guanyu Zhou, Yuanhan Wang, Feiwei Qin<sup>*</sup>, Changmiao Wang, Qiyuan Tian<sup>*</sup>. **Medical Image Analysis 2026**.
+</div>
+</div>
 
 - [Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model](https://www.sciencedirect.com/science/article/pii/S1746809426001497). Changwei Wu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝, *</sup></span>, Yuxin Du, Jinying Zong, Jie Dong, Mingxuan Liu, Feiwei Qin<sup>*</sup>, Yong Peng, Jin Fan, Changmiao Wang. **Biomedical Signal Processing and Control 2026**.
 
@@ -111,14 +116,14 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - [LPUWF-LDM: Enhanced latent diffusion model for precise late-phase UWF-FA generation on limited dataset](https://www.sciencedirect.com/science/article/abs/pii/S0957417425000934). Zhaojie Fang, Xiao Yu, Guanyu Zhou, Ke Zhuang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Ruiquan Ge<sup>*</sup>, Changmiao Wang<sup>*</sup>, Gangyong Jia, Qing Wu, Juan Ye, Maimaiti Nuliqiman, Peifang Xu, Ahmed Elazab. **Expert Systems with Applications 2025**.
 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JBHI 2024</div><img src='images/MorVess.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JBHI 2024</div><img src='images/SCKansformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Sckansformer: Fine-grained classification of bone marrow cells via kansformer backbone and hierarchical attention mechanisms](https://ieeexplore.ieee.org/abstract/document/10713291)
 <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhu Zhu<sup>✝, *</sup>, Shenghao Zhu, Linwei Qiu, Binfeng Zou, Fan Jia, Yunpeng Zhu, Chenyan Zhang, Zhaojie Fang, Feiwei Qin<sup>*</sup>, Jin Fan, Changmiao Wang, Gang Yu, Yu Gao.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIBM 2024</div><img src='images/MorVess.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIBM 2024</div><img src='images/MFDS-DETR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases](https://www.sciencedirect.com/science/article/abs/pii/S0010482524000015)
 <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>*</sup>, Yong Peng, Yu Gao. **Computers in Biology and Medicine 2024**.
@@ -154,7 +159,12 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 
 - (**Oral**) [FetalExtract-LLM: Structured Information Extraction from Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models](https://link.springer.com/chapter/10.1007/978-3-032-05997-0_11). Mingxuan Liu<sup>✝</sup>, Yijin Li<sup>✝</sup>, Juncheng Zhu<sup>✝</sup>, Hongjia Yang, Yiming Huang, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian<sup>*</sup>. **MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis**.
 
-- [Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation](https://link.springer.com/chapter/10.1007/978-3-032-04984-1_10). Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Yuanhan Wang, Chang Liu, Shuo Jiang, Changmiao Wang, Feiwei Qin<sup>*</sup>. **MICCAI 2025**.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/MST-KDNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation](https://link.springer.com/chapter/10.1007/978-3-032-04984-1_10)
+Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Yuanhan Wang, Chang Liu, Shuo Jiang, Changmiao Wang, Feiwei Qin<sup>*</sup>. **MICCAI 2025**.
+</div>
+</div>
 
 - [Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest CT Using Weakly Supervised Deep Learning from Free-text Radiology Report](https://openreview.net/forum?id=ns6nq592HX). Xuguang Bai<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Hongjia Yang, Qiyuan Tian<sup>*</sup>. **MIDL 2025**.
 
@@ -162,7 +172,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 
 - (**Oral**) [XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision XLSTM and Heteromodal Variational Encoder-Decoder](https://ieeexplore.ieee.org/document/10981275). Shenghao Zhu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shuo Jiang, Weihong Chen, Chang Liu, Yuanhan Wang, Xu Chen, Yifan Ke, Feiwei Qin<sup>*</sup>, Changmiao Wang, Zhu Zhu<sup>*</sup>. **ISBI 2025**.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIBM 2024</div><img src='images/MorVess.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIBM 2024</div><img src='images/SCUNet++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [SCUNet++: Swin-UNet and CNN Bottleneck Hybrid Architecture with Multi-Fusion Dense Skip Connection for Pulmonary Embolism CT Image Segmentation](https://openaccess.thecvf.com/content/WACV2024/html/Chen_SCUNet_Swin-UNet_and_CNN_Bottleneck_Hybrid_Architecture_With_Multi-Fusion_Dense_WACV_2024_paper.html)
 <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Binfeng Zou, Zhaoxin Guo, Yiyu Huang, Yifan Huang, Feiwei Qin<sup>*</sup>, Qinhai Li, Changmiao Wang<sup>*</sup>. **WACV 2024**.
