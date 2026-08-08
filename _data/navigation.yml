@@ -24,8 +24,8 @@ main:
   - title: "Funding"
     url: "/#-funding"
 
-  - title: "Academic Activities"
-    url: "/#-academic-activities"
-
   - title: "Academic Services"
     url: "/#-academic-services"
+
+  - title: "Academic Activities"
+    url: "/#-academic-activities"
