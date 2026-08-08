@@ -192,6 +192,10 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 <div class='paper-box-text' markdown="1">
 [SCUNet++: Swin-UNet and CNN Bottleneck Hybrid Architecture with Multi-Fusion Dense Skip Connection for Pulmonary Embolism CT Image Segmentation](https://openaccess.thecvf.com/content/WACV2024/html/Chen_SCUNet_Swin-UNet_and_CNN_Bottleneck_Hybrid_Architecture_With_Multi-Fusion_Dense_WACV_2024_paper.html)
 <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Binfeng Zou, Zhaoxin Guo, Yiyu Huang, Yifan Huang, Feiwei Qin<sup>*</sup>, Qinhai Li, Changmiao Wang<sup>*</sup>. **WACV 2024**.
+
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QpOCKMwAAAAJ&citation_for_view=QpOCKMwAAAAJ:u-x6o8ySG0sC'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
+[![](https://img.shields.io/github/stars/JustlfC03/SCUNet-plusplus?style=social&label=Code+Stars)](https://github.com/JustlfC03/SCUNet-plusplus)
+
 </div>
 </div>
 
