@@ -77,21 +77,20 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 -->
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<span style="color:#b02418; font-weight:bold;">✝</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
+
+#### Selected JOURNAL PAPERS [Full list is available in Google Scholar]
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MorVess: Morphology-Aware Pulmonary Vessel Segmentation Network](https://www.sciencedirect.com/science/article/pii/S0031320326015141)
 
 Fuyou Mao<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Beining Wu, Lixin Lin, Jinnan Dai, Zhiling Li, Yilei Chen, Yaqi Wang, Hao Zhang, Yan Tang<sup>*</sup>, Huiyu Zhou, Feiwei Qin<sup>*</sup>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-<span style="color:#b02418; font-weight:bold;">✝</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
-
-#### Selected JOURNAL PAPERS [Full list is available in Google Scholar]
 - [MorVess: Morphology-Aware Pulmonary Vessel Segmentation Network](https://www.sciencedirect.com/science/article/pii/S0031320326015141). Fuyou Mao<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Beining Wu, Lixin Lin, Jinnan Dai, Zhiling Li, Yilei Chen, Yaqi Wang, Hao Zhang, Yan Tang<sup>*</sup>, Huiyu Zhou, Feiwei Qin<sup>*</sup>. **Pattern Recognition 2026**.
 
 - [Multimodal Feature Prototype Learning for Interpretable and Discriminative Cancer Survival Prediction](https://ieeexplore.ieee.org/abstract/document/11595740). Shuo Jiang, Zhuwen Chen, Liaoman Xu, Yanming Zhu, Changmiao Wang, Jiong Zhang, Feiwei Qin<sup>*</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>*</sup></span>, Zhu Zhu<sup>*</sup>. **IEEE Journal of Biomedical and Health Informatics 2026**.
