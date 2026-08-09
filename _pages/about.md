@@ -281,7 +281,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 .aw-tbl .c-role .rtag{font-size:.82em;font-weight:600;color:#4b555c;background:#eef1f4;border:1px solid #e0e5ea;border-radius:4px;padding:1px 9px;white-space:nowrap}
 .aw-tbl .c-role .rtag.lead{color:#00369f;background:#e9effb;border-color:#cfe0fb}
 .aw-tbl .c-tier{justify-content:flex-end}
-.aw-tbl .c-tier .awtag{display:inline-block;font-size:.82em;font-weight:600;color:#00369f;background:#e9effb;border:1px solid #cfe0fb;border-radius:4px;padding:1px 9px;white-space:nowrap}
+.aw-tbl .c-tier .awtag{display:inline-block;font-size:.82em;font-weight:600;color:#fff;background:#00369f;border:1px solid #00369f;border-radius:4px;padding:1px 9px;white-space:nowrap}
 .aw-tbl .c-tier .awtag.t2{color:#3a6ea5;background:#eef3fa;border-color:#d7e3f4}
 .aw-tbl .c-tier .awtag.t3{color:#5f676e;background:#eef1f4;border-color:#e0e5ea}
 .aw-tbl .rowbg:hover>div,.aw-tbl>div:hover{background:#f4f7fb}
@@ -294,17 +294,17 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 </style>
 
 <div class="aw-tbl" markdown="0">
-  <div class="c-yr">2025</div><div class="c-name">MICCAI autoPET Challenge</div><div class="c-role"><span class="rtag lead">Key Member</span></div><div class="c-tier"><span class="awtag">1st Place</span></div>
-  <div class="c-yr">2025</div><div class="c-name">MICCAI VLM3D Challenge</div><div class="c-role"><span class="rtag lead">Key Member</span></div><div class="c-tier"><span class="awtag t2">2nd Place</span></div>
-  <div class="c-yr">2025</div><div class="c-name">MICCAI HECKTOR Challenge</div><div class="c-role"><span class="rtag lead">Key Member</span></div><div class="c-tier"><span class="awtag t3">3rd Place</span></div>
-  <div class="c-yr">2025</div><div class="c-name">National Biomedical Engineering Innovation Design Competition for College Student</div><div class="c-role"><span class="rtag lead">Key Member</span></div><div class="c-tier"><span class="awtag">First Prize</span></div>
-  <div class="c-yr">2024</div><div class="c-name">China Postgraduate IC Innovation Competition · EDA Elite Challenge</div><div class="c-role"><span class="rtag lead">Key Member</span></div><div class="c-tier"><span class="awtag">First Prize</span></div>
-  <div class="c-yr">2024</div><div class="c-name">China International College Students’ Innovation Competition</div><div class="c-role"><span class="rtag lead">Key Member</span></div><div class="c-tier"><span class="awtag">Gold Award</span></div>
-  <div class="c-yr">2024</div><div class="c-name">Higher Education ICT Industry-teaching Integration Innovation Competition</div><div class="c-role"><span class="rtag lead">Key Member</span></div><div class="c-tier"><span class="awtag t3">Third Prize</span></div>
-  <div class="c-yr">2023</div><div class="c-name">Chinese Collegiate Computing Competition, Big Data Practice Track</div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-tier"><span class="awtag">First Prize</span></div>
-  <div class="c-yr">2023</div><div class="c-name">China College Students’ Service Outsourcing Innovation and Entrepreneurship Competition, Enterprise Proposition Category</div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-tier"><span class="awtag t3">Third Prize</span></div>
-  <div class="c-yr">2023</div><div class="c-name">iCAN College Students’ Innovation and Entrepreneurship Competition, Digital Entrepreneurship Simulation Challenge</div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-tier"><span class="awtag">First Prize</span></div>
-  <div class="c-yr">2023</div><div class="c-name">MCM/ICM Mathematical Contest in Modeling</div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-tier"><span class="awtag t2">Second Prize</span></div>
+  <div class="c-yr">2025</div><div class="c-name">MICCAI autoPET Challenge</div><div class="c-tier"><span class="awtag">1st Place</span></div><div class="c-role"><span class="rtag">Key Member</span></div>
+  <div class="c-yr">2025</div><div class="c-name">MICCAI VLM3D Challenge</div><div class="c-tier"><span class="awtag">2nd Place</span></div><div class="c-role"><span class="rtag">Key Member</span></div>
+  <div class="c-yr">2025</div><div class="c-name">MICCAI HECKTOR Challenge</div><div class="c-tier"><span class="awtag">3rd Place</span></div><div class="c-role"><span class="rtag">Key Member</span></div>
+  <div class="c-yr">2025</div><div class="c-name">National Biomedical Engineering Innovation Design Competition for College Student</div><div class="c-tier"><span class="awtag">First Prize</span></div><div class="c-role"><span class="rtag">Key Member</span></div>
+  <div class="c-yr">2024</div><div class="c-name">China Postgraduate IC Innovation Competition · EDA Elite Challenge</div><div class="c-tier"><span class="awtag">First Prize</span></div><div class="c-role"><span class="rtag">Key Member</span></div>
+  <div class="c-yr">2024</div><div class="c-name">China International College Students’ Innovation Competition</div><div class="c-tier"><span class="awtag">Gold Award</span></div><div class="c-role"><span class="rtag">Key Member</span></div>
+  <div class="c-yr">2024</div><div class="c-name">Higher Education ICT Industry-teaching Integration Innovation Competition</div><div class="c-tier"><span class="awtag">Third Prize</span></div><div class="c-role"><span class="rtag">Key Member</span></div>
+  <div class="c-yr">2023</div><div class="c-name">Chinese Collegiate Computing Competition, Big Data Practice Track</div><div class="c-tier"><span class="awtag">First Prize</span></div><div class="c-role"><span class="rtag lead">Team Lead</span></div>
+  <div class="c-yr">2023</div><div class="c-name">China College Students’ Service Outsourcing Innovation and Entrepreneurship Competition, Enterprise Proposition Category</div><div class="c-tier"><span class="awtag">Third Prize</span></div><div class="c-role"><span class="rtag lead">Team Lead</span></div>
+  <div class="c-yr">2023</div><div class="c-name">iCAN College Students’ Innovation and Entrepreneurship Competition, Digital Entrepreneurship Simulation Challenge</div><div class="c-tier"><span class="awtag">First Prize</span></div><div class="c-role"><span class="rtag lead">Team Lead</span></div>
+  <div class="c-yr">2023</div><div class="c-name">MCM/ICM Mathematical Contest in Modeling</div><div class="c-tier"><span class="awtag">Second Prize</span></div><div class="c-role"><span class="rtag lead">Team Lead</span></div>
 </div>
 
 # 💰 Funding
@@ -315,7 +315,8 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 .fund-tbl>div:nth-child(-n+4){border-top:none}
 .fund-tbl .c-yr{color:#00369f;font-weight:700;font-variant-numeric:tabular-nums}
 .fund-tbl .c-name .sub{color:#7a8288;font-weight:400}
-.fund-tbl .c-amt{color:#00369f;font-weight:700;font-variant-numeric:tabular-nums;justify-content:flex-end;white-space:nowrap}
+.fund-tbl .c-amt{justify-content:flex-end;white-space:nowrap}
+.fund-tbl .c-amt .amt{display:inline-block;font-size:.82em;font-weight:700;color:#fff;background:#00369f;border:1px solid #00369f;border-radius:4px;padding:1px 9px;font-variant-numeric:tabular-nums;white-space:nowrap}
 .fund-tbl .c-role{justify-content:flex-end}
 .fund-tbl .c-role span{font-size:.85em;font-weight:600;color:#4b555c;background:#eef1f4;border:1px solid #e0e5ea;border-radius:3px;padding:1px 8px;white-space:nowrap}
 .fund-tbl .c-role span.lead{color:#00369f;background:#e9effb;border-color:#cfe0fb}
@@ -329,10 +330,10 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 </style>
 
 <div class="fund-tbl" markdown="0">
-  <div class="c-yr">2025</div><div class="c-name">Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program</div><div class="c-amt">&yen; 5,000</div><div class="c-role"><span>Key Member</span></div>
-  <div class="c-yr">2024</div><div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program (Normal Project)</div><div class="c-amt">&yen; 10,000</div><div class="c-role"><span>Key Member</span></div>
-  <div class="c-yr">2024</div><div class="c-name">Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program</div><div class="c-amt">&yen; 5,000</div><div class="c-role"><span class="lead">Project Lead</span></div>
-  <div class="c-yr">2023</div><div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program (Key Supporting Field Project)</div><div class="c-amt">&yen; 20,000</div><div class="c-role"><span class="lead">Project Lead</span></div>
+  <div class="c-yr">2025</div><div class="c-name">Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program</div><div class="c-amt"><span class="amt">&yen; 5,000</span></div><div class="c-role"><span>Key Member</span></div>
+  <div class="c-yr">2024</div><div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program (Normal Project)</div><div class="c-amt"><span class="amt">&yen; 10,000</span></div><div class="c-role"><span>Key Member</span></div>
+  <div class="c-yr">2024</div><div class="c-name">Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program</div><div class="c-amt"><span class="amt">&yen; 5,000</span></div><div class="c-role"><span class="lead">Project Lead</span></div>
+  <div class="c-yr">2023</div><div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program (Key Supporting Field Project)</div><div class="c-amt"><span class="amt">&yen; 20,000</span></div><div class="c-role"><span class="lead">Project Lead</span></div>
 </div>
 
 # 🔖 Academic Services
