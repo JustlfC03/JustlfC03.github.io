@@ -371,7 +371,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
   </div>
   <div class="sblock">
     <div class="slabel">Conference Reviewer</div>
-    <div class="sbody"><div class="chips"><span class="chip">CVPR 2026</span><span class="chip">ECCV 2026</span><span class="chip">MIDL 2026</span><span class="chip">ICME 2026</span><span class="chip">ICASSP 2026</span><span class="chip">ISMRM 2026</span><span class="chip">NeurIPS 2025</span><span class="chip">AAAI 2025</span><span class="chip">ECAI 2025</span><span class="chip">MICCAI 2025</span><span class="chip">BMVC 2025</span><span class="chip">CHIL 2025</span><span class="chip">SciPy 2025</span>
+    <div class="sbody"><div class="chips"><span class="chip">CVPR 2026</span><span class="chip">ECCV 2026</span><span class="chip">MIDL 2026</span><span class="chip">ICME 2026</span><span class="chip">ICASSP 2026</span><span class="chip">ISMRM 2026</span><span class="chip">NeurIPS 2025</span><span class="chip">AAAI 2025</span><span class="chip">ECAI 2025</span><span class="chip">MICCAI 2025</span><span class="chip">BMVC 2025</span><span class="chip">CHIL 2025</span><span class="chip">SciPy 2025</span></div></div>
   </div>
 </div>
 
