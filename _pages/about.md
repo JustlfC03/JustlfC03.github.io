@@ -260,7 +260,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 
 <div class="cv-sub" markdown="0">Recognitions</div>
 <div class="cv-grid cv-hover" markdown="0">
-  <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Recognized as <b>Outstanding Graduates of Zhejiang Province</b>.</span></div>
+  <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Recognized as <b>Outstanding Graduate of Zhejiang Province</b>.</span></div>
   <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as <b>Star of Innovation</b> in the 5th &ldquo;Youth of HDU&rdquo; program.</span></div>
   <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Recognized as <b>Top 10 Outstanding Students</b> in the 6th &ldquo;Youth of HDU&rdquo; program.</span></div>
   <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as <b>Merit Student</b> at HDU.</span></div>
