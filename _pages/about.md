@@ -245,7 +245,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 </style>
 
 <div class="cv-sub" markdown="0">Scholarships</div>
-<div class="cv-grid" markdown="0">
+<div class="cv-grid cv-hover" markdown="0">
   <div class="cell"><span class="yr">2025&ndash;26</span><span class="it">Awarded <b>Tsinghua University College Scholarship</b> <span class="amt">(&yen; 5,000)</span>.</span></div>
   <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Awarded <b>Graduate Entrance Examination Scholarship</b> <span class="amt">(&yen; 1,500)</span>.</span></div>
   <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Awarded <b>National Scholarship</b> <span class="amt">(&yen; 8,000)</span>.</span></div>
@@ -257,7 +257,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 </div>
 
 <div class="cv-sub" markdown="0">Honors</div>
-<div class="cv-grid" markdown="0">
+<div class="cv-grid cv-hover" markdown="0">
   <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Recognized as <b>Outstanding Graduates of Zhejiang Province</b>.</span></div>
   <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Recognized as <b>Outstanding Student Cadre</b> at HDU.</span></div>
   <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Selected as one of the <b>Top 10 Students</b> in the 6th &ldquo;Youth of HDU&rdquo; program.</span></div>
@@ -328,20 +328,20 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 # 🔖 Academic Services
 
 <style>
-.svc{margin:.2em 0 1.2em;font-size:.9em}
+.svc{margin:.2em 0 1.2em}
 .svc .sblock{padding:10px 0;border-top:1px dashed #d6dbe0}
 .svc .sblock:first-child{border-top:none}
-.svc .slabel{display:flex;align-items:center;gap:7px;font-weight:700;color:#00369f;font-size:.92em;margin-bottom:5px}
+.svc .slabel{display:flex;align-items:center;gap:7px;font-weight:700;color:#00369f;margin-bottom:5px}
 .svc .slabel:before{content:"";width:6px;height:6px;border-radius:50%;background:#00369f;flex:0 0 auto}
 .svc .sbody{line-height:1.7}
 .svc .chips{display:flex;flex-wrap:wrap;gap:6px}
-.svc .chip{display:inline-block;padding:2px 9px;font-size:.82em;color:#3a4750;background:#eef2f7;border-radius:4px;white-space:nowrap;transition:background .15s,color .15s}
+.svc .chip{display:inline-block;padding:2px 9px;font-size:.9em;color:#3a4750;background:#eef2f7;border-radius:4px;white-space:nowrap;transition:background .15s,color .15s}
 .svc .chip:hover{background:#dbe6f8;color:#00369f}
 
-.tl{margin:.2em 0 1.2em;font-size:.9em;display:grid;grid-template-columns:96px 1fr;column-gap:14px}
+.tl{margin:.2em 0 1.2em;display:grid;grid-template-columns:96px 1fr;column-gap:14px}
 .tl>div{padding:7px 0;border-top:1px dashed #d6dbe0;line-height:1.45}
 .tl>div:nth-child(-n+2){border-top:none}
-.tl .c-date{color:#00369f;font-weight:700;font-variant-numeric:tabular-nums;font-size:.9em}
+.tl .c-date{color:#00369f;font-weight:700;font-variant-numeric:tabular-nums}
 .tl .c-ev .loc{color:#7a8288}
 @media(max-width:680px){.tl{grid-template-columns:78px 1fr;column-gap:10px}}
 </style>
