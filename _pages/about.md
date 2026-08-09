@@ -98,6 +98,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 [No Modality Left Behind: Adapting to Missing Modalities via Knowledge Distillation for Brain Tumor Segmentation](https://www.sciencedirect.com/science/article/pii/S1361841526001775)
 Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Shuo Jiang, Guanyu Zhou, Yuanhan Wang, Feiwei Qin<sup>*</sup>, Changmiao Wang, Qiyuan Tian<sup>*</sup>. **Medical Image Analysis 2026**.
 
+<p class="paper-citations"><span class="show_paper_citations" data="QpOCKMwAAAAJ&hl:kNdYIx-mwKoC"></span></p>
 <a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QpOCKMwAAAAJ&citation_for_view=QpOCKMwAAAAJ:kNdYIx-mwKoC'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 [![](https://img.shields.io/github/stars/Quanato607/AdaMM?style=social&label=Code+Stars)](https://github.com/Quanato607/AdaMM)
 
