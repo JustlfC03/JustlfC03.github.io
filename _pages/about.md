@@ -361,6 +361,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
   <div class="sblock">
     <div class="slabel">Conference Organization</div>
     <div class="sbody">Medical Imaging Computing Seminar (MICS), 2026.</div>
+    <div class="sbody">International Workshop on Accessible Medical Imaging Diagnosis, 2026.</div>
   </div>
   <div class="sblock">
     <div class="slabel">Teaching Assistantship</div>
