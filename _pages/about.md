@@ -333,7 +333,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
   <div class="c-yr">2025</div><div class="c-name">Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program</div><div class="c-amt"><span class="amt">&yen; 5,000</span></div><div class="c-role"><span>Key Member</span></div>
   <div class="c-yr">2024</div><div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program</div><div class="c-amt"><span class="amt">&yen; 10,000</span></div><div class="c-role"><span>Key Member</span></div>
   <div class="c-yr">2024</div><div class="c-name">Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program</div><div class="c-amt"><span class="amt">&yen; 5,000</span></div><div class="c-role"><span class="lead">Project Lead</span></div>
-  <div class="c-yr">2023</div><div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program <br><span class="sub">(Key Supporting Field Project)</span></div><div class="c-amt"><span class="amt">&yen; 20,000</span></div><div class="c-role"><span class="lead">Project Lead</span></div>
+  <div class="c-yr">2023</div><div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program <br>(Key Supporting Field Project)</div><div class="c-amt"><span class="amt">&yen; 20,000</span></div><div class="c-role"><span class="lead">Project Lead</span></div>
 </div>
 
 # 🔖 Academic Services
@@ -386,9 +386,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
   <div class="c-date">2025.09.23</div><div class="c-ev">2025 International Conference on Medical Image Computing and Computer Assisted Intervention <span class="loc">Daejeon, Korea</span></div>
   <div class="c-date">2025.09.09</div><div class="c-ev">2025 Beijing Radiology Quality Control Conference <span class="loc">Beijing, China</span></div>
   <div class="c-date">2025.07.18</div><div class="c-ev">2025 Medical Imaging Computing Seminar <span class="loc">Cixi, Zhejiang, China</span></div>
-  <div class="c-date">2025.07.09</div><div class="c-ev">2025 Medical Imaging with Deep Learning <span class="loc">Salt Lake City, Utah, USA</span></div>
   <div class="c-date">2025.06.20</div><div class="c-ev">2025 China Biomedical Engineering Conference &amp; Medical Innovation Summit <span class="loc">Suzhou, Jiangsu, China</span></div>
-  <div class="c-date">2025.05.10</div><div class="c-ev">2025 ISMRM &amp; ISMRT Annual Meeting &amp; Exhibition <span class="loc">Honolulu, Hawaii, USA</span></div>
   <div class="c-date">2025.02.16</div><div class="c-ev">2025 ISMRM Workshop on 40 Years of Diffusion: Past, Present &amp; Future Perspectives <span class="loc">Kyoto, Japan</span></div>
 </div>
 
