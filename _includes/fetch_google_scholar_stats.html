@@ -18,12 +18,14 @@
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
                 console.log("Processing paper ID:", paperId);
+                var badgeBase = 'https://img.shields.io/badge/Citations-';
+                var badgeStyle = '-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat';
                 if (data['publications'] && data['publications'][paperId]) {
                     var numCitations = data['publications'][paperId]['num_citations']
-                    element.innerHTML = '| Citations: ' + numCitations;
+                    element.innerHTML = '<img src="' + badgeBase + numCitations + badgeStyle + '" alt="Citations">';
                 } else {
                     console.warn("Publication not found for ID:", paperId);
-                    element.innerHTML = '| Citations: N/A';
+                    element.innerHTML = '<img src="' + badgeBase + 'N%2FA-lightgrey?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Citations">';
                 }
             });
         }).fail(function (jqXHR, textStatus, errorThrown) {
