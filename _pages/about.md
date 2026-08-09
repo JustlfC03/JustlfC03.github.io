@@ -273,10 +273,13 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 # 🏅 Awards
 
 <style>
-.aw-tbl{display:grid;grid-template-columns:56px 1fr auto;column-gap:14px;margin:.2em 0 1.1em;border:1px dashed #c5cbd1;border-radius:4px;overflow:hidden}
+.aw-tbl{display:grid;grid-template-columns:56px 1fr auto auto;column-gap:14px;margin:.2em 0 1.1em;border:1px dashed #c5cbd1;border-radius:4px;overflow:hidden}
 .aw-tbl>div{padding:8px 12px;line-height:1.4;border-top:1px dashed #d6dbe0;display:flex;align-items:baseline}
-.aw-tbl>div:nth-child(-n+3){border-top:none}
+.aw-tbl>div:nth-child(-n+4){border-top:none}
 .aw-tbl .c-yr{color:#00369f;font-weight:700;font-variant-numeric:tabular-nums}
+.aw-tbl .c-role{justify-content:flex-end}
+.aw-tbl .c-role .rtag{font-size:.82em;font-weight:600;color:#4b555c;background:#eef1f4;border:1px solid #e0e5ea;border-radius:4px;padding:1px 9px;white-space:nowrap}
+.aw-tbl .c-role .rtag.lead{color:#00369f;background:#e9effb;border-color:#cfe0fb}
 .aw-tbl .c-tier{justify-content:flex-end}
 .aw-tbl .c-tier .awtag{display:inline-block;font-size:.82em;font-weight:600;color:#00369f;background:#e9effb;border:1px solid #cfe0fb;border-radius:4px;padding:1px 9px;white-space:nowrap}
 .aw-tbl .c-tier .awtag.t2{color:#3a6ea5;background:#eef3fa;border-color:#d7e3f4}
@@ -286,21 +289,22 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 .aw-tbl{grid-template-columns:1fr auto}
 .aw-tbl .c-yr{grid-column:1}.aw-tbl .c-tier{grid-column:2}
 .aw-tbl .c-name{grid-column:1 / -1;border-top:none;padding-top:0}
+.aw-tbl .c-role{grid-column:1 / -1;border-top:none;padding-top:0;justify-content:flex-start}
 }
 </style>
 
 <div class="aw-tbl" markdown="0">
-  <div class="c-yr">2025</div><div class="c-name">MICCAI autoPET Challenge</div><div class="c-tier"><span class="awtag">1st Place</span></div>
-  <div class="c-yr">2025</div><div class="c-name">MICCAI VLM3D Challenge</div><div class="c-tier"><span class="awtag t2">2nd Place</span></div>
-  <div class="c-yr">2025</div><div class="c-name">MICCAI HECKTOR Challenge</div><div class="c-tier"><span class="awtag t3">3rd Place</span></div>
-  <div class="c-yr">2025</div><div class="c-name">National Biomedical Engineering Innovation Design Competition for College Student</div><div class="c-tier"><span class="awtag">First Prize</span></div>
-  <div class="c-yr">2024</div><div class="c-name">China Postgraduate IC Innovation Competition · EDA Elite Challenge</div><div class="c-tier"><span class="awtag">First Prize</span></div>
-  <div class="c-yr">2024</div><div class="c-name">China International College Students’ Innovation Competition</div><div class="c-tier"><span class="awtag">Gold Award</span></div>
-  <div class="c-yr">2024</div><div class="c-name">Higher Education ICT Industry-teaching Integration Innovation Competition</div><div class="c-tier"><span class="awtag t3">Third Prize</span></div>
-  <div class="c-yr">2023</div><div class="c-name">Chinese Collegiate Computing Competition, Big Data Practice Track</div><div class="c-tier"><span class="awtag">First Prize</span></div>
-  <div class="c-yr">2023</div><div class="c-name">China College Students’ Service Outsourcing Innovation and Entrepreneurship Competition, Enterprise Proposition Category</div><div class="c-tier"><span class="awtag t3">Third Prize</span></div>
-  <div class="c-yr">2023</div><div class="c-name">iCAN College Students’ Innovation and Entrepreneurship Competition, Digital Entrepreneurship Simulation Challenge</div><div class="c-tier"><span class="awtag">First Prize</span></div>
-  <div class="c-yr">2023</div><div class="c-name">MCM/ICM Mathematical Contest in Modeling</div><div class="c-tier"><span class="awtag t2">Second Prize</span></div>
+  <div class="c-yr">2025</div><div class="c-name">MICCAI autoPET Challenge</div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-tier"><span class="awtag">1st Place</span></div>
+  <div class="c-yr">2025</div><div class="c-name">MICCAI VLM3D Challenge</div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-tier"><span class="awtag t2">2nd Place</span></div>
+  <div class="c-yr">2025</div><div class="c-name">MICCAI HECKTOR Challenge</div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-tier"><span class="awtag t3">3rd Place</span></div>
+  <div class="c-yr">2025</div><div class="c-name">National Biomedical Engineering Innovation Design Competition for College Student</div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-tier"><span class="awtag">First Prize</span></div>
+  <div class="c-yr">2024</div><div class="c-name">China Postgraduate IC Innovation Competition · EDA Elite Challenge</div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-tier"><span class="awtag">First Prize</span></div>
+  <div class="c-yr">2024</div><div class="c-name">China International College Students’ Innovation Competition</div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-tier"><span class="awtag">Gold Award</span></div>
+  <div class="c-yr">2024</div><div class="c-name">Higher Education ICT Industry-teaching Integration Innovation Competition</div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-tier"><span class="awtag t3">Third Prize</span></div>
+  <div class="c-yr">2023</div><div class="c-name">Chinese Collegiate Computing Competition, Big Data Practice Track</div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-tier"><span class="awtag">First Prize</span></div>
+  <div class="c-yr">2023</div><div class="c-name">China College Students’ Service Outsourcing Innovation and Entrepreneurship Competition, Enterprise Proposition Category</div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-tier"><span class="awtag t3">Third Prize</span></div>
+  <div class="c-yr">2023</div><div class="c-name">iCAN College Students’ Innovation and Entrepreneurship Competition, Digital Entrepreneurship Simulation Challenge</div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-tier"><span class="awtag">First Prize</span></div>
+  <div class="c-yr">2023</div><div class="c-name">MCM/ICM Mathematical Contest in Modeling</div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-tier"><span class="awtag t2">Second Prize</span></div>
 </div>
 
 # 💰 Funding
@@ -363,11 +367,11 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
   </div>
   <div class="sblock">
     <div class="slabel">Journal Reviewer</div>
-    <div class="sbody"><div class="chips"><span class="chip">MIA</span><span class="chip">PR</span><span class="chip">TCSVT</span><span class="chip">EAAI</span><span class="chip">KBS</span><span class="chip">ESWA</span><span class="chip">JBHI</span><span class="chip">COMPAG</span><span class="chip">COMPUT IND</span><span class="chip">CIBM</span><span class="chip">CMIG</span><span class="chip">BSPC</span><span class="chip">JSCI</span><span class="chip">MEAS</span><span class="chip">SR</span><span class="chip">MPB</span><span class="chip">IJCARS</span><span class="chip">IMAVIS</span><span class="chip">JDIM</span><span class="chip">DISPLA</span><span class="chip">BMC AI</span><span class="chip">MVA</span><span class="chip">SIVP</span><span class="chip">MEX</span><span class="chip">IRBM</span><span class="chip">DSP</span><span class="chip">Discover AI</span><span class="chip">COMPJ</span></div></div>
+    <div class="sbody"><div class="chips"><span class="chip">Medical Image Analysis</span><span class="chip">Pattern Recognition</span><span class="chip">IEEE Transactions on Circuits and Systems for Video Technology</span><span class="chip">IEEE Journal of Biomedical and Health Informatics</span><span class="chip">Engineering Applications of Artificial Intelligence</span><span class="chip">Knowledge-Based Systems</span><span class="chip">Expert Systems with Applications</span><span class="chip">Computers and Electronics in Agriculture</span><span class="chip">Computers in Industry</span><span class="chip">Computerized Medical Imaging and Graphics</span><span class="chip">Computers in Biology and Medicine</span><span class="chip">Biomedical Signal Processing and Control</span><span class="chip">Journal of King Saud University - Computer and Information Sciences</span></div></div>
   </div>
   <div class="sblock">
     <div class="slabel">Conference Reviewer</div>
-    <div class="sbody"><div class="chips"><span class="chip">CVPR 2026</span><span class="chip">ECCV 2026</span><span class="chip">MIDL 2026</span><span class="chip">ICME 2026</span><span class="chip">ICASSP 2026</span><span class="chip">ISMRM 2026</span><span class="chip">NeurIPS 2025</span><span class="chip">AAAI 2025</span><span class="chip">ECAI 2025</span><span class="chip">MICCAI 2025</span><span class="chip">BMVC 2025</span><span class="chip">CHIL 2025</span><span class="chip">SciPy 2025</span><span class="chip">ICECET 2025</span><span class="chip">ACDSA 2025</span></div></div>
+    <div class="sbody"><div class="chips"><span class="chip">CVPR 2026</span><span class="chip">ECCV 2026</span><span class="chip">MIDL 2026</span><span class="chip">ICME 2026</span><span class="chip">ICASSP 2026</span><span class="chip">ISMRM 2026</span><span class="chip">NeurIPS 2025</span><span class="chip">AAAI 2025</span><span class="chip">ECAI 2025</span><span class="chip">MICCAI 2025</span><span class="chip">BMVC 2025</span><span class="chip">CHIL 2025</span><span class="chip">SciPy 2025</span>
   </div>
 </div>
 
