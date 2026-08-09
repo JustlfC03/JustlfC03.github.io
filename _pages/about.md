@@ -241,6 +241,8 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 .cv-grid .tag{display:block;margin-top:2px;font-size:.9em;font-weight:600;color:#00369f}
 .cv-grid .tag.t2{color:#3a6ea5}.cv-grid .tag.t3{color:#7a8288}
 .cv-sub{font-weight:700;color:#4b555c;font-size:.95em;margin:.5em 0 .35em}
+.cv-hover .cell{transition:background .15s}
+.cv-hover .cell:hover{background:#f4f7fb}
 @media(max-width:680px){.cv-grid{grid-template-columns:1fr}.cv-grid .cell{border-left:none!important}.cv-grid .cell:nth-child(2){border-top:1px dashed #d6dbe0}}
 </style>
 
@@ -281,7 +283,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 .aw-tbl .c-role .rtag{font-size:.82em;font-weight:600;color:#4b555c;background:#eef1f4;border:1px solid #e0e5ea;border-radius:4px;padding:1px 9px;white-space:nowrap}
 .aw-tbl .c-role .rtag.lead{color:#00369f;background:#e9effb;border-color:#cfe0fb}
 .aw-tbl .c-tier{justify-content:flex-end}
-.aw-tbl .c-tier .awtag{display:inline-block;font-size:.82em;font-weight:600;color:#fff;background:#00369f;border:1px solid #00369f;border-radius:4px;padding:1px 9px;white-space:nowrap}
+.aw-tbl .c-tier .awtag{display:inline-block;font-size:.82em;font-weight:600;color:#fff;background:#3a6ea5;border:1px solid #3a6ea5;border-radius:4px;padding:1px 9px;white-space:nowrap}
 .aw-tbl .c-tier .awtag.t2{color:#3a6ea5;background:#eef3fa;border-color:#d7e3f4}
 .aw-tbl .c-tier .awtag.t3{color:#5f676e;background:#eef1f4;border-color:#e0e5ea}
 .aw-tbl .rowbg:hover>div,.aw-tbl>div:hover{background:#f4f7fb}
@@ -316,7 +318,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 .fund-tbl .c-yr{color:#00369f;font-weight:700;font-variant-numeric:tabular-nums}
 .fund-tbl .c-name .sub{color:#7a8288;font-weight:400}
 .fund-tbl .c-amt{justify-content:flex-end;white-space:nowrap}
-.fund-tbl .c-amt .amt{display:inline-block;font-size:.82em;font-weight:700;color:#fff;background:#00369f;border:1px solid #00369f;border-radius:4px;padding:1px 9px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.fund-tbl .c-amt .amt{display:inline-block;font-size:.82em;font-weight:700;color:#fff;background:#3a6ea5;border:1px solid #3a6ea5;border-radius:4px;padding:1px 9px;font-variant-numeric:tabular-nums;white-space:nowrap}
 .fund-tbl .c-role{justify-content:flex-end}
 .fund-tbl .c-role span{font-size:.85em;font-weight:600;color:#4b555c;background:#eef1f4;border:1px solid #e0e5ea;border-radius:3px;padding:1px 8px;white-space:nowrap}
 .fund-tbl .c-role span.lead{color:#00369f;background:#e9effb;border-color:#cfe0fb}
