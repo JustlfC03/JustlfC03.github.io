@@ -1,4 +1,4 @@
----
+<img width="1073" height="196" alt="image" src="https://github.com/user-attachments/assets/b33dc6e9-6dae-4996-a0c7-30253603337f" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -287,14 +287,14 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
   <div class="cell"><span class="yr">2025</span><span class="it">MICCAI autoPET Challenge<span class="tag">1st Place</span></span></div>
   <div class="cell"><span class="yr">2025</span><span class="it">MICCAI VLM3D Challenge<span class="tag t2">2nd Place</span></span></div>
   <div class="cell"><span class="yr">2025</span><span class="it">MICCAI HECKTOR Challenge<span class="tag t3">3rd Place</span></span></div>
-  <div class="cell"><span class="yr">2025</span><span class="it">National Biomedical Engineering Innovation Design Competition<span class="tag">National 1st Prize</span></span></div>
-  <div class="cell"><span class="yr">2024</span><span class="it">China Postgraduate IC Innovation Competition &middot; EDA Elite Challenge<span class="tag">National 1st Prize</span></span></div>
-  <div class="cell"><span class="yr">2024</span><span class="it">China International College Students&rsquo; Innovation Competition<span class="tag">National Gold</span></span></div>
-  <div class="cell"><span class="yr">2024</span><span class="it">Higher Education ICT Industry-teaching Integration Innovation Competition<span class="tag t3">National 3rd Prize</span></span></div>
-  <div class="cell"><span class="yr">2023</span><span class="it">Chinese Collegiate Computing Competition, Big Data Practice Track<span class="tag">National 1st Prize</span></span></div>
-  <div class="cell"><span class="yr">2023</span><span class="it">Service Outsourcing Innovation &amp; Entrepreneurship Competition<span class="tag t3">National 3rd Prize</span></span></div>
-  <div class="cell"><span class="yr">2023</span><span class="it">iCAN Innovation and Entrepreneurship Competition<span class="tag">National 1st Prize</span></span></div>
-  <div class="cell"><span class="yr">2023</span><span class="it">MCM/ICM Mathematical Contest in Modeling<span class="tag t2">International 2nd Prize</span></span></div>
+  <div class="cell"><span class="yr">2025</span><span class="it">National Biomedical Engineering Innovation Design Competition for College Student<span class="tag">National First Prize</span></span></div>
+  <div class="cell"><span class="yr">2024</span><span class="it">China Postgraduate IC Innovation Competition &middot; EDA Elite Challenge<span class="tag">National First Prize</span></span></div>
+  <div class="cell"><span class="yr">2024</span><span class="it">China International College Students&rsquo; Innovation Competition<span class="tag">National Gold Award</span></span></div>
+  <div class="cell"><span class="yr">2024</span><span class="it">Higher Education ICT Industry-teaching Integration Innovation Competition<span class="tag t3">National Third Prize</span></span></div>
+  <div class="cell"><span class="yr">2023</span><span class="it">Chinese Collegiate Computing Competition, Big Data Practice Track<span class="tag">National First Prize</span></span></div>
+  <div class="cell"><span class="yr">2023</span><span class="it">China College Students&rsquo; Service Outsourcing Innovation and Entrepreneurship Competition, Enterprise Proposition Category<span class="tag t3">National Third Prize</span></span></div>
+  <div class="cell"><span class="yr">2023</span><span class="it">iCAN College Students&rsquo; Innovation and Entrepreneurship Competition, Digital Entrepreneurship Simulation Challenge<span class="tag">National First Prize</span></span></div>
+  <div class="cell"><span class="yr">2023</span><span class="it">MCM/ICM Mathematical Contest in Modeling<span class="tag t2">International Second Prize</span></span></div>
 </div>
 
 # 💰 Funding
@@ -319,9 +319,9 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 </style>
 
 <div class="fund-tbl" markdown="0">
-  <div class="c-yr">2025</div><div class="c-name">Zhejiang Provincial Undergraduate Sci-Tech Innovation Activities Program (New Talent Program)</div><div class="c-amt">&yen; 5,000</div><div class="c-role"><span>Key Member</span></div>
+  <div class="c-yr">2025</div><div class="c-name">Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program)</div><div class="c-amt">&yen; 5,000</div><div class="c-role"><span>Key Member</span></div>
   <div class="c-yr">2024</div><div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program (Normal Project)</div><div class="c-amt">&yen; 10,000</div><div class="c-role"><span>Key Member</span></div>
-  <div class="c-yr">2024</div><div class="c-name">Zhejiang Provincial Undergraduate Sci-Tech Innovation Activities Program (New Talent Program)</div><div class="c-amt">&yen; 5,000</div><div class="c-role"><span class="lead">Project Lead</span></div>
+  <div class="c-yr">2024</div><div class="c-name">Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program)</div><div class="c-amt">&yen; 5,000</div><div class="c-role"><span class="lead">Project Lead</span></div>
   <div class="c-yr">2023</div><div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program (Key Supporting Field Project)</div><div class="c-amt">&yen; 20,000</div><div class="c-role"><span class="lead">Project Lead</span></div>
 </div>
 
