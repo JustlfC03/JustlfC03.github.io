@@ -262,11 +262,11 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 <div class="cv-grid cv-hover" markdown="0">
   <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Recognized as <b>Outstanding Graduates of Zhejiang Province</b>.</span></div>
   <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Recognized as <b>Outstanding Student Cadre</b> at HDU.</span></div>
-  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it"><b>Top 10 Outstanding Students</b> in the 6th &ldquo;Youth of HDU&rdquo; program.</span></div>
+  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Recognized as <b>Top 10 Outstanding Students</b> in the 6th &ldquo;Youth of HDU&rdquo; program.</span></div>
+  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as <b>&ldquo;Star of Innovation&rdquo;</b>in the 5th &ldquo;Youth of HDU&rdquo; program.</span></div>
   <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as <b>Merit Student</b> at HDU.</span></div>
   <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as <b>Outstanding Student Cadre</b> at HDU.</span></div>
   <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as <b>Advanced Individual</b> at HDU.</span></div>
-  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it"><b>&ldquo;Star of Innovation&rdquo;</b> of the Top 100 Outstanding Students in the 5th &ldquo;Youth of HDU&rdquo; program.</span></div>
   <div class="cell"><span class="yr">2021&ndash;22</span><span class="it">Recognized as <b>Outstanding Student Cadre</b> at HDU.</span></div>
 </div>
 
