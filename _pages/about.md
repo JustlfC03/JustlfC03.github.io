@@ -237,7 +237,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 .cv-grid .cell:nth-child(odd){border-left:none}
 .cv-grid .yr{flex:0 0 74px;color:#00369f;font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap}
 .cv-grid .it{flex:1 1 auto}
-.cv-grid .amt{color:#7a8288;font-weight:400}
+.cv-grid .amt{display:block;color:#7a8288;font-weight:400}
 .cv-grid .tag{display:block;margin-top:2px;font-size:.9em;font-weight:600;color:#00369f}
 .cv-grid .tag.t2{color:#3a6ea5}.cv-grid .tag.t3{color:#7a8288}
 .cv-sub{font-weight:700;color:#4b555c;font-size:.95em;margin:.5em 0 .35em}
@@ -246,14 +246,14 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 
 <div class="cv-sub" markdown="0">Scholarships</div>
 <div class="cv-grid cv-hover" markdown="0">
-  <div class="cell"><span class="yr">2025&ndash;26</span><span class="it">Awarded <b>Tsinghua University College Scholarship</b> <span class="amt">(&yen; 5,000)</span>.</span></div>
-  <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Awarded <b>Graduate Entrance Examination Scholarship</b> <span class="amt">(&yen; 1,500)</span>.</span></div>
-  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Awarded <b>National Scholarship</b> <span class="amt">(&yen; 8,000)</span>.</span></div>
-  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Awarded <b>University First-Class Scholarships</b> <span class="amt">(&yen; 1,500)</span> twice.</span></div>
-  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Awarded <b>National Scholarship</b> <span class="amt">(&yen; 8,000)</span>.</span></div>
-  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Awarded <b>University First-Class Scholarships</b> <span class="amt">(&yen; 1,500)</span> twice.</span></div>
-  <div class="cell"><span class="yr">2021&ndash;22</span><span class="it">Awarded <b>Zhejiang Provincial Government Scholarship</b> <span class="amt">(&yen; 6,000)</span>.</span></div>
-  <div class="cell"><span class="yr">2021&ndash;22</span><span class="it">Awarded <b>University First-Class Scholarships</b> <span class="amt">(&yen; 1,500)</span> twice.</span></div>
+  <div class="cell"><span class="yr">2025&ndash;26</span><span class="it">Awarded <b>Tsinghua University College Scholarship</b>. <span class="amt">(&yen; 5,000)</span></span></div>
+  <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Awarded <b>Graduate Entrance Examination Scholarship</b>. <span class="amt">(&yen; 1,500)</span></span></div>
+  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Awarded <b>National Scholarship</b>. <span class="amt">(&yen; 8,000)</span></span></div>
+  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Awarded <b>University First-Class Scholarships</b> twice. <span class="amt">(&yen; 1,500)</span></span></div>
+  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Awarded <b>National Scholarship</b>. <span class="amt">(&yen; 8,000)</span></span></div>
+  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Awarded <b>University First-Class Scholarships</b> twice. <span class="amt">(&yen; 1,500)</span></span></div>
+  <div class="cell"><span class="yr">2021&ndash;22</span><span class="it">Awarded <b>Zhejiang Provincial Government Scholarship</b>. <span class="amt">(&yen; 6,000)</span></span></div>
+  <div class="cell"><span class="yr">2021&ndash;22</span><span class="it">Awarded <b>University First-Class Scholarships</b> twice. <span class="amt">(&yen; 1,500)</span></span></div>
 </div>
 
 <div class="cv-sub" markdown="0">Recognitions</div>
@@ -325,9 +325,9 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 </style>
 
 <div class="fund-tbl" markdown="0">
-  <div class="c-yr">2025</div><div class="c-name">Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program)</div><div class="c-amt">&yen; 5,000</div><div class="c-role"><span>Key Member</span></div>
+  <div class="c-yr">2025</div><div class="c-name">Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program</div><div class="c-amt">&yen; 5,000</div><div class="c-role"><span>Key Member</span></div>
   <div class="c-yr">2024</div><div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program (Normal Project)</div><div class="c-amt">&yen; 10,000</div><div class="c-role"><span>Key Member</span></div>
-  <div class="c-yr">2024</div><div class="c-name">Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (New Talent Program)</div><div class="c-amt">&yen; 5,000</div><div class="c-role"><span class="lead">Project Lead</span></div>
+  <div class="c-yr">2024</div><div class="c-name">Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program</div><div class="c-amt">&yen; 5,000</div><div class="c-role"><span class="lead">Project Lead</span></div>
   <div class="c-yr">2023</div><div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program (Key Supporting Field Project)</div><div class="c-amt">&yen; 20,000</div><div class="c-role"><span class="lead">Project Lead</span></div>
 </div>
 
