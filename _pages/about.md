@@ -333,7 +333,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
   <div class="c-yr">2025</div><div class="c-name">Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program</div><div class="c-amt"><span class="amt">&yen; 5,000</span></div><div class="c-role"><span>Key Member</span></div>
   <div class="c-yr">2024</div><div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program</div><div class="c-amt"><span class="amt">&yen; 10,000</span></div><div class="c-role"><span>Key Member</span></div>
   <div class="c-yr">2024</div><div class="c-name">Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program</div><div class="c-amt"><span class="amt">&yen; 5,000</span></div><div class="c-role"><span class="lead">Project Lead</span></div>
-  <div class="c-yr">2023</div><div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program <br>(Key Supporting Field Project)</div><div class="c-amt"><span class="amt">&yen; 20,000</span></div><div class="c-role"><span class="lead">Project Lead</span></div>
+  <div class="c-yr">2023</div><div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program <br><span class="amt">(Key Supporting Field Project)</span></div><div class="c-amt"><span class="amt">&yen; 20,000</span></div><div class="c-role"><span class="lead">Project Lead</span></div>
 </div>
 
 # 🔖 Academic Services
