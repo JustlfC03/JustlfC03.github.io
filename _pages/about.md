@@ -296,7 +296,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 <div class="aw-tbl" markdown="0">
   <div class="c-yr">2025</div><div class="c-name">MICCAI autoPET Challenge</div><div class="c-tier"><span class="awtag">1st Place</span></div><div class="c-role"><span class="rtag">Key Member</span></div>
   <div class="c-yr">2025</div><div class="c-name">MICCAI VLM3D Challenge</div><div class="c-tier"><span class="awtag">2nd Place</span></div><div class="c-role"><span class="rtag">Key Member</span></div>
-  <div class="c-yr">2025</div><div class="c-name">MICCAI HECKTOR Challenge</div><div class="c-tier"><span class="awtag">3rd Place</span></div><div class="c-role"><span class="rtag">Team Lead</span></div>
+  <div class="c-yr">2025</div><div class="c-name">MICCAI HECKTOR Challenge</div><div class="c-tier"><span class="awtag">3rd Place</span></div><div class="c-role"><span class="rtag lead">Team Lead</span></div>
   <div class="c-yr">2025</div><div class="c-name">National Biomedical Engineering Innovation Design Competition for College Student</div><div class="c-tier"><span class="awtag">First Prize</span></div><div class="c-role"><span class="rtag">Key Member</span></div>
   <div class="c-yr">2024</div><div class="c-name">China Postgraduate IC Innovation Competition · EDA Elite Challenge</div><div class="c-tier"><span class="awtag">First Prize</span></div><div class="c-role"><span class="rtag">Key Member</span></div>
   <div class="c-yr">2024</div><div class="c-name">China International College Students’ Innovation Competition</div><div class="c-tier"><span class="awtag">Gold Award</span></div><div class="c-role"><span class="rtag">Key Member</span></div>
