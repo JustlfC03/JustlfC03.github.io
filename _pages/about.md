@@ -98,7 +98,7 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 [No Modality Left Behind: Adapting to Missing Modalities via Knowledge Distillation for Brain Tumor Segmentation](https://www.sciencedirect.com/science/article/pii/S1361841526001775)
 Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Shuo Jiang, Guanyu Zhou, Yuanhan Wang, Feiwei Qin<sup>*</sup>, Changmiao Wang, Qiyuan Tian<sup>*</sup>. **Medical Image Analysis 2026**.
 
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QpOCKMwAAAAJ&citation_for_view=QpOCKMwAAAAJ:kNdYIx-mwKoC'><span class="show_paper_citations" data="QpOCKMwAAAAJ&hl:kNdYIx-mwKoC"></span></a>
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QpOCKMwAAAAJ&citation_for_view=QpOCKMwAAAAJ:kNdYIx-mwKoC'><span class="show_paper_citations" data="QpOCKMwAAAAJ:kNdYIx-mwKoC"></span></a>
 [![](https://img.shields.io/github/stars/Quanato607/AdaMM?style=social&label=Code+Stars)](https://github.com/Quanato607/AdaMM)
 
 </div>
@@ -123,7 +123,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 [Sckansformer: Fine-grained classification of bone marrow cells via kansformer backbone and hierarchical attention mechanisms](https://ieeexplore.ieee.org/abstract/document/10713291)
 <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhu Zhu<sup>✝, *</sup>, Shenghao Zhu, Linwei Qiu, Binfeng Zou, Fan Jia, Yunpeng Zhu, Chenyan Zhang, Zhaojie Fang, Feiwei Qin<sup>*</sup>, Jin Fan, Changmiao Wang, Gang Yu, Yu Gao. **IEEE Journal of Biomedical and Health Informatics 2025**.
 
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QpOCKMwAAAAJ&citation_for_view=QpOCKMwAAAAJ:d1gkVwhDpl0C'><span class="show_paper_citations" data="QpOCKMwAAAAJ&hl:d1gkVwhDpl0C"></span></a>
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QpOCKMwAAAAJ&citation_for_view=QpOCKMwAAAAJ:d1gkVwhDpl0C'><span class="show_paper_citations" data="QpOCKMwAAAAJ:d1gkVwhDpl0C"></span></a>
 [![](https://img.shields.io/github/stars/JustlfC03/SCKansformer?style=social&label=Code+Stars)](https://github.com/JustlfC03/SCKansformer)
 
 <span style="color:#b02418; font-weight:bold;">ESI Hot Paper</span>
@@ -135,7 +135,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 [Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases](https://www.sciencedirect.com/science/article/abs/pii/S0010482524000015)
 <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>*</sup>, Yong Peng, Yu Gao. **Computers in Biology and Medicine 2024**.
 
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QpOCKMwAAAAJ&citation_for_view=QpOCKMwAAAAJ:u5HHmVD_uO8C'><span class="show_paper_citations" data="QpOCKMwAAAAJ&hl:u5HHmVD_uO8C"></span></a>
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QpOCKMwAAAAJ&citation_for_view=QpOCKMwAAAAJ:u5HHmVD_uO8C'><span class="show_paper_citations" data="QpOCKMwAAAAJ:u5HHmVD_uO8C"></span></a>
 [![](https://img.shields.io/github/stars/JustlfC03/MFDS-DETR?style=social&label=Code+Stars)](https://github.com/JustlfC03/MFDS-DETR)
 
 <span style="color:#b02418; font-weight:bold;">ESI Hot Paper & ESI Highly Cited Paper</span>
