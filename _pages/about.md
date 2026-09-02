@@ -121,7 +121,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JBHI 2024</div><img src='images/SCKansformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Sckansformer: Fine-grained classification of bone marrow cells via kansformer backbone and hierarchical attention mechanisms](https://ieeexplore.ieee.org/abstract/document/10713291)
-<span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhu Zhu<sup>✝, *</sup>, Shenghao Zhu, Linwei Qiu, Binfeng Zou, Fan Jia, Yunpeng Zhu, Chenyan Zhang, Zhaojie Fang, Feiwei Qin<sup>*</sup>, Jin Fan, Changmiao Wang, Gang Yu, Yu Gao. **IEEE Journal of Biomedical and Health Informatics 2025**.
+<span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhu Zhu<sup>✝, *</sup>, Shenghao Zhu, Linwei Qiu, Binfeng Zou, Fan Jia, Yunpeng Zhu, Chenyan Zhang, Zhaojie Fang, Feiwei Qin<sup>*</sup>, Jin Fan, Changmiao Wang, Gang Yu, Yu Gao. **IEEE Journal of Biomedical and Health Informatics 2024**.
 
 <a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QpOCKMwAAAAJ&citation_for_view=QpOCKMwAAAAJ:d1gkVwhDpl0C'><span class="show_paper_citations" data="QpOCKMwAAAAJ:d1gkVwhDpl0C"></span></a>
 [![](https://img.shields.io/github/stars/JustlfC03/SCKansformer?style=social&label=Code+Stars)](https://github.com/JustlfC03/SCKansformer)
@@ -381,7 +381,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 
 <div class="tl" markdown="0">
   <div class="c-date">2026.07.10</div><div class="c-ev">2026 Medical Imaging Computing Seminar <span class="loc">Beijing, China</span></div>
-  <div class="c-date">2026.03.02</div><div class="c-ev">2025 ISMRM Workshop on Unlocking the Potential of Prenatal MRI <span class="loc">Washington, D.C., USA</span></div>
+  <div class="c-date">2026.03.02</div><div class="c-ev">2026 ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging<span class="loc">Washington, D.C., USA</span></div>
   <div class="c-date">2025.10.10</div><div class="c-ev">2025 International Symposium on Image Computing and Digital Medicine <span class="loc">Beijing, China</span></div>
   <div class="c-date">2025.09.23</div><div class="c-ev">2025 International Conference on Medical Image Computing and Computer Assisted Intervention <span class="loc">Daejeon, Korea</span></div>
   <div class="c-date">2025.09.09</div><div class="c-ev">2025 Beijing Radiology Quality Control Conference <span class="loc">Beijing, China</span></div>
