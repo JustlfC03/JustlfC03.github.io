@@ -380,6 +380,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 # 👯 Academic Activities
 
 <div class="tl" markdown="0">
+  <div class="c-date">2026.08.22</div><div class="c-ev">2026 Magnetic Resonance Brain–Computer Interface Conference <span class="loc">Tianjing, China</span></div>
   <div class="c-date">2026.07.10</div><div class="c-ev">2026 Medical Imaging Computing Seminar <span class="loc">Beijing, China</span></div>
   <div class="c-date">2026.03.02</div><div class="c-ev">2026 ISMRM Workshop on Unlocking the Potential of Prenatal MRI <span class="loc">Washington, D.C., USA</span></div>
   <div class="c-date">2025.10.10</div><div class="c-ev">2025 International Symposium on Image Computing and Digital Medicine <span class="loc">Beijing, China</span></div>
