@@ -148,7 +148,7 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 -->
 
 <!--
-- [ASTAR: Automated Induction of Standardized Medical Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora](https://justlfc03.github.io/). Xinfeng Zhang<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Juncheng Zhu, Kasidit Anmahapong, Yiming Huang, Yuan Zhang, Hongjia Yang, Yi Liao, Gang Ning, Haibo Qu, Qiyuan Tian<sup>*</sup>. **MICCAI 2026**.
+- [ASTAR: Automated Induction of Standardized Medical Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora](https://justlfc03.github.io/). Xinfeng Zhang<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Juncheng Zhu, Kasidit Anmahapong, Yiming Huang, Yuan Zhang, Hongjia Yang, Yi Liao, Gang Ning, Haibo Qu<sup>*</sup>, Qiyuan Tian<sup>*</sup>. **MICCAI 2026**.
 -->
 
 <!--
@@ -165,16 +165,16 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 
 - [IE-SRGS: An Internal-External Knowledge Fusion Framework for High-Fidelity 3D Gaussian Splatting Super-Resolution](https://ojs.aaai.org/index.php/AAAI/article/view/37398). Xiang Feng<sup>✝</sup>, Tieshi Zhong<sup>✝</sup>, Shuo Chang, Weiliu Wang, Chengkai Wang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Tongyu Hu, Yuhe Wang, Zhenzhong Kuang<sup>*</sup>, Xuefei Yin, Yanming Zhu<sup>*</sup>. **AAAI 2026**.
 
-- (**Oral**) [WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation](https://ieeexplore.ieee.org/document/11356448). Guanyu Zhou<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Gaoxiang Ying, Mingxuan Liu, Xuguang Bai, Jialan Zheng, Bixiao Cui, Qiyuan Tian<sup>*</sup>, Jie Lu. **BIBM 2025**.
+- (**Oral**) [WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation](https://ieeexplore.ieee.org/document/11356448). Guanyu Zhou<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Gaoxiang Ying, Mingxuan Liu, Xuguang Bai, Jialan Zheng, Bixiao Cui, Qiyuan Tian<sup>*</sup>, Jie Lu<sup>*</sup>. **BIBM 2025**.
 
-- (**Oral**) [DR-TTA: Dynamic and Robust Test-Time Adaptation Under Low-Quality MRI Conditions for Brain Tumor Segmentation](https://ieeexplore.ieee.org/document/11356381). Yuanhan Wang<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Shuo Jiang, Wenjing Yu, Mingxuan Liu, Beining Wu, Shenghao Zhu, Feiwei Qin<sup>*</sup>, Jin Fan, Changmiao Wang. **BIBM 2025**.
+- (**Oral**) [DR-TTA: Dynamic and Robust Test-Time Adaptation Under Low-Quality MRI Conditions for Brain Tumor Segmentation](https://ieeexplore.ieee.org/document/11356381). Yuanhan Wang<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Shuo Jiang, Wenjing Yu, Mingxuan Liu, Beining Wu, Shenghao Zhu, Feiwei Qin<sup>*</sup>, Jin Fan, Changmiao Wang<sup>*</sup>. **BIBM 2025**.
 
 - (**Oral**) [FetalExtract-LLM: Structured Information Extraction from Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models](https://link.springer.com/chapter/10.1007/978-3-032-05997-0_11). Mingxuan Liu<sup>✝</sup>, Yijin Li<sup>✝</sup>, Juncheng Zhu<sup>✝</sup>, Hongjia Yang, Yiming Huang, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian<sup>*</sup>. **MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis**.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/MST-KDNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation](https://link.springer.com/chapter/10.1007/978-3-032-04984-1_10)
-Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Yuanhan Wang, Chang Liu, Shuo Jiang, Changmiao Wang, Feiwei Qin<sup>*</sup>. **MICCAI 2025**.
+Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Yuanhan Wang, Chang Liu, Shuo Jiang, Feiwei Qin<sup>*</sup>, Changmiao Wang<sup>*</sup>. **MICCAI 2025**.
 
 <a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QpOCKMwAAAAJ&citation_for_view=QpOCKMwAAAAJ:roLk4NBRz8UC'><span class="show_paper_citations" data="QpOCKMwAAAAJ:roLk4NBRz8UC"></span></a>
 [![](https://img.shields.io/github/stars/Quanato607/MST-KDNet?style=social&label=Code+Stars)](https://github.com/Quanato607/MST-KDNet)
