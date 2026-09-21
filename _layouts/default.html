@@ -1,7 +1,3 @@
----
-layout: compress
----
-
 <!doctype html>
 <html lang="en" class="no-js">
   <head>
@@ -9,14 +5,12 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body class="academic-home">
 
-    {% include browser-upgrade.html %}
+    <a class="skip-link" href="#main">Skip to content</a>
     {% include masthead.html %}
 
-    <div id="main" role="main">
-      {% include sidebar.html %}
-    
+    <main id="main" tabindex="-1">
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
         <div class="page__inner-wrap">
@@ -25,11 +19,19 @@ layout: compress
           </section>
         </div>
       </article>
+    </main>
+
+    {% include analytics.html %}
+    {% if site.google_scholar_stats_use_cdn %}
+      {% assign scholar_url = 'https://cdn.jsdelivr.net/gh/' | append: site.repository | append: '@google-scholar-stats/gs_data.json' %}
+    {% else %}
+      {% assign scholar_url = 'https://raw.githubusercontent.com/' | append: site.repository | append: '/google-scholar-stats/gs_data.json' %}
+    {% endif %}
+    <script src="{{ '/assets/js/homepage.js' | relative_url }}?v={{ site.time | date: '%s' }}" data-scholar-url="{{ scholar_url }}" defer></script>
+
+    <div class="visitor-map" aria-label="Visitor map">
+      <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=500&t=tt&d=-9EoaDh9OBVmQUub32o-uoMNnM48k4bB5daRDoDCqPk" async></script>
     </div>
-
-    {% include scripts.html %}
-
-    <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=500&t=tt&d=-9EoaDh9OBVmQUub32o-uoMNnM48k4bB5daRDoDCqPk'></script>
 
   </body>
 </html>

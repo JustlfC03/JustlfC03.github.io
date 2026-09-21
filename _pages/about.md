@@ -2,58 +2,60 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% include home-profile.html %}
 
-<span class='anchor' id='about-me'></span>
+<div class="academic-content" markdown="1">
 
-I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/) and fortunate to be advised by [Prof. Qiyuan Tian（田启源）](https://www.med.tsinghua.edu.cn/info/1143/2126.htm). I was previously advised by [Prof. Feiwei Qin（秦飞巍）](https://computer.hdu.edu.cn/2021/1217/c6770a140174/page.htm) from [School of Computer Science](https://computer.hdu.edu.cn/main.htm), [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm).
-
-- 👯 I am looking to collaborate on **Medical Image Analysis**, **Multimodal Learning**, **Large Model**, **AI for Medicine**.
-
-<ul>
-  <li style="color:#D32F2F !important;">
-    📣 Feel free to reach out if you are interested in collaborating on my research 🤝!
-    <a href="mailto:justlfc03@gmail.com" style="color:#B71C1C !important; font-weight:bold;">Email Me!</a>
-  </li>
-</ul>
-
-<a href='https://scholar.google.com/citations?user=QpOCKMwAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
-[![](https://img.shields.io/github/stars/JustlfC03?style=social)](https://github.com/JustlfC03)
-[![](https://img.shields.io/badge/WeChat-%E5%BE%AE%E4%BF%A1-7BB32E?style=flat&logo=wechat&logoColor=white)](../images/wechat.png)
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+<span id="-internships" class="legacy-anchor" aria-hidden="true"></span>
 
 # 💻 Internships
-- *2024.05 - 2024.08*, The Hong Kong University of Science and Technology, Smart Lab Laboratory, advised by Professor [Hao Chen（陈浩）](https://seng.hkust.edu.hk/about/people/faculty/hao-chen).
-- *2021.09 - 2024.04*, The Chinese University of Hong Kong (Shenzhen), SRIBD Laboratory, advised by Professor [Changmiao Wang（王昌淼）](https://www.sribd.cn/teacher/505).
+{: #internships}
+
+<ol class="internship-list" markdown="0" aria-labelledby="internships">
+  <li class="internship-row">
+    <div class="internship-period"><time datetime="2024-05">2024.05</time> - <time datetime="2024-08">2024.08</time></div>
+    <div class="internship-details">
+      <div class="internship-institution">The Hong Kong University of Science and Technology</div>
+      <div class="internship-description"><span class="internship-lab">Smart Lab Laboratory</span>, advised by Professor <a href="https://seng.hkust.edu.hk/about/people/faculty/hao-chen">Hao Chen（陈浩）</a>.</div>
+    </div>
+  </li>
+  <li class="internship-row">
+    <div class="internship-period"><time datetime="2021-09">2021.09</time> - <time datetime="2024-04">2024.04</time></div>
+    <div class="internship-details">
+      <div class="internship-institution">The Chinese University of Hong Kong (Shenzhen)</div>
+      <div class="internship-description"><span class="internship-lab">SRIBD Laboratory</span>, advised by Professor <a href="https://www.sribd.cn/teacher/505">Changmiao Wang（王昌淼）</a>.</div>
+    </div>
+  </li>
+</ol>
+
+<span id="-news" class="legacy-anchor" aria-hidden="true"></span>
 
 # 🔥 News
-- *2026.08.08*: 🎉🎉 Our paper has been accepted by [BMVC 2026](https://bmvc2026.bmva.org/)!
-- *2026.07.31*: 🎉🎉 Our paper has been accepted by [MICCAI 2026 Workshop on Perinatal, Preterm and Paediatric Image Analysis](https://pippiworkshop.github.io/)!
-- *2026.07.27*: 🎉🎉 Our paper has been accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)!
-- *2026.06.28*: 🎉🎉 Our paper has been accepted by [IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/)!
-- *2026.06.13*: 🎉🎉 Our two papers have been accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/)!
-- *2026.06.08*: 🎉🎉 Our paper has been accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)!
-- *2026.06.02*: 🎉🎉 Our paper has been accepted by [NeuroImage](https://www.sciencedirect.com/journal/neuroimage)!
-- *2026.05.31*: 🎉🎉 Our paper has been accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)!
-- *2026.05.22*: 🎉🎉 Our paper has been accepted by [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)!
-- *2026.05.08*: 🎉🎉 Our three papers have been early accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/)!
-- *2026.04.22*: 🎉🎉 Our paper has been accepted by [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis)!
-- *2026.02.13*: 🎉🎉 Our four abstracts have been accepted by [OHBM 2026](https://humanbrainmapping.org/i4a/pages/index.cfm?pageid=4317)!
-- *2026.02.04*: 🎉🎉 Our two abstracts have been accepted by [ISMRM 2026](https://www.ismrm.org/26m/)!
-- *2026.01.27*: 🎉🎉 Our two abstracts have been accepted by [ISMRM Workshop on Unlocking the Potential of Prenatal MRI](https://www.ismrm.org/workshops/2026/PrenatalMRI/)!
-- *2026.01.09*: 🎉🎉 Our paper has been accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)!
+{: #news}
+
+<ol class="news-list" markdown="0" aria-labelledby="news">
+  <li class="news-row"><div class="news-date"><time datetime="2026-08-08">2026.08.08</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://bmvc2026.bmva.org/">BMVC 2026</a>!</span></div></li>
+  <li class="news-row"><div class="news-date"><time datetime="2026-07-31">2026.07.31</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://pippiworkshop.github.io/">MICCAI 2026 Workshop on Perinatal, Preterm and Paediatric Image Analysis</a>!</span></div></li>
+  <li class="news-row"><div class="news-date"><time datetime="2026-07-27">2026.07.27</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://www.sciencedirect.com/journal/pattern-recognition">Pattern Recognition</a>!</span></div></li>
+  <li class="news-row"><div class="news-date"><time datetime="2026-06-28">2026.06.28</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://www.embs.org/jbhi/">IEEE Journal of Biomedical and Health Informatics</a>!</span></div></li>
+  <li class="news-row"><div class="news-date"><time datetime="2026-06-13">2026.06.13</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our two papers have been accepted by <a href="https://conferences.miccai.org/2026/en/">MICCAI 2026</a>!</span></div></li>
+  <li class="news-row"><div class="news-date"><time datetime="2026-06-08">2026.06.08</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control">Biomedical Signal Processing and Control</a>!</span></div></li>
+  <li class="news-row"><div class="news-date"><time datetime="2026-06-02">2026.06.02</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://www.sciencedirect.com/journal/neuroimage">NeuroImage</a>!</span></div></li>
+  <li class="news-row"><div class="news-date"><time datetime="2026-05-31">2026.05.31</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://www.sciencedirect.com/journal/pattern-recognition">Pattern Recognition</a>!</span></div></li>
+  <li class="news-row"><div class="news-date"><time datetime="2026-05-22">2026.05.22</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://www.sciencedirect.com/journal/knowledge-based-systems">Knowledge-Based Systems</a>!</span></div></li>
+  <li class="news-row"><div class="news-date"><time datetime="2026-05-08">2026.05.08</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our three papers have been early accepted by <a href="https://conferences.miccai.org/2026/en/">MICCAI 2026</a>!</span></div></li>
+  <li class="news-row"><div class="news-date"><time datetime="2026-04-22">2026.04.22</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://www.sciencedirect.com/journal/medical-image-analysis">Medical Image Analysis</a>!</span></div></li>
+  <li class="news-row"><div class="news-date"><time datetime="2026-02-13">2026.02.13</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our four abstracts have been accepted by <a href="https://humanbrainmapping.org/i4a/pages/index.cfm?pageid=4317">OHBM 2026</a>!</span></div></li>
+  <li class="news-row"><div class="news-date"><time datetime="2026-02-04">2026.02.04</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our two abstracts have been accepted by <a href="https://www.ismrm.org/26m/">ISMRM 2026</a>!</span></div></li>
+  <li class="news-row"><div class="news-date"><time datetime="2026-01-27">2026.01.27</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our two abstracts have been accepted by <a href="https://www.ismrm.org/workshops/2026/PrenatalMRI/">ISMRM Workshop on Unlocking the Potential of Prenatal MRI</a>!</span></div></li>
+  <li class="news-row"><div class="news-date"><time datetime="2026-01-09">2026.01.09</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control">Biomedical Signal Processing and Control</a>!</span></div></li>
+</ol>
 
 <!--
 - *2025.11.08*: 🎉🎉 Our paper has been accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)!
@@ -74,7 +76,10 @@ I'm currently a PhD student at [BIRTH Lab](https://birthlab.github.io/) from [Sc
 - *2024.12.17*: 🎉🎉 Our paper has been accepted by [Scientific Data](https://www.nature.com/sdata/)!
 -->
 
+<span id="-publications" class="legacy-anchor" aria-hidden="true"></span>
+
 # 📝 Publications
+{: #publications}
 
 <span style="color:#b02418; font-weight:bold;">✝</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
@@ -228,26 +233,15 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 - [DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications](https://justlfc03.github.io/). <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Shenghao Zhu, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>. **ISMRM 2025 Workshop on 40 Years of Diffusion**.
 -->
 
+<span id="-honors" class="legacy-anchor" aria-hidden="true"></span>
+
 # 🎖 Honors
+{: #honors}
 
-<style>
-.cv-grid{display:grid;grid-template-columns:1fr 1fr;gap:0;margin:.2em 0 1.1em;border:1px dashed #c5cbd1;border-radius:4px;overflow:hidden}
-.cv-grid .cell{display:flex;gap:10px;align-items:baseline;padding:8px 12px;line-height:1.4;border-top:1px dashed #d6dbe0;border-left:1px dashed #d6dbe0}
-.cv-grid .cell:nth-child(-n+2){border-top:none}
-.cv-grid .cell:nth-child(odd){border-left:none}
-.cv-grid .yr{flex:0 0 74px;color:#00369f;font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap}
-.cv-grid .it{flex:1 1 auto}
-.cv-grid .amt{display:block;color:#7a8288;font-weight:400}
-.cv-grid .tag{display:block;margin-top:2px;font-size:.9em;font-weight:600;color:#00369f}
-.cv-grid .tag.t2{color:#3a6ea5}.cv-grid .tag.t3{color:#7a8288}
-.cv-sub{font-weight:700;color:#4b555c;font-size:.95em;margin:.5em 0 .35em}
-.cv-hover .cell{transition:background .15s}
-.cv-hover .cell:hover{background:#f4f7fb}
-@media(max-width:680px){.cv-grid{grid-template-columns:1fr}.cv-grid .cell{border-left:none!important}.cv-grid .cell:nth-child(2){border-top:1px dashed #d6dbe0}}
-</style>
-
-<div class="cv-sub" markdown="0">Scholarships</div>
-<div class="cv-grid cv-hover" markdown="0">
+<div class="honors-columns" markdown="0">
+  <section class="honors-panel" aria-labelledby="honors-scholarships">
+    <h2 class="cv-sub" id="honors-scholarships"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Scholarships</h2>
+    <div class="cv-grid" tabindex="0" role="region" aria-labelledby="honors-scholarships">
   <div class="cell"><span class="yr">2025&ndash;26</span><span class="it">Awarded <b>Tsinghua University College Scholarship</b>. <span class="amt">(&yen; 5,000)</span></span></div>
   <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Awarded <b>Graduate Entrance Examination Scholarship</b>. <span class="amt">(&yen; 1,500)</span></span></div>
   <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Awarded <b>National Scholarship</b>. <span class="amt">(&yen; 8,000)</span></span></div>
@@ -256,10 +250,11 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
   <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Awarded <b>University First-Class Scholarships</b> twice. <span class="amt">(&yen; 1,500)</span></span></div>
   <div class="cell"><span class="yr">2021&ndash;22</span><span class="it">Awarded <b>Zhejiang Provincial Government Scholarship</b>. <span class="amt">(&yen; 6,000)</span></span></div>
   <div class="cell"><span class="yr">2021&ndash;22</span><span class="it">Awarded <b>University First-Class Scholarships</b> twice. <span class="amt">(&yen; 1,500)</span></span></div>
-</div>
-
-<div class="cv-sub" markdown="0">Recognitions</div>
-<div class="cv-grid cv-hover" markdown="0">
+    </div>
+  </section>
+  <section class="honors-panel" aria-labelledby="honors-recognitions">
+    <h2 class="cv-sub" id="honors-recognitions"><i class="fa fa-award" aria-hidden="true"></i>Recognitions</h2>
+    <div class="cv-grid" tabindex="0" role="region" aria-labelledby="honors-recognitions">
   <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Recognized as <b>Outstanding Graduate of Zhejiang Province</b>.</span></div>
   <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as <b>Star of Innovation</b> in the 5th &ldquo;Youth of HDU&rdquo; program.</span></div>
   <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Recognized as <b>Top 10 Outstanding Students</b> in the 6th &ldquo;Youth of HDU&rdquo; program.</span></div>
@@ -268,129 +263,180 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
   <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as <b>Outstanding Student Cadre</b> at HDU.</span></div>
   <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as <b>Advanced Individual</b> at HDU.</span></div>
   <div class="cell"><span class="yr">2021&ndash;22</span><span class="it">Recognized as <b>Outstanding Student Cadre</b> at HDU.</span></div>
+    </div>
+  </section>
 </div>
 
-# 🏅 Awards
+<div class="achievements-columns" markdown="0">
+<section class="achievement-panel">
+<span id="-awards" class="legacy-anchor" aria-hidden="true"></span>
 
-<style>
-.aw-tbl{display:grid;grid-template-columns:56px 1fr auto auto;column-gap:14px;margin:.2em 0 1.1em;border:1px dashed #c5cbd1;border-radius:4px;overflow:hidden}
-.aw-tbl>div{padding:8px 12px;line-height:1.4;border-top:1px dashed #d6dbe0;display:flex;align-items:baseline}
-.aw-tbl>div:nth-child(-n+4){border-top:none}
-.aw-tbl .c-yr{color:#00369f;font-weight:700;font-variant-numeric:tabular-nums}
-.aw-tbl .c-role{justify-content:flex-end}
-.aw-tbl .c-role .rtag{font-size:.82em;font-weight:600;color:#4b555c;background:#eef1f4;border:1px solid #e0e5ea;border-radius:4px;padding:1px 9px;white-space:nowrap}
-.aw-tbl .c-role .rtag.lead{color:#00369f;background:#e9effb;border-color:#cfe0fb}
-.aw-tbl .c-tier{justify-content:flex-end}
-.aw-tbl .c-tier .awtag{display:inline-block;font-size:.82em;font-weight:600;color:#fff;background:#3a6ea5;border:1px solid #3a6ea5;border-radius:4px;padding:1px 9px;white-space:nowrap}
-.aw-tbl .c-tier .awtag.t2{color:#3a6ea5;background:#eef3fa;border-color:#d7e3f4}
-.aw-tbl .c-tier .awtag.t3{color:#5f676e;background:#eef1f4;border-color:#e0e5ea}
-.aw-tbl .rowbg:hover>div,.aw-tbl>div:hover{background:#f4f7fb}
-@media(max-width:680px){
-.aw-tbl{grid-template-columns:1fr auto}
-.aw-tbl .c-yr{grid-column:1}.aw-tbl .c-tier{grid-column:2}
-.aw-tbl .c-name{grid-column:1 / -1;border-top:none;padding-top:0}
-.aw-tbl .c-role{grid-column:1 / -1;border-top:none;padding-top:0;justify-content:flex-start}
-}
-</style>
+<h1 id="awards">🏅 Awards</h1>
 
-<div class="aw-tbl" markdown="0">
-  <div class="c-yr">2025</div><div class="c-name">MICCAI autoPET Challenge</div><div class="c-tier"><span class="awtag">1st Place</span></div><div class="c-role"><span class="rtag">Key Member</span></div>
-  <div class="c-yr">2025</div><div class="c-name">MICCAI VLM3D Challenge</div><div class="c-tier"><span class="awtag">2nd Place</span></div><div class="c-role"><span class="rtag">Key Member</span></div>
-  <div class="c-yr">2025</div><div class="c-name">MICCAI HECKTOR Challenge</div><div class="c-tier"><span class="awtag">3rd Place</span></div><div class="c-role"><span class="rtag lead">Team Lead</span></div>
-  <div class="c-yr">2025</div><div class="c-name">National Biomedical Engineering Innovation Design Competition for College Student</div><div class="c-tier"><span class="awtag">First Prize</span></div><div class="c-role"><span class="rtag">Key Member</span></div>
-  <div class="c-yr">2024</div><div class="c-name">China Postgraduate IC Innovation Competition · EDA Elite Challenge</div><div class="c-tier"><span class="awtag">First Prize</span></div><div class="c-role"><span class="rtag">Key Member</span></div>
-  <div class="c-yr">2024</div><div class="c-name">China International College Students’ Innovation Competition</div><div class="c-tier"><span class="awtag">Gold Award</span></div><div class="c-role"><span class="rtag">Key Member</span></div>
-  <div class="c-yr">2024</div><div class="c-name">Higher Education ICT Industry-teaching Integration Innovation Competition</div><div class="c-tier"><span class="awtag">Third Prize</span></div><div class="c-role"><span class="rtag">Key Member</span></div>
-  <div class="c-yr">2023</div><div class="c-name">Chinese Collegiate Computing Competition, Big Data Practice Track</div><div class="c-tier"><span class="awtag">First Prize</span></div><div class="c-role"><span class="rtag lead">Team Lead</span></div>
-  <div class="c-yr">2023</div><div class="c-name">China College Students’ Service Outsourcing Innovation and Entrepreneurship Competition, Enterprise Proposition Category</div><div class="c-tier"><span class="awtag">Third Prize</span></div><div class="c-role"><span class="rtag lead">Team Lead</span></div>
-  <div class="c-yr">2023</div><div class="c-name">iCAN College Students’ Innovation and Entrepreneurship Competition, Digital Entrepreneurship Simulation Challenge</div><div class="c-tier"><span class="awtag">First Prize</span></div><div class="c-role"><span class="rtag lead">Team Lead</span></div>
-  <div class="c-yr">2023</div><div class="c-name">MCM/ICM Mathematical Contest in Modeling</div><div class="c-tier"><span class="awtag">Second Prize</span></div><div class="c-role"><span class="rtag lead">Team Lead</span></div>
+<div class="aw-tbl" markdown="0" role="list" aria-labelledby="awards">
+  <div class="cv-record" role="listitem">
+    <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
+    <div class="record-details">
+      <div class="c-name">MICCAI autoPET Challenge</div>
+      <div class="record-meta"><div class="c-tier"><span class="awtag">1st Place</span></div><div class="c-role"><span class="rtag">Key Member</span></div><div class="c-yr">2025</div></div>
+    </div>
+  </div>
+  <div class="cv-record" role="listitem">
+    <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
+    <div class="record-details">
+      <div class="c-name">MICCAI VLM3D Challenge</div>
+      <div class="record-meta"><div class="c-tier"><span class="awtag">2nd Place</span></div><div class="c-role"><span class="rtag">Key Member</span></div><div class="c-yr">2025</div></div>
+    </div>
+  </div>
+  <div class="cv-record" role="listitem">
+    <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
+    <div class="record-details">
+      <div class="c-name">MICCAI HECKTOR Challenge</div>
+      <div class="record-meta"><div class="c-tier"><span class="awtag">3rd Place</span></div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-yr">2025</div></div>
+    </div>
+  </div>
+  <div class="cv-record" role="listitem">
+    <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
+    <div class="record-details">
+      <div class="c-name">National Biomedical Engineering Innovation Design Competition for College Student</div>
+      <div class="record-meta"><div class="c-tier"><span class="awtag">First Prize</span></div><div class="c-role"><span class="rtag">Key Member</span></div><div class="c-yr">2025</div></div>
+    </div>
+  </div>
+  <div class="cv-record" role="listitem">
+    <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
+    <div class="record-details">
+      <div class="c-name">China Postgraduate IC Innovation Competition · EDA Elite Challenge</div>
+      <div class="record-meta"><div class="c-tier"><span class="awtag">First Prize</span></div><div class="c-role"><span class="rtag">Key Member</span></div><div class="c-yr">2024</div></div>
+    </div>
+  </div>
+  <div class="cv-record" role="listitem">
+    <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
+    <div class="record-details">
+      <div class="c-name">China International College Students’ Innovation Competition</div>
+      <div class="record-meta"><div class="c-tier"><span class="awtag">Gold Award</span></div><div class="c-role"><span class="rtag">Key Member</span></div><div class="c-yr">2024</div></div>
+    </div>
+  </div>
+  <div class="cv-record" role="listitem">
+    <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
+    <div class="record-details">
+      <div class="c-name">Higher Education ICT Industry-teaching Integration Innovation Competition</div>
+      <div class="record-meta"><div class="c-tier"><span class="awtag">Third Prize</span></div><div class="c-role"><span class="rtag">Key Member</span></div><div class="c-yr">2024</div></div>
+    </div>
+  </div>
+  <div class="cv-record" role="listitem">
+    <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
+    <div class="record-details">
+      <div class="c-name">Chinese Collegiate Computing Competition, Big Data Practice Track</div>
+      <div class="record-meta"><div class="c-tier"><span class="awtag">First Prize</span></div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-yr">2023</div></div>
+    </div>
+  </div>
+  <div class="cv-record" role="listitem">
+    <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
+    <div class="record-details">
+      <div class="c-name">China College Students’ Service Outsourcing Innovation and Entrepreneurship Competition, Enterprise Proposition Category</div>
+      <div class="record-meta"><div class="c-tier"><span class="awtag">Third Prize</span></div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-yr">2023</div></div>
+    </div>
+  </div>
+  <div class="cv-record" role="listitem">
+    <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
+    <div class="record-details">
+      <div class="c-name">iCAN College Students’ Innovation and Entrepreneurship Competition, Digital Entrepreneurship Simulation Challenge</div>
+      <div class="record-meta"><div class="c-tier"><span class="awtag">First Prize</span></div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-yr">2023</div></div>
+    </div>
+  </div>
+  <div class="cv-record" role="listitem">
+    <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
+    <div class="record-details">
+      <div class="c-name">MCM/ICM Mathematical Contest in Modeling</div>
+      <div class="record-meta"><div class="c-tier"><span class="awtag">Second Prize</span></div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-yr">2023</div></div>
+    </div>
+  </div>
 </div>
 
-# 💰 Funding
+</section>
+<section class="achievement-panel">
+<span id="-funding" class="legacy-anchor" aria-hidden="true"></span>
 
-<style>
-.fund-tbl{display:grid;grid-template-columns:64px 1fr auto auto;column-gap:14px;margin:.2em 0 1.1em;border:1px dashed #c5cbd1;border-radius:4px;overflow:hidden}
-.fund-tbl>div{padding:8px 12px;line-height:1.4;border-top:1px dashed #d6dbe0;display:flex;align-items:baseline}
-.fund-tbl>div:nth-child(-n+4){border-top:none}
-.fund-tbl .c-yr{color:#00369f;font-weight:700;font-variant-numeric:tabular-nums}
-.fund-tbl .c-name .sub{color:#7a8288;font-weight:400}
-.fund-tbl .c-amt{justify-content:flex-end;white-space:nowrap}
-.fund-tbl .c-amt .amt{display:inline-block;font-size:.82em;font-weight:700;color:#fff;background:#3a6ea5;border:1px solid #3a6ea5;border-radius:4px;padding:1px 9px;font-variant-numeric:tabular-nums;white-space:nowrap}
-.fund-tbl .c-role{justify-content:flex-end}
-.fund-tbl .c-role span{font-size:.85em;font-weight:600;color:#4b555c;background:#eef1f4;border:1px solid #e0e5ea;border-radius:3px;padding:1px 8px;white-space:nowrap}
-.fund-tbl .c-role span.lead{color:#00369f;background:#e9effb;border-color:#cfe0fb}
-.fund-tbl .rowbg:hover>div,.fund-tbl>div:hover{background:#f4f7fb}
-@media(max-width:680px){
-.fund-tbl{grid-template-columns:1fr auto}
-.fund-tbl .c-yr{grid-column:1}.fund-tbl .c-role{grid-column:2}
-.fund-tbl .c-name{grid-column:1 / -1;border-top:none;padding-top:0}
-.fund-tbl .c-amt{grid-column:1 / -1;border-top:none;padding-top:0;justify-content:flex-start}
-}
-</style>
+<h1 id="funding">💰 Funding</h1>
 
-<div class="fund-tbl" markdown="0">
-  <div class="c-yr">2025</div><div class="c-name">Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program</div><div class="c-amt"><span class="amt">&yen; 5,000</span></div><div class="c-role"><span>Key Member</span></div>
-  <div class="c-yr">2024</div><div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program</div><div class="c-amt"><span class="amt">&yen; 10,000</span></div><div class="c-role"><span>Key Member</span></div>
-  <div class="c-yr">2024</div><div class="c-name">Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program</div><div class="c-amt"><span class="amt">&yen; 5,000</span></div><div class="c-role"><span class="lead">Project Lead</span></div>
-  <div class="c-yr">2023</div><div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program <br>(Key Supporting Field Project)</div><div class="c-amt"><span class="amt">&yen; 20,000</span></div><div class="c-role"><span class="lead">Project Lead</span></div>
+<div class="fund-tbl" markdown="0" role="list" aria-labelledby="funding">
+  <div class="cv-record" role="listitem">
+    <span class="record-icon" aria-hidden="true"><i class="fa fa-university"></i></span>
+    <div class="record-details">
+      <div class="c-name">Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program</div>
+      <div class="record-meta"><div class="c-amt"><span class="amt">&yen; 5,000</span></div><div class="c-role"><span>Key Member</span></div><div class="c-yr">2025</div></div>
+    </div>
+  </div>
+  <div class="cv-record" role="listitem">
+    <span class="record-icon" aria-hidden="true"><i class="fa fa-university"></i></span>
+    <div class="record-details">
+      <div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program</div>
+      <div class="record-meta"><div class="c-amt"><span class="amt">&yen; 10,000</span></div><div class="c-role"><span>Key Member</span></div><div class="c-yr">2024</div></div>
+    </div>
+  </div>
+  <div class="cv-record" role="listitem">
+    <span class="record-icon" aria-hidden="true"><i class="fa fa-university"></i></span>
+    <div class="record-details">
+      <div class="c-name">Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program</div>
+      <div class="record-meta"><div class="c-amt"><span class="amt">&yen; 5,000</span></div><div class="c-role"><span class="lead">Project Lead</span></div><div class="c-yr">2024</div></div>
+    </div>
+  </div>
+  <div class="cv-record" role="listitem">
+    <span class="record-icon" aria-hidden="true"><i class="fa fa-university"></i></span>
+    <div class="record-details">
+      <div class="c-name">National Undergraduate Innovation and Entrepreneurship Training Program <br>(Key Supporting Field Project)</div>
+      <div class="record-meta"><div class="c-amt"><span class="amt">&yen; 20,000</span></div><div class="c-role"><span class="lead">Project Lead</span></div><div class="c-yr">2023</div></div>
+    </div>
+  </div>
 </div>
+
+</section>
+</div>
+
+<span id="-academic-services" class="legacy-anchor" aria-hidden="true"></span>
 
 # 🔖 Academic Services
-
-<style>
-.svc{margin:.2em 0 1.2em}
-.svc .sblock{padding:10px 0;border-top:1px dashed #d6dbe0}
-.svc .sblock:first-child{border-top:none}
-.svc .slabel{display:flex;align-items:center;gap:7px;font-weight:700;color:#00369f;margin-bottom:5px}
-.svc .slabel:before{content:"";width:6px;height:6px;border-radius:50%;background:#00369f;flex:0 0 auto}
-.svc .sbody{line-height:1.7}
-.svc .chips{display:flex;flex-wrap:wrap;gap:6px}
-.svc .chip{display:inline-block;padding:2px 9px;font-size:.9em;color:#3a4750;background:#eef2f7;border-radius:4px;white-space:nowrap;transition:background .15s,color .15s}
-.svc .chip:hover{background:#dbe6f8;color:#00369f}
-
-.tl{margin:.2em 0 1.2em;display:grid;grid-template-columns:96px 1fr;column-gap:14px}
-.tl>div{padding:7px 0;border-top:1px dashed #d6dbe0;line-height:1.45}
-.tl>div:nth-child(-n+2){border-top:none}
-.tl .c-date{color:#00369f;font-weight:700;font-variant-numeric:tabular-nums}
-.tl .c-ev .loc{color:#7a8288}
-@media(max-width:680px){.tl{grid-template-columns:78px 1fr;column-gap:10px}}
-</style>
+{: #academic-services}
 
 <div class="svc" markdown="0">
-  <div class="sblock">
-    <div class="slabel">Conference Organization</div>
+  <div class="sblock service-overview">
+    <div class="slabel"><i class="fa fa-users" aria-hidden="true"></i>Conference Organization</div>
     <div class="sbody">Medical Imaging Computing Seminar (MICS), 2026.</div>
     <div class="sbody">International Workshop on Accessible Medical Imaging Diagnosis, 2026.</div>
   </div>
-  <div class="sblock">
-    <div class="slabel">Teaching Assistantship</div>
+  <div class="sblock service-overview">
+    <div class="slabel"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Teaching Assistantship</div>
     <div class="sbody">Medical Image Processing (Undergraduate Course), School of Biomedical Engineering, Tsinghua University, 2025, 2026.</div>
   </div>
-  <div class="sblock">
-    <div class="slabel">Journal Reviewer</div>
-    <div class="sbody"><div class="chips"><span class="chip">Medical Image Analysis</span><span class="chip">Pattern Recognition</span><span class="chip">IEEE Transactions on Circuits and Systems for Video Technology</span><span class="chip">IEEE Journal of Biomedical and Health Informatics</span><span class="chip">Engineering Applications of Artificial Intelligence</span><span class="chip">Knowledge-Based Systems</span><span class="chip">Expert Systems with Applications</span><span class="chip">Neurocomputing</span><span class="chip">Computers and Electronics in Agriculture</span><span class="chip">Computers in Industry</span><span class="chip">Computerized Medical Imaging and Graphics</span><span class="chip">Computers in Biology and Medicine</span><span class="chip">Biomedical Signal Processing and Control</span><span class="chip">Journal of King Saud University - Computer and Information Sciences</span></div></div>
+  <div class="sblock service-journals">
+    <div class="slabel"><i class="fa fa-book-open" aria-hidden="true"></i>Journal Reviewer</div>
+    <div class="sbody"><div class="chips" role="list"><span class="chip" role="listitem">Medical Image Analysis</span><span class="chip" role="listitem">Pattern Recognition</span><span class="chip" role="listitem">IEEE Transactions on Circuits and Systems for Video Technology</span><span class="chip" role="listitem">IEEE Journal of Biomedical and Health Informatics</span><span class="chip" role="listitem">Engineering Applications of Artificial Intelligence</span><span class="chip" role="listitem">Knowledge-Based Systems</span><span class="chip" role="listitem">Expert Systems with Applications</span><span class="chip" role="listitem">Neurocomputing</span><span class="chip" role="listitem">Computers and Electronics in Agriculture</span><span class="chip" role="listitem">Computers in Industry</span><span class="chip" role="listitem">Computerized Medical Imaging and Graphics</span><span class="chip" role="listitem">Computers in Biology and Medicine</span><span class="chip" role="listitem">Biomedical Signal Processing and Control</span><span class="chip" role="listitem">Journal of King Saud University - Computer and Information Sciences</span></div></div>
   </div>
-  <div class="sblock">
-    <div class="slabel">Conference Reviewer</div>
-    <div class="sbody"><div class="chips"><span class="chip">CVPR 2026</span><span class="chip">AAAI 2026</span><span class="chip">ECCV 2026</span><span class="chip">MICCAI 2026</span><span class="chip">MIDL 2026</span><span class="chip">ICME 2026</span><span class="chip">ICASSP 2026</span><span class="chip">BMVC 2026</span><span class="chip">ISMRM 2026</span><span class="chip">NeurIPS 2025</span><span class="chip">AAAI 2025</span><span class="chip">ECAI 2025</span><span class="chip">MICCAI 2025</span><span class="chip">BMVC 2025</span><span class="chip">CHIL 2025</span><span class="chip">SciPy 2025</span></div></div>
+  <div class="sblock service-conferences">
+    <div class="slabel"><i class="fa fa-clipboard-check" aria-hidden="true"></i>Conference Reviewer</div>
+    <div class="sbody"><div class="chips" role="list"><span class="chip" role="listitem">CVPR <span class="service-year">2026</span></span><span class="chip" role="listitem">AAAI <span class="service-year">2026</span></span><span class="chip" role="listitem">ECCV <span class="service-year">2026</span></span><span class="chip" role="listitem">MICCAI <span class="service-year">2026</span></span><span class="chip" role="listitem">MIDL <span class="service-year">2026</span></span><span class="chip" role="listitem">ICME <span class="service-year">2026</span></span><span class="chip" role="listitem">ICASSP <span class="service-year">2026</span></span><span class="chip" role="listitem">BMVC <span class="service-year">2026</span></span><span class="chip" role="listitem">ISMRM <span class="service-year">2026</span></span><span class="chip" role="listitem">NeurIPS <span class="service-year">2025</span></span><span class="chip" role="listitem">AAAI <span class="service-year">2025</span></span><span class="chip" role="listitem">ECAI <span class="service-year">2025</span></span><span class="chip" role="listitem">MICCAI <span class="service-year">2025</span></span><span class="chip" role="listitem">BMVC <span class="service-year">2025</span></span><span class="chip" role="listitem">CHIL <span class="service-year">2025</span></span><span class="chip" role="listitem">SciPy <span class="service-year">2025</span></span></div></div>
   </div>
 </div>
+
+<span id="-academic-activities" class="legacy-anchor" aria-hidden="true"></span>
 
 # 👯 Academic Activities
+{: #academic-activities}
 
-<div class="tl" markdown="0">
-  <div class="c-date">2026.08.22</div><div class="c-ev">2026 Magnetic Resonance Brain–Computer Interface Conference <span class="loc">Tianjing, China</span></div>
-  <div class="c-date">2026.07.10</div><div class="c-ev">2026 Medical Imaging Computing Seminar <span class="loc">Beijing, China</span></div>
-  <div class="c-date">2026.03.02</div><div class="c-ev">2026 ISMRM Workshop on Unlocking the Potential of Prenatal MRI <span class="loc">Washington, D.C., USA</span></div>
-  <div class="c-date">2025.10.10</div><div class="c-ev">2025 International Symposium on Image Computing and Digital Medicine <span class="loc">Beijing, China</span></div>
-  <div class="c-date">2025.09.23</div><div class="c-ev">2025 International Conference on Medical Image Computing and Computer Assisted Intervention <span class="loc">Daejeon, Korea</span></div>
-  <div class="c-date">2025.09.09</div><div class="c-ev">2025 Beijing Radiology Quality Control Conference <span class="loc">Beijing, China</span></div>
-  <div class="c-date">2025.07.18</div><div class="c-ev">2025 Medical Imaging Computing Seminar <span class="loc">Cixi, Zhejiang, China</span></div>
-  <div class="c-date">2025.06.20</div><div class="c-ev">2025 China Biomedical Engineering Conference &amp; Medical Innovation Summit <span class="loc">Suzhou, Jiangsu, China</span></div>
-  <div class="c-date">2025.02.16</div><div class="c-ev">2025 ISMRM Workshop on 40 Years of Diffusion: Past, Present &amp; Future Perspectives <span class="loc">Kyoto, Japan</span></div>
-</div>
+<ol class="activity-list" markdown="0" aria-labelledby="academic-activities">
+  <li class="activity-row"><time class="activity-date" datetime="2026-08-22">2026.08.22</time><div class="activity-details"><span class="activity-title">2026 Magnetic Resonance Brain–Computer Interface Conference</span><span class="activity-location"><i class="fa fa-map-marker-alt" aria-hidden="true"></i><span class="location-text"><span class="location-city">Tianjing</span><span class="location-country">, China</span></span></span></div></li>
+  <li class="activity-row"><time class="activity-date" datetime="2026-07-10">2026.07.10</time><div class="activity-details"><span class="activity-title">2026 Medical Imaging Computing Seminar</span><span class="activity-location"><i class="fa fa-map-marker-alt" aria-hidden="true"></i><span class="location-text"><span class="location-city">Beijing</span><span class="location-country">, China</span></span></span></div></li>
+  <li class="activity-row"><time class="activity-date" datetime="2026-03-02">2026.03.02</time><div class="activity-details"><span class="activity-title">2026 ISMRM Workshop on Unlocking the Potential of Prenatal MRI</span><span class="activity-location"><i class="fa fa-map-marker-alt" aria-hidden="true"></i><span class="location-text"><span class="location-city">Washington, D.C.</span><span class="location-country">, USA</span></span></span></div></li>
+  <li class="activity-row"><time class="activity-date" datetime="2025-10-10">2025.10.10</time><div class="activity-details"><span class="activity-title">2025 International Symposium on Image Computing and Digital Medicine</span><span class="activity-location"><i class="fa fa-map-marker-alt" aria-hidden="true"></i><span class="location-text"><span class="location-city">Beijing</span><span class="location-country">, China</span></span></span></div></li>
+  <li class="activity-row"><time class="activity-date" datetime="2025-09-23">2025.09.23</time><div class="activity-details"><span class="activity-title">2025 International Conference on Medical Image Computing and Computer Assisted Intervention</span><span class="activity-location"><i class="fa fa-map-marker-alt" aria-hidden="true"></i><span class="location-text"><span class="location-city">Daejeon</span><span class="location-country">, Korea</span></span></span></div></li>
+  <li class="activity-row"><time class="activity-date" datetime="2025-09-09">2025.09.09</time><div class="activity-details"><span class="activity-title">2025 Beijing Radiology Quality Control Conference</span><span class="activity-location"><i class="fa fa-map-marker-alt" aria-hidden="true"></i><span class="location-text"><span class="location-city">Beijing</span><span class="location-country">, China</span></span></span></div></li>
+  <li class="activity-row"><time class="activity-date" datetime="2025-07-18">2025.07.18</time><div class="activity-details"><span class="activity-title">2025 Medical Imaging Computing Seminar</span><span class="activity-location"><i class="fa fa-map-marker-alt" aria-hidden="true"></i><span class="location-text"><span class="location-city">Cixi, Zhejiang</span><span class="location-country">, China</span></span></span></div></li>
+  <li class="activity-row"><time class="activity-date" datetime="2025-06-20">2025.06.20</time><div class="activity-details"><span class="activity-title">2025 China Biomedical Engineering Conference &amp; Medical Innovation Summit</span><span class="activity-location"><i class="fa fa-map-marker-alt" aria-hidden="true"></i><span class="location-text"><span class="location-city">Suzhou, Jiangsu</span><span class="location-country">, China</span></span></span></div></li>
+  <li class="activity-row"><time class="activity-date" datetime="2025-02-16">2025.02.16</time><div class="activity-details"><span class="activity-title">2025 ISMRM Workshop on 40 Years of Diffusion: Past, Present &amp; Future Perspectives</span><span class="activity-location"><i class="fa fa-map-marker-alt" aria-hidden="true"></i><span class="location-text"><span class="location-city">Kyoto</span><span class="location-country">, Japan</span></span></span></div></li>
+</ol>
 
 <!--
 # 💬 Talks and Presentations
 -->
+
+</div>
