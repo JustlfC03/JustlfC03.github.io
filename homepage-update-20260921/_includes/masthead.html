@@ -1,0 +1,10 @@
+<header class="home-header">
+  <div class="home-header__inner">
+    <a class="home-wordmark" href="#about-me">About Me</a>
+    <nav class="home-nav" aria-label="Main navigation">
+      {% for link in site.data.navigation.main %}
+        <a href="{{ link.url }}">{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+</header>
