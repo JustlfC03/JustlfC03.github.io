@@ -81,132 +81,300 @@ redirect_from:
 # 📝 Publications
 {: #publications}
 
-<span style="color:#b02418; font-weight:bold;">✝</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
+<div class="publications-content" markdown="0">
+<p class="publication-legend"><span><b>✝</b> co-first author</span><span><b>*</b> corresponding author</span></p>
 
-#### Selected JOURNAL PAPERS [Full list is available in Google Scholar]
-- [MorVess: Morphology-Aware Pulmonary Vessel Segmentation Network](https://www.sciencedirect.com/science/article/pii/S0031320326015141). Fuyou Mao<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Beining Wu, Lixin Lin, Jinnan Dai, Zhiling Li, Yilei Chen, Yaqi Wang, Hao Zhang, Yan Tang<sup>*</sup>, Huiyu Zhou, Feiwei Qin<sup>*</sup>. **Pattern Recognition 2026**.
+<section class="publication-group" aria-labelledby="journal-papers">
+  <div class="publication-group-header">
+    <h2 id="journal-papers">Selected Journal Papers</h2>
+    <a class="publication-scholar" href="https://scholar.google.com/citations?user=QpOCKMwAAAAJ&amp;hl=zh-CN">Full list is available in Google Scholar <span aria-hidden="true">↗</span></a>
+  </div>
+  <ol class="publication-list" role="list">
 
-- [Multimodal Feature Prototype Learning for Interpretable and Discriminative Cancer Survival Prediction](https://ieeexplore.ieee.org/abstract/document/11595740). Shuo Jiang, Zhuwen Chen, Liaoman Xu, Yanming Zhu, Changmiao Wang, Jiong Zhang, Feiwei Qin<sup>*</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>*</sup></span>, Zhu Zhu<sup>*</sup>. **IEEE Journal of Biomedical and Health Informatics 2026**.
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://www.sciencedirect.com/science/article/pii/S0031320326015141">MorVess: Morphology-Aware Pulmonary Vessel Segmentation Network</a>.</h3>
+      <p class="publication-authors">Fuyou Mao<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Beining Wu, Lixin Lin, Jinnan Dai, Zhiling Li, Yilei Chen, Yaqi Wang, Hao Zhang, Yan Tang<sup>*</sup>, Huiyu Zhou, Feiwei Qin<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">Pattern Recognition 2026.</span></div>
+    </div>
+  </li>
 
-- [MMLNB: Multi-Modal Learning for Neuroblastoma Subtyping Classification Assisted with Textual Description Generation](https://www.sciencedirect.com/science/article/pii/S1746809426013522). Huangwei Chen<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhenyu Yan, Mingyang Ding, Chenlei Li, Feiwei Qin, Daxing Zhang<sup>*</sup>, Zhu Zhu<sup>*</sup>. **Biomedical Signal Processing and Control 2026**.
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://ieeexplore.ieee.org/abstract/document/11595740">Multimodal Feature Prototype Learning for Interpretable and Discriminative Cancer Survival Prediction</a>.</h3>
+      <p class="publication-authors">Shuo Jiang, Zhuwen Chen, Liaoman Xu, Yanming Zhu, Changmiao Wang, Jiong Zhang, Feiwei Qin<sup>*</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>*</sup></span>, Zhu Zhu<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">IEEE Journal of Biomedical and Health Informatics 2026.</span></div>
+    </div>
+  </li>
 
-- [MicroKAN: Mapping Human Brain Microstructure Using Diffusion MRI and Adaptive Nonlinear Modeling](https://www.sciencedirect.com/science/article/pii/S1053811926003472). <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zihan Li<sup>✝</sup>, Yuanhan Wang, Yijin Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Tolga Cukur, Qiuyun Fan, Ziyu Li<sup>*</sup>, Jie Lu<sup>*</sup>, Qiyuan Tian<sup>*</sup>. **NeuroImage 2026**.
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://www.sciencedirect.com/science/article/pii/S1746809426013522">MMLNB: Multi-Modal Learning for Neuroblastoma Subtyping Classification Assisted with Textual Description Generation</a>.</h3>
+      <p class="publication-authors">Huangwei Chen<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhenyu Yan, Mingyang Ding, Chenlei Li, Feiwei Qin, Daxing Zhang<sup>*</sup>, Zhu Zhu<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">Biomedical Signal Processing and Control 2026.</span></div>
+    </div>
+  </li>
 
-- [MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation](https://www.sciencedirect.com/science/article/pii/S0031320326011088). Jinying Zong<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝, *</sup></span>, Mingxuan Liu<sup>✝</sup>, Yuxin Du, Changwei Wu, Beining Wu, Guanyu Zhou, Feiwei Qin<sup>*</sup>. **Pattern Recognition 2026**.
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://www.sciencedirect.com/science/article/pii/S1053811926003472">MicroKAN: Mapping Human Brain Microstructure Using Diffusion MRI and Adaptive Nonlinear Modeling</a>.</h3>
+      <p class="publication-authors"><span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zihan Li<sup>✝</sup>, Yuanhan Wang, Yijin Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Tolga Cukur, Qiuyun Fan, Ziyu Li<sup>*</sup>, Jie Lu<sup>*</sup>, Qiyuan Tian<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">NeuroImage 2026.</span></div>
+    </div>
+  </li>
+
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://www.sciencedirect.com/science/article/pii/S0031320326011088">MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation</a>.</h3>
+      <p class="publication-authors">Jinying Zong<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝, *</sup></span>, Mingxuan Liu<sup>✝</sup>, Yuxin Du, Changwei Wu, Beining Wu, Guanyu Zhou, Feiwei Qin<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">Pattern Recognition 2026.</span></div>
+    </div>
+  </li>
+
 
 <!--
 - [PathLens: A Lightweight Multimodal Reasoner for In-Depth Pathology Insights](https://www.sciencedirect.com/science/article/pii/S0950705126009871). Zhu Zhu, Huangwei Chen, Zhenyu Yan, Donghao Zhang, Yueyi Wu, Yuqi Zhan, Weihao Cheng, Manli Zhao, Weizhong Gu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Feiwei Qin<sup>*</sup>, Gang Yu<sup>*</sup>. **Knowledge-Based Systems 2026**.
 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA 2026</div><img src='images/AdaMM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[No Modality Left Behind: Adapting to Missing Modalities via Knowledge Distillation for Brain Tumor Segmentation](https://www.sciencedirect.com/science/article/pii/S1361841526001775)
-Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Shuo Jiang, Guanyu Zhou, Yuanhan Wang, Feiwei Qin<sup>*</sup>, Changmiao Wang, Qiyuan Tian<sup>*</sup>. **Medical Image Analysis 2026**.
 
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QpOCKMwAAAAJ&citation_for_view=QpOCKMwAAAAJ:kNdYIx-mwKoC'><span class="show_paper_citations" data="QpOCKMwAAAAJ:kNdYIx-mwKoC"></span></a>
-[![](https://img.shields.io/github/stars/Quanato607/AdaMM?style=social&label=Code+Stars)](https://github.com/Quanato607/AdaMM)
+  <li class="publication-item publication-item--illustrated">
+    <figure class="publication-figure">
+      <img src="images/AdaMM.png" alt="Illustration for No Modality Left Behind: Adapting to Missing Modalities via Knowledge Distillation for Brain Tumor Segmentation" loading="lazy">
+      <figcaption>MedIA 2026</figcaption>
+    </figure>
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://www.sciencedirect.com/science/article/pii/S1361841526001775">No Modality Left Behind: Adapting to Missing Modalities via Knowledge Distillation for Brain Tumor Segmentation</a></h3>
+      <p class="publication-authors">Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Shuo Jiang, Guanyu Zhou, Yuanhan Wang, Feiwei Qin<sup>*</sup>, Changmiao Wang, Qiyuan Tian<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">Medical Image Analysis 2026.</span></div>
+      <div class="publication-links">
+        <a class="publication-citations" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=QpOCKMwAAAAJ&amp;citation_for_view=QpOCKMwAAAAJ:kNdYIx-mwKoC"><span class="show_paper_citations" data="QpOCKMwAAAAJ:kNdYIx-mwKoC">Citations</span></a>
+        <a class="publication-code" href="https://github.com/Quanato607/AdaMM"><img src="https://img.shields.io/github/stars/Quanato607/AdaMM?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
+      </div>
+    </div>
+  </li>
 
-</div>
-</div>
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://www.sciencedirect.com/science/article/pii/S1746809426001497">Towards Practical Alzheimer&#x27;s Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model</a>.</h3>
+      <p class="publication-authors">Changwei Wu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝, *</sup></span>, Yuxin Du, Jinying Zong, Jie Dong, Mingxuan Liu, Feiwei Qin<sup>*</sup>, Yong Peng, Jin Fan, Changmiao Wang.</p>
+      <div class="publication-meta"><span class="publication-venue">Biomedical Signal Processing and Control 2026.</span></div>
+    </div>
+  </li>
 
-- [Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model](https://www.sciencedirect.com/science/article/pii/S1746809426001497). Changwei Wu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝, *</sup></span>, Yuxin Du, Jinying Zong, Jie Dong, Mingxuan Liu, Feiwei Qin<sup>*</sup>, Yong Peng, Jin Fan, Changmiao Wang. **Biomedical Signal Processing and Control 2026**.
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://ieeexplore.ieee.org/abstract/document/11223166">Tc-kanrecon: High-quality and accelerated mri reconstruction via adaptive kan mechanisms and intelligent feature scaling</a>.</h3>
+      <p class="publication-authors">Ruiquan Ge, Xiao Yu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Fan Jia, Shenghao Zhu, Dong Zeng, Changmiao Wang, Qiegen Liu<sup>*</sup>, Shanzhou Niu<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">IEEE Journal of Biomedical and Health Informatics 2025.</span></div>
+    </div>
+  </li>
 
-- [Tc-kanrecon: High-quality and accelerated mri reconstruction via adaptive kan mechanisms and intelligent feature scaling](https://ieeexplore.ieee.org/abstract/document/11223166). Ruiquan Ge, Xiao Yu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Fan Jia, Shenghao Zhu, Dong Zeng, Changmiao Wang, Qiegen Liu<sup>*</sup>, Shanzhou Niu<sup>*</sup>. **IEEE Journal of Biomedical and Health Informatics 2025**.
 
 <!--
 - [MICCAI 2023 STS Challenge: A retrospective study of semi-supervised approaches for teeth segmentation](https://www.sciencedirect.com/science/article/pii/S0031320325007095). Yaqi Wang, Yifan Zhang, ..., <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, ... Jun Liu<sup>*</sup>, ..., Huiyu Zhou<sup>*</sup>, Qun Jin. **Pattern Recognition 2025**.
 -->
 
-- [A multi-modal dental dataset for semi-supervised deep learning image segmentation](https://www.nature.com/articles/s41597-024-04306-9). Yaqi Wang, Fan Ye, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chengkai Wang, Chengyu Wu, Feng Xu, Zhean Ma, Yi Liu, Yifan Zhang, Mingguo Cao<sup>*</sup>, Xiaodiao Chen<sup>*</sup>. **Scientific Data 2025**.
+
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://www.nature.com/articles/s41597-024-04306-9">A multi-modal dental dataset for semi-supervised deep learning image segmentation</a>.</h3>
+      <p class="publication-authors">Yaqi Wang, Fan Ye, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chengkai Wang, Chengyu Wu, Feng Xu, Zhean Ma, Yi Liu, Yifan Zhang, Mingguo Cao<sup>*</sup>, Xiaodiao Chen<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">Scientific Data 2025.</span></div>
+    </div>
+  </li>
+
 
 <!--
 - [LPUWF-LDM: Enhanced latent diffusion model for precise late-phase UWF-FA generation on limited dataset](https://www.sciencedirect.com/science/article/abs/pii/S0957417425000934). Zhaojie Fang, Xiao Yu, Guanyu Zhou, Ke Zhuang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Ruiquan Ge<sup>*</sup>, Changmiao Wang<sup>*</sup>, Gangyong Jia, Qing Wu, Juan Ye, Maimaiti Nuliqiman, Peifang Xu, Ahmed Elazab. **Expert Systems with Applications 2025**.
 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JBHI 2024</div><img src='images/SCKansformer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Sckansformer: Fine-grained classification of bone marrow cells via kansformer backbone and hierarchical attention mechanisms](https://ieeexplore.ieee.org/abstract/document/10713291)
-<span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhu Zhu<sup>✝, *</sup>, Shenghao Zhu, Linwei Qiu, Binfeng Zou, Fan Jia, Yunpeng Zhu, Chenyan Zhang, Zhaojie Fang, Feiwei Qin<sup>*</sup>, Jin Fan, Changmiao Wang, Gang Yu, Yu Gao. **IEEE Journal of Biomedical and Health Informatics 2025**.
 
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QpOCKMwAAAAJ&citation_for_view=QpOCKMwAAAAJ:d1gkVwhDpl0C'><span class="show_paper_citations" data="QpOCKMwAAAAJ:d1gkVwhDpl0C"></span></a>
-[![](https://img.shields.io/github/stars/JustlfC03/SCKansformer?style=social&label=Code+Stars)](https://github.com/JustlfC03/SCKansformer)
+  <li class="publication-item publication-item--illustrated">
+    <figure class="publication-figure">
+      <img src="images/SCKansformer.png" alt="Illustration for Sckansformer: Fine-grained classification of bone marrow cells via kansformer backbone and hierarchical attention mechanisms" loading="lazy">
+      <figcaption>IEEE JBHI 2024</figcaption>
+    </figure>
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://ieeexplore.ieee.org/abstract/document/10713291">Sckansformer: Fine-grained classification of bone marrow cells via kansformer backbone and hierarchical attention mechanisms</a></h3>
+      <p class="publication-authors"><span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhu Zhu<sup>✝, *</sup>, Shenghao Zhu, Linwei Qiu, Binfeng Zou, Fan Jia, Yunpeng Zhu, Chenyan Zhang, Zhaojie Fang, Feiwei Qin<sup>*</sup>, Jin Fan, Changmiao Wang, Gang Yu, Yu Gao.</p>
+      <div class="publication-meta"><span class="publication-venue">IEEE Journal of Biomedical and Health Informatics 2025.</span><span class="publication-recognition">ESI Hot Paper</span></div>
+      <div class="publication-links">
+        <a class="publication-citations" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=QpOCKMwAAAAJ&amp;citation_for_view=QpOCKMwAAAAJ:d1gkVwhDpl0C"><span class="show_paper_citations" data="QpOCKMwAAAAJ:d1gkVwhDpl0C">Citations</span></a>
+        <a class="publication-code" href="https://github.com/JustlfC03/SCKansformer"><img src="https://img.shields.io/github/stars/JustlfC03/SCKansformer?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
+      </div>
+    </div>
+  </li>
 
-<span style="color:#b02418; font-weight:bold;">ESI Hot Paper</span>
-</div>
-</div>
+  <li class="publication-item publication-item--illustrated">
+    <figure class="publication-figure">
+      <img src="images/MFDS-DETR.png" alt="Illustration for Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases" loading="lazy">
+      <figcaption>CIBM 2024</figcaption>
+    </figure>
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482524000015">Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases</a></h3>
+      <p class="publication-authors"><span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>*</sup>, Yong Peng, Yu Gao.</p>
+      <div class="publication-meta"><span class="publication-venue">Computers in Biology and Medicine 2024.</span><span class="publication-recognition">ESI Hot Paper &amp; ESI Highly Cited Paper</span></div>
+      <div class="publication-links">
+        <a class="publication-citations" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=QpOCKMwAAAAJ&amp;citation_for_view=QpOCKMwAAAAJ:u5HHmVD_uO8C"><span class="show_paper_citations" data="QpOCKMwAAAAJ:u5HHmVD_uO8C">Citations</span></a>
+        <a class="publication-code" href="https://github.com/JustlfC03/MFDS-DETR"><img src="https://img.shields.io/github/stars/JustlfC03/MFDS-DETR?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
+      </div>
+    </div>
+  </li>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIBM 2024</div><img src='images/MFDS-DETR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases](https://www.sciencedirect.com/science/article/abs/pii/S0010482524000015)
-<span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>*</sup>, Yong Peng, Yu Gao. **Computers in Biology and Medicine 2024**.
+</ol>
+</section>
 
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QpOCKMwAAAAJ&citation_for_view=QpOCKMwAAAAJ:u5HHmVD_uO8C'><span class="show_paper_citations" data="QpOCKMwAAAAJ:u5HHmVD_uO8C"></span></a>
-[![](https://img.shields.io/github/stars/JustlfC03/MFDS-DETR?style=social&label=Code+Stars)](https://github.com/JustlfC03/MFDS-DETR)
+<section class="publication-group" aria-labelledby="conference-papers">
+  <div class="publication-group-header">
+    <h2 id="conference-papers">Selected Conference Papers</h2>
+    <a class="publication-scholar" href="https://scholar.google.com/citations?user=QpOCKMwAAAAJ&amp;hl=zh-CN">Full list is available in Google Scholar <span aria-hidden="true">↗</span></a>
+  </div>
+  <ol class="publication-list" role="list">
 
-<span style="color:#b02418; font-weight:bold;">ESI Hot Paper & ESI Highly Cited Paper</span>
-</div>
-</div>
 
-#### Selected CONFERENCE PAPERS [Full list is available in Google Scholar]
 <!--
 - [FetAngle: Toward Generalizable Automated Fetal Brain Angle Biometry via Test-Time Adaptation](https://justlfc03.github.io/). Yitong Luo<sup>✝</sup>, Yijin Li<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, Yi Liao, Kasidit Anmahapong, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Xiaotian Hu, Haibo Qu<sup>*</sup>, Qiyuan Tian<sup>*</sup>. **BMVC 2026**.
 -->
+
+
 
 <!--
 - [ASTAR: Automated Induction of Standardized Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora](https://justlfc03.github.io/). Xinfeng Zhang<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Juncheng Zhu, Kasidit Anmahapong, Yiming Huang, Yuan Zhang, Hongjia Yang, Yi Liao, Gang Ning, Haibo Qu, Qiyuan Tian<sup>*</sup>. **MICCAI 2026**.
 -->
 
+
+
 <!--
 - [Directed Ordinal Diffusion Regularization for Progression-Aware Diabetic Retinopathy Grading](https://justlfc03.github.io/). Huangwei Chen<sup>✝</sup>, Junhao Jia<sup>✝</sup>, Ruocheng Li, Cunyuan Yang, Wu Li, Xiaotao Pang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Haishuai Wang<sup>*</sup>, Jiajun Bu, Lei Wu<sup>*</sup>. **MICCAI 2026**.
 -->
+
+
 
 <!--
 - [FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis](https://justlfc03.github.io/). Xiaotian Hu<sup>✝</sup>, Junwei Huang<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, Kasidit Anmahapong, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Yitong Luo, Yimin Huang, Xuguang Bai, Zihan Li, Yi Liao, Haibo Qu, Qiyuan Tian<sup>*</sup>. **MICCAI 2026**.
 -->
 
-- (**Oral**) [R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound](https://justlfc03.github.io/). Yuanhan Wang<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Beining Wu, Mingxuan Liu, Xiaotian Hu, Chunbo Jiang, Yijin Li, Changmiao Wang, Feiwei Qin<sup>*</sup>, Qiyuan Tian<sup>*</sup>. **MICCAI 2026 Workshop on Perinatal, Preterm and Paediatric Image Analysis**.
 
-- [GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT](https://justlfc03.github.io/). Shuo Jiang<sup>✝</sup>, Yuhao Hong<sup>✝</sup>, Chunbo Jiang, Weihong Chen, Huangwei Chen, Shenghao Zhu, Beining Wu, Mingxuan Liu, Zhu Zhu, Feiwei Qin<sup>*</sup>, Min Tan, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>*</sup></span>. **MICCAI 2026**.
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://justlfc03.github.io/">R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound</a>.</h3>
+      <p class="publication-authors">Yuanhan Wang<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Beining Wu, Mingxuan Liu, Xiaotian Hu, Chunbo Jiang, Yijin Li, Changmiao Wang, Feiwei Qin<sup>*</sup>, Qiyuan Tian<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">MICCAI 2026 Workshop on Perinatal, Preterm and Paediatric Image Analysis.</span><span class="publication-distinction">Oral</span></div>
+    </div>
+  </li>
 
-- [IE-SRGS: An Internal-External Knowledge Fusion Framework for High-Fidelity 3D Gaussian Splatting Super-Resolution](https://ojs.aaai.org/index.php/AAAI/article/view/37398). Xiang Feng<sup>✝</sup>, Tieshi Zhong<sup>✝</sup>, Shuo Chang, Weiliu Wang, Chengkai Wang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Tongyu Hu, Yuhe Wang, Zhenzhong Kuang<sup>*</sup>, Xuefei Yin, Yanming Zhu<sup>*</sup>. **AAAI 2026**.
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://justlfc03.github.io/">GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT</a>.</h3>
+      <p class="publication-authors">Shuo Jiang<sup>✝</sup>, Yuhao Hong<sup>✝</sup>, Chunbo Jiang, Weihong Chen, Huangwei Chen, Shenghao Zhu, Beining Wu, Mingxuan Liu, Zhu Zhu, Feiwei Qin<sup>*</sup>, Min Tan, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>*</sup></span>.</p>
+      <div class="publication-meta"><span class="publication-venue">MICCAI 2026.</span></div>
+    </div>
+  </li>
 
-- (**Oral**) [WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation](https://ieeexplore.ieee.org/document/11356448). Guanyu Zhou<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Gaoxiang Ying, Mingxuan Liu, Xuguang Bai, Jialan Zheng, Bixiao Cui, Qiyuan Tian<sup>*</sup>, Jie Lu<sup>*</sup>. **BIBM 2025**.
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/37398">IE-SRGS: An Internal-External Knowledge Fusion Framework for High-Fidelity 3D Gaussian Splatting Super-Resolution</a>.</h3>
+      <p class="publication-authors">Xiang Feng<sup>✝</sup>, Tieshi Zhong<sup>✝</sup>, Shuo Chang, Weiliu Wang, Chengkai Wang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Tongyu Hu, Yuhe Wang, Zhenzhong Kuang<sup>*</sup>, Xuefei Yin, Yanming Zhu<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">AAAI 2026.</span></div>
+    </div>
+  </li>
 
-- (**Oral**) [DR-TTA: Dynamic and Robust Test-Time Adaptation Under Low-Quality MRI Conditions for Brain Tumor Segmentation](https://ieeexplore.ieee.org/document/11356381). Yuanhan Wang<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Shuo Jiang, Wenjing Yu, Mingxuan Liu, Beining Wu, Shenghao Zhu, Feiwei Qin<sup>*</sup>, Jin Fan, Changmiao Wang<sup>*</sup>. **BIBM 2025**.
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://ieeexplore.ieee.org/document/11356448">WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation</a>.</h3>
+      <p class="publication-authors">Guanyu Zhou<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Gaoxiang Ying, Mingxuan Liu, Xuguang Bai, Jialan Zheng, Bixiao Cui, Qiyuan Tian<sup>*</sup>, Jie Lu<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">BIBM 2025.</span><span class="publication-distinction">Oral</span></div>
+    </div>
+  </li>
 
-- (**Oral**) [FetalExtract-LLM: Structured Information Extraction from Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models](https://link.springer.com/chapter/10.1007/978-3-032-05997-0_11). Mingxuan Liu<sup>✝</sup>, Yijin Li<sup>✝</sup>, Juncheng Zhu<sup>✝</sup>, Hongjia Yang, Yiming Huang, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian<sup>*</sup>. **MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis**.
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://ieeexplore.ieee.org/document/11356381">DR-TTA: Dynamic and Robust Test-Time Adaptation Under Low-Quality MRI Conditions for Brain Tumor Segmentation</a>.</h3>
+      <p class="publication-authors">Yuanhan Wang<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Shuo Jiang, Wenjing Yu, Mingxuan Liu, Beining Wu, Shenghao Zhu, Feiwei Qin<sup>*</sup>, Jin Fan, Changmiao Wang<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">BIBM 2025.</span><span class="publication-distinction">Oral</span></div>
+    </div>
+  </li>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/MST-KDNet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation](https://link.springer.com/chapter/10.1007/978-3-032-04984-1_10)
-Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Yuanhan Wang, Chang Liu, Shuo Jiang, Feiwei Qin<sup>*</sup>, Changmiao Wang<sup>*</sup>. **MICCAI 2025**.
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://link.springer.com/chapter/10.1007/978-3-032-05997-0_11">FetalExtract-LLM: Structured Information Extraction from Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models</a>.</h3>
+      <p class="publication-authors">Mingxuan Liu<sup>✝</sup>, Yijin Li<sup>✝</sup>, Juncheng Zhu<sup>✝</sup>, Hongjia Yang, Yiming Huang, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis.</span><span class="publication-distinction">Oral</span></div>
+    </div>
+  </li>
 
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QpOCKMwAAAAJ&citation_for_view=QpOCKMwAAAAJ:roLk4NBRz8UC'><span class="show_paper_citations" data="QpOCKMwAAAAJ:roLk4NBRz8UC"></span></a>
-[![](https://img.shields.io/github/stars/Quanato607/MST-KDNet?style=social&label=Code+Stars)](https://github.com/Quanato607/MST-KDNet)
+  <li class="publication-item publication-item--illustrated">
+    <figure class="publication-figure">
+      <img src="images/MST-KDNet.png" alt="Illustration for Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation" loading="lazy">
+      <figcaption>MICCAI 2025</figcaption>
+    </figure>
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://link.springer.com/chapter/10.1007/978-3-032-04984-1_10">Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation</a></h3>
+      <p class="publication-authors">Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Yuanhan Wang, Chang Liu, Shuo Jiang, Feiwei Qin<sup>*</sup>, Changmiao Wang<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">MICCAI 2025.</span></div>
+      <div class="publication-links">
+        <a class="publication-citations" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=QpOCKMwAAAAJ&amp;citation_for_view=QpOCKMwAAAAJ:roLk4NBRz8UC"><span class="show_paper_citations" data="QpOCKMwAAAAJ:roLk4NBRz8UC">Citations</span></a>
+        <a class="publication-code" href="https://github.com/Quanato607/MST-KDNet"><img src="https://img.shields.io/github/stars/Quanato607/MST-KDNet?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
+      </div>
+    </div>
+  </li>
 
-</div>
-</div>
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://openreview.net/forum?id=ns6nq592HX">Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest CT Using Weakly Supervised Deep Learning from Free-text Radiology Report</a>.</h3>
+      <p class="publication-authors">Xuguang Bai<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Hongjia Yang, Qiyuan Tian<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">MIDL 2025.</span></div>
+    </div>
+  </li>
 
-- [Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest CT Using Weakly Supervised Deep Learning from Free-text Radiology Report](https://openreview.net/forum?id=ns6nq592HX). Xuguang Bai<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Hongjia Yang, Qiyuan Tian<sup>*</sup>. **MIDL 2025**.
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://ieeexplore.ieee.org/abstract/document/10888363">Toward Robust Early Detection of Alzheimer&#x27;s Disease via an Integrated Multimodal Learning Approach</a>.</h3>
+      <p class="publication-authors"><span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shenghao Zhu, Zhaojie Fang, Chang Liu, Binfeng Zou, Linwei Qiu, Yuhe Wang, Shuo Chang, Fan Jia, Feiwei Qin<sup>*</sup>, Jin Fan, Yong Peng, Changmiao Wang.</p>
+      <div class="publication-meta"><span class="publication-venue">ICASSP 2025.</span></div>
+    </div>
+  </li>
 
-- [Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach](https://ieeexplore.ieee.org/abstract/document/10888363). <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shenghao Zhu, Zhaojie Fang, Chang Liu, Binfeng Zou, Linwei Qiu, Yuhe Wang, Shuo Chang, Fan Jia, Feiwei Qin<sup>*</sup>, Jin Fan, Yong Peng, Changmiao Wang. **ICASSP 2025**.
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://ieeexplore.ieee.org/document/10981275">XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision XLSTM and Heteromodal Variational Encoder-Decoder</a>.</h3>
+      <p class="publication-authors">Shenghao Zhu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shuo Jiang, Weihong Chen, Chang Liu, Yuanhan Wang, Xu Chen, Yifan Ke, Feiwei Qin<sup>*</sup>, Changmiao Wang, Zhu Zhu<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">ISBI 2025.</span><span class="publication-distinction">Oral</span></div>
+    </div>
+  </li>
 
-- (**Oral**) [XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision XLSTM and Heteromodal Variational Encoder-Decoder](https://ieeexplore.ieee.org/document/10981275). Shenghao Zhu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Shuo Jiang, Weihong Chen, Chang Liu, Yuanhan Wang, Xu Chen, Yifan Ke, Feiwei Qin<sup>*</sup>, Changmiao Wang, Zhu Zhu<sup>*</sup>. **ISBI 2025**.
+  <li class="publication-item publication-item--illustrated">
+    <figure class="publication-figure">
+      <img src="images/SCUNet++.png" alt="Illustration for SCUNet++: Swin-UNet and CNN Bottleneck Hybrid Architecture with Multi-Fusion Dense Skip Connection for Pulmonary Embolism CT Image Segmentation" loading="lazy">
+      <figcaption>WACV 2024</figcaption>
+    </figure>
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://openaccess.thecvf.com/content/WACV2024/html/Chen_SCUNet_Swin-UNet_and_CNN_Bottleneck_Hybrid_Architecture_With_Multi-Fusion_Dense_WACV_2024_paper.html">SCUNet++: Swin-UNet and CNN Bottleneck Hybrid Architecture with Multi-Fusion Dense Skip Connection for Pulmonary Embolism CT Image Segmentation</a></h3>
+      <p class="publication-authors"><span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Binfeng Zou, Zhaoxin Guo, Yiyu Huang, Yifan Huang, Feiwei Qin<sup>*</sup>, Qinhai Li, Changmiao Wang<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">WACV 2024.</span></div>
+      <div class="publication-links">
+        <a class="publication-citations" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=QpOCKMwAAAAJ&amp;citation_for_view=QpOCKMwAAAAJ:u-x6o8ySG0sC"><span class="show_paper_citations" data="QpOCKMwAAAAJ:u-x6o8ySG0sC">Citations</span></a>
+        <a class="publication-code" href="https://github.com/JustlfC03/SCUNet-plusplus"><img src="https://img.shields.io/github/stars/JustlfC03/SCUNet-plusplus?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
+      </div>
+    </div>
+  </li>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2024</div><img src='images/SCUNet++.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[SCUNet++: Swin-UNet and CNN Bottleneck Hybrid Architecture with Multi-Fusion Dense Skip Connection for Pulmonary Embolism CT Image Segmentation](https://openaccess.thecvf.com/content/WACV2024/html/Chen_SCUNet_Swin-UNet_and_CNN_Bottleneck_Hybrid_Architecture_With_Multi-Fusion_Dense_WACV_2024_paper.html)
-<span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Binfeng Zou, Zhaoxin Guo, Yiyu Huang, Yifan Huang, Feiwei Qin<sup>*</sup>, Qinhai Li, Changmiao Wang<sup>*</sup>. **WACV 2024**.
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://ieeexplore.ieee.org/document/10635443">Semi-supervised Medical Image Segmentation Method Based on Cross-pseudo Labeling Leveraging Strong and Weak Data Augmentation Strategies</a>.</h3>
+      <p class="publication-authors"><span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Yifan Ke, Yiyu Huang, Xuezhou Dai, Feiwei Qin<sup>*</sup>, Yongquan Zhang, Xiaodong Zhang, Changmiao Wang<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">ISBI 2024.</span></div>
+    </div>
+  </li>
 
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QpOCKMwAAAAJ&citation_for_view=QpOCKMwAAAAJ:u-x6o8ySG0sC'><span class="show_paper_citations" data="QpOCKMwAAAAJ:u-x6o8ySG0sC"></span></a>
-[![](https://img.shields.io/github/stars/JustlfC03/SCUNet-plusplus?style=social&label=Code+Stars)](https://github.com/JustlfC03/SCUNet-plusplus)
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://ieeexplore.ieee.org/document/10635308">TC-DiffRecon: Texture coordination MRI reconstruction method based on diffusion model and modified MF-UNet method</a>.</h3>
+      <p class="publication-authors">Chenyan Zhang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhenxiong Fan, Yiyu Huang, Wenchao Weng, Ruiquan Ge<sup>*</sup>, Dong Zeng, Changmiao Wang<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">ISBI 2024.</span><span class="publication-distinction">Oral</span></div>
+    </div>
+  </li>
 
-</div>
-</div>
-
-- [Semi-supervised Medical Image Segmentation Method Based on Cross-pseudo Labeling Leveraging Strong and Weak Data Augmentation Strategies](https://ieeexplore.ieee.org/document/10635443). <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Yifan Ke, Yiyu Huang, Xuezhou Dai, Feiwei Qin<sup>*</sup>, Yongquan Zhang, Xiaodong Zhang, Changmiao Wang<sup>*</sup>. **ISBI 2024**.
-
-- (**Oral**) [TC-DiffRecon: Texture coordination MRI reconstruction method based on diffusion model and modified MF-UNet method](https://ieeexplore.ieee.org/document/10635308). Chenyan Zhang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zhenxiong Fan, Yiyu Huang, Wenchao Weng, Ruiquan Ge<sup>*</sup>, Dong Zeng, Changmiao Wang<sup>*</sup>. **ISBI 2024**.
 
 <!--
 #### Selected CONFERENCE ABSTRACTS [Full list is available in Google Scholar]
@@ -232,6 +400,9 @@ Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei
 
 - [DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications](https://justlfc03.github.io/). <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Zihan Li, Shenghao Zhu, Ziyu Li, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Qiyuan Tian<sup>*</sup>. **ISMRM 2025 Workshop on 40 Years of Diffusion**.
 -->
+  </ol>
+</section>
+</div>
 
 <span id="-honors" class="legacy-anchor" aria-hidden="true"></span>
 
