@@ -16,9 +16,17 @@
     <meta itemprop="email" content="{{ site.author.email }}">
   </div>
 
+  {% if site.author.bio %}
+    {% assign bio_lines = site.author.bio | split: '<br>' %}
+    <p class="profile-bio">{% for line in bio_lines %}<span{% if forloop.first %} lang="en"{% else %} lang="zh-CN"{% endif %}>{{ line }}</span>{% endfor %}</p>
+  {% endif %}
+  <a class="profile-lab-logo" href="https://birthlab.github.io/" target="_blank" rel="noopener noreferrer" aria-label="BIRTH Lab website">
+    <img src="{{ '/images/birth-lab-logo.png' | relative_url }}" alt="BIRTH Lab" width="1455" height="419">
+  </a>
+
   <div class="intro-copy">
     <h1 id="intro-heading">About Me</h1>
-    <p>I'm currently a PhD student at <a href="https://birthlab.github.io/">BIRTH Lab</a> from <a href="https://www.med.tsinghua.edu.cn/en/">School of Biomedical Engineering</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> and fortunate to be advised by <a href="https://www.med.tsinghua.edu.cn/info/1143/2126.htm">Prof. Qiyuan Tian（田启源）</a>. I was previously advised by <a href="https://computer.hdu.edu.cn/2021/1217/c6770a140174/page.htm">Prof. Feiwei Qin（秦飞巍）</a> from <a href="https://computer.hdu.edu.cn/main.htm">School of Computer Science</a>, <a href="https://www.hdu.edu.cn/main.htm">Hangzhou Dianzi University</a>.</p>
+    <p>I'm currently a PhD student at <a href="https://birthlab.github.io/">BIRTH Lab</a> from <a href="https://www.med.tsinghua.edu.cn/en/">School of Biomedical Engineering</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> and fortunate to be advised by <a class="intro-advisor" href="https://www.med.tsinghua.edu.cn/info/1143/2126.htm">Prof. Qiyuan Tian（田启源）</a>. <span class="intro-background">I was previously advised by <a class="intro-advisor" href="https://computer.hdu.edu.cn/2021/1217/c6770a140174/page.htm">Prof. Feiwei Qin（秦飞巍）</a> from <a href="https://computer.hdu.edu.cn/main.htm">School of Computer Science</a>, <a href="https://www.hdu.edu.cn/main.htm">Hangzhou Dianzi University</a>.</span></p>
     <ul class="intro-notes">
       <li>👯 I am looking to collaborate on <strong>Medical Image Analysis</strong>, <strong>Multimodal Learning</strong>, <strong>Large Model</strong>, <strong>AI for Medicine</strong>.</li>
       <li class="collaboration-note">📣 Feel free to reach out if you are interested in collaborating on my research 🤝! <a href="mailto:{{ site.author.email }}">Email Me!</a></li>
@@ -37,11 +45,4 @@
       <a class="profile-email" href="mailto:{{ site.author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i><span>{{ site.author.email }}</span></a>
     </div>
   </div>
-  {% if site.author.bio %}
-    {% assign bio_lines = site.author.bio | split: '<br>' %}
-    <p class="profile-bio">{% for line in bio_lines %}<span{% if forloop.first %} lang="en"{% else %} lang="zh-CN"{% endif %}>{{ line }}</span>{% endfor %}</p>
-  {% endif %}
-  <a class="profile-lab-logo" href="https://birthlab.github.io/" target="_blank" rel="noopener noreferrer" aria-label="BIRTH Lab website">
-    <img src="{{ '/images/birth-lab-logo.png' | relative_url }}" alt="BIRTH Lab" width="1455" height="419">
-  </a>
 </section>
