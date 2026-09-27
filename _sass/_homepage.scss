@@ -849,8 +849,35 @@ html {
     .home-header__inner { display: block; padding: 9px 0 0; }
     .home-nav { gap: 22px; padding: 10px 6px 9px; }
     .home-nav a + a:before { left: -11px; }
-    .home-intro { grid-template-columns: 160px minmax(0, 1fr); column-gap: 24px; }
-    .profile-name span { display: block; }
+    // Keep the identity, motto, and lab mark together beside the portrait.
+    .home-intro {
+      grid-template-columns: 120px minmax(0, 1fr);
+      grid-template-areas: "portrait name" "portrait position" "portrait bio" "portrait logo" "copy copy";
+      grid-template-rows: auto auto auto 1fr auto;
+      gap: 0 24px;
+    }
+    .profile-summary { display: contents; }
+    .portrait-frame { grid-area: portrait; width: 120px; margin: 0; }
+    .portrait-frame img { height: 148px; }
+    .profile-name { grid-area: name; margin-bottom: 4px; }
+    .page__content .profile-position { grid-area: position; margin-bottom: 8px; }
+    .home-intro > .profile-bio {
+      align-self: start;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 1px;
+      min-width: 0;
+      margin: 0 0 8px;
+    }
+    // Align the visible logo artwork with the identity text, excluding its white margin.
+    .profile-lab-logo { width: 120px; margin-left: -17px; justify-self: start; align-self: start; transform: none; }
+    .intro-copy {
+      margin-top: 20px;
+      p { text-wrap: pretty; }
+      .intro-background { display: block; margin-top: 8px; }
+      .intro-advisor, .intro-notes strong { display: inline-block; max-width: 100%; }
+      .collaboration-note a { white-space: nowrap; }
+    }
     .activity-details { grid-template-columns: minmax(0, 1fr); }
   }
 }
@@ -859,15 +886,12 @@ html {
   html { scroll-padding-top: 106px; }
   .academic-home {
     --page-gutter: 24px;
-    .home-intro { grid-template-columns: minmax(0, 1fr); grid-template-areas: "profile" "copy" "bio" "logo"; gap: 12px; padding: 20px 0; }
-    .home-intro > .profile-summary { margin-bottom: 8px; }
-    .profile-lab-logo { width: 144px; transform: none; }
-    .profile-summary { display: grid; grid-template-columns: 96px minmax(0, 1fr); column-gap: 18px; align-content: start; }
-    .portrait-frame { width: 96px; margin: 0; grid-row: 1 / 4; }
+    .home-intro { grid-template-columns: 96px minmax(0, 1fr); column-gap: 18px; padding: 20px 0; }
+    .portrait-frame { width: 96px; }
     .portrait-frame img { height: 124px; }
     .profile-name { font-size: 20px; margin: 0 0 4px; }
     .profile-name span { display: inline-block; }
-    .page__content .profile-position { margin-bottom: 3px; }
+    .profile-lab-logo { width: 112px; margin-left: -16px; }
     .intro-copy h1 { font-size: 22px; margin-bottom: 10px; }
     .profile-links { gap: 8px 16px; margin-top: 12px; }
     .profile-links > a { font-size: 12px; }
