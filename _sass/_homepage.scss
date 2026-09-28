@@ -837,28 +837,22 @@ html {
 
 @media (max-width: 960px) {
   .academic-home {
-    .home-intro { grid-template-columns: 190px minmax(0, 1fr); grid-template-areas: "profile copy" "logo bio"; }
-    .profile-lab-logo { justify-self: start; }
     .svc .service-conferences .chips { grid-template-columns: repeat(4, minmax(0, 1fr)); }
   }
 }
 
-@media (max-width: 800px) {
-  html { scroll-padding-top: 106px; }
+@media (max-width: 1160px) {
   .academic-home {
-    .home-header__inner { display: block; padding: 9px 0 0; }
-    .home-nav { gap: 22px; padding: 10px 6px 9px; }
-    .home-nav a + a:before { left: -11px; }
-    // Keep the identity, motto, and lab mark together beside the portrait.
+    // Reflow before the two desktop columns develop unequal heights.
+    // Keep the compact profile header independent of the full-width introduction.
     .home-intro {
-      grid-template-columns: 120px minmax(0, 1fr);
+      grid-template-columns: 140px minmax(0, 1fr);
       grid-template-areas: "portrait name" "portrait position" "portrait bio" "portrait logo" "copy copy";
       grid-template-rows: auto auto auto 1fr auto;
       gap: 0 24px;
     }
     .profile-summary { display: contents; }
-    .portrait-frame { grid-area: portrait; width: 120px; margin: 0; }
-    .portrait-frame img { height: 148px; }
+    .portrait-frame { grid-area: portrait; margin: 0; }
     .profile-name { grid-area: name; margin-bottom: 4px; }
     .page__content .profile-position { grid-area: position; margin-bottom: 8px; }
     .home-intro > .profile-bio {
@@ -869,10 +863,23 @@ html {
       min-width: 0;
       margin: 0 0 8px;
     }
-    // Align the visible logo artwork with the identity text, excluding its white margin.
-    .profile-lab-logo { width: 120px; margin-left: -17px; justify-self: start; align-self: start; transform: none; }
+    // Exclude the image's white margin when aligning its visible artwork.
+    .profile-lab-logo { margin-left: -23px; justify-self: start; align-self: start; transform: none; }
+    .intro-copy { margin-top: 20px; }
+  }
+}
+
+@media (max-width: 800px) {
+  html { scroll-padding-top: 106px; }
+  .academic-home {
+    .home-header__inner { display: block; padding: 9px 0 0; }
+    .home-nav { gap: 22px; padding: 10px 6px 9px; }
+    .home-nav a + a:before { left: -11px; }
+    .home-intro { grid-template-columns: 120px minmax(0, 1fr); }
+    .portrait-frame { width: 120px; }
+    .portrait-frame img { height: 148px; }
+    .profile-lab-logo { width: 120px; margin-left: -17px; }
     .intro-copy {
-      margin-top: 20px;
       p { text-wrap: pretty; }
       .intro-background { display: block; margin-top: 8px; }
       .intro-advisor, .intro-notes strong { display: inline-block; max-width: 100%; }
