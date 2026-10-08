@@ -40,6 +40,10 @@ redirect_from:
 {: #news}
 
 <ol class="news-list" markdown="0" aria-labelledby="news">
+  <li class="news-row"><div class="news-date"><time datetime="2026-10-02">2026.10.02</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://www.embs.org/jbhi/">IEEE Journal of Biomedical and Health Informatics</a>!</span></div></li>
+  <li class="news-row"><div class="news-date"><time datetime="2026-09-24">2026.09.24</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our three papers have been accepted by <a href="https://www3.cs.stonybrook.edu/~bibm2026/">BIBM 2026</a>!</span></div></li>
+  <li class="news-row"><div class="news-date"><time datetime="2026-09-15">2026.09.15</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://advanced.onlinelibrary.wiley.com/journal/29439981">Advanced Intelligent Discovery</a>!</span></div></li>
+  <li class="news-row"><div class="news-date"><time datetime="2026-08-19">2026.08.19</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://www.embs.org/jbhi/">IEEE Journal of Biomedical and Health Informatics</a>!</span></div></li>
   <li class="news-row"><div class="news-date"><time datetime="2026-08-08">2026.08.08</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://bmvc2026.bmva.org/">BMVC 2026</a>!</span></div></li>
   <li class="news-row"><div class="news-date"><time datetime="2026-07-31">2026.07.31</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://pippiworkshop.github.io/">MICCAI 2026 Workshop on Perinatal, Preterm and Paediatric Image Analysis</a>!</span></div></li>
   <li class="news-row"><div class="news-date"><time datetime="2026-07-27">2026.07.27</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://www.sciencedirect.com/journal/pattern-recognition">Pattern Recognition</a>!</span></div></li>
@@ -90,6 +94,22 @@ redirect_from:
     <a class="publication-scholar" href="https://scholar.google.com/citations?user=QpOCKMwAAAAJ&amp;hl=zh-CN">Full list is available in Google Scholar <span aria-hidden="true">↗</span></a>
   </div>
   <ol class="publication-list" role="list">
+
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://justlfc03.github.io/">Unsupervised CT Metal Artifact Reduction via Consistent Artifact Modeling</a>.</h3>
+      <p class="publication-authors">Enyu Bao<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Junhao Ye, Xueyan Song, Kasidit Anmahapong, Ziang Wang, Guanyu Zhou, Feiwei Qin<sup>*</sup>, Yaqi Wang, Changmiao Wang, Huiyu Zhou and Qiyuan Tian<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">IEEE Journal of Biomedical and Health Informatics 2026.</span></div>
+    </div>
+  </li>
+
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://justlfc03.github.io/">Multi-center validation of machine learning models for predicting myopia progression across school-based screening and optical intervention settings in Chinese children and adolescents</a>.</h3>
+      <p class="publication-authors">Yitong Zhang<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Ying Wu<sup>*</sup>, Lijun Zhang, Mengyao Guo, Yulan Yan, Runmei Wei, Zihan Cui, Peng Luo, Fang Chen, Bo Yang, Youcang Han, Xiaoyang Liu,  Qiyuan Tian<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">Advanced Intelligent Discovery 2026.</span></div>
+    </div>
+  </li>
 
   <li class="publication-item">
     <div class="publication-copy">
@@ -230,6 +250,14 @@ redirect_from:
     <a class="publication-scholar" href="https://scholar.google.com/citations?user=QpOCKMwAAAAJ&amp;hl=zh-CN">Full list is available in Google Scholar <span aria-hidden="true">↗</span></a>
   </div>
   <ol class="publication-list" role="list">
+
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://justlfc03.github.io/">Residual-Offset Diffusion for Structure-Consistent Low-Dose PET Reconstruction</a>.</h3>
+      <p class="publication-authors">Yuanhan Wang<sup>✝</sup>, Enyu Bao<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Shixiu Tang, Beining Wu, Guanyu Zhou, Mingxuan Liu, Feiwei Qin<sup>*</sup>, Lei Xiang, Jian He, Qiyuan Tian<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">BIBM 2026.</span><span class="publication-distinction">Oral</span></div>
+    </div>
+  </li>
 
 
 <!--
@@ -413,7 +441,8 @@ redirect_from:
   <section class="honors-panel" aria-labelledby="honors-scholarships">
     <h2 class="cv-sub" id="honors-scholarships"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Scholarships</h2>
     <div class="cv-grid" tabindex="0" role="region" aria-labelledby="honors-scholarships">
-  <div class="cell"><span class="yr">2025&ndash;26</span><span class="it">Awarded <b>Tsinghua University College Scholarship</b>. <span class="amt">(&yen; 5,000)</span></span></div>
+  <div class="cell"><span class="yr">2025&ndash;26</span><span class="it">Awarded <b>National Scholarship</b>. <span class="amt">(&yen; 20,000)</span></span></div>
+  <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Awarded <b>Tsinghua University College Scholarship</b>. <span class="amt">(&yen; 5,000)</span></span></div>
   <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Awarded <b>Graduate Entrance Examination Scholarship</b>. <span class="amt">(&yen; 1,500)</span></span></div>
   <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Awarded <b>National Scholarship</b>. <span class="amt">(&yen; 8,000)</span></span></div>
   <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Awarded <b>University First-Class Scholarships</b> twice. <span class="amt">(&yen; 1,500)</span></span></div>
