@@ -477,6 +477,13 @@ redirect_from:
   <div class="cv-record" role="listitem">
     <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
     <div class="record-details">
+      <div class="c-name">MICCAI IUGC Challenge</div>
+      <div class="record-meta"><div class="c-tier"><span class="awtag">3rd Place</span></div><div class="c-role"><span class="rtag">Team Lead</span></div><div class="c-yr">2026</div></div>
+    </div>
+  </div>
+  <div class="cv-record" role="listitem">
+    <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
+    <div class="record-details">
       <div class="c-name">MICCAI autoPET Challenge</div>
       <div class="record-meta"><div class="c-tier"><span class="awtag">1st Place</span></div><div class="c-role"><span class="rtag">Key Member</span></div><div class="c-yr">2025</div></div>
     </div>
