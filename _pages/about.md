@@ -291,11 +291,21 @@ redirect_from:
     </div>
   </li>
 
-  <li class="publication-item">
+  <li class="publication-item publication-item--illustrated" id="gleve">
+    <figure class="publication-figure">
+      <a href="images/GLeVE.png" target="_blank" rel="noopener noreferrer" aria-label="View the full-size GLeVE model diagram (opens in a new tab)">
+        <img src="images/GLeVE.png" alt="GLeVE model architecture: lesion query encoding, anatomy-prior proposal and verification, and octree refinement for lesion grounding in 3D CT" width="5488" height="2188" loading="lazy">
+      </a>
+      <figcaption>MICCAI 2026</figcaption>
+    </figure>
     <div class="publication-copy">
-      <h3 class="publication-title"><a href="https://justlfc03.github.io/">GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT</a>.</h3>
+      <h3 class="publication-title"><a href="https://justlfc03.github.io/">GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT</a></h3>
       <p class="publication-authors">Shuo Jiang<sup>✝</sup>, Yuhao Hong<sup>✝</sup>, Chunbo Jiang, Weihong Chen, Huangwei Chen, Shenghao Zhu, Beining Wu, Mingxuan Liu, Zhu Zhu, Feiwei Qin<sup>*</sup>, Min Tan, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>*</sup></span>.</p>
-      <div class="publication-meta"><span class="publication-venue">MICCAI 2026.</span></div>
+      <div class="publication-meta"><span class="publication-venue">MICCAI 2026.</span><span class="publication-recognition">Best Paper Award Nominee</span><span class="publication-recognition">Shortlist (Top 0.5%)</span></div>
+      <div class="publication-links">
+        <a class="publication-citations" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=QpOCKMwAAAAJ&amp;sortby=pubdate&amp;citation_for_view=QpOCKMwAAAAJ:hC7cP41nSMkC"><span class="show_paper_citations" data="QpOCKMwAAAAJ:hC7cP41nSMkC">Citations</span></a>
+        <a class="publication-code" href="https://github.com/JSLiam94/GLeVE/"><img src="https://img.shields.io/github/stars/JSLiam94/GLeVE?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
+      </div>
     </div>
   </li>
 
