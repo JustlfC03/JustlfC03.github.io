@@ -8,6 +8,102 @@
     return document.getElementById(link.hash.slice(1));
   }).filter(Boolean);
 
+  function setupOverflowNavigation() {
+    var nav = document.querySelector(".home-nav");
+    if (!nav) return;
+    var inlineLinks = nav.querySelector(".home-nav__links");
+    var more = nav.querySelector(".home-nav__more");
+    var toggle = nav.querySelector(".home-nav__toggle");
+    var menu = nav.querySelector(".home-nav__menu");
+    if (!inlineLinks || !more || !toggle || !menu) return;
+    var links = Array.from(nav.querySelectorAll("a"));
+    var layoutScheduled = false;
+
+    function layoutNavigation() {
+      layoutScheduled = false;
+      var focused = document.activeElement;
+      var wasOpen = more.open;
+      var navStyle = window.getComputedStyle(nav);
+      var available = nav.getBoundingClientRect().width
+        - (parseFloat(navStyle.paddingLeft) || 0) - (parseFloat(navStyle.paddingRight) || 0)
+        - (parseFloat(navStyle.borderLeftWidth) || 0) - (parseFloat(navStyle.borderRightWidth) || 0);
+      if (available <= 0) return;
+
+      // Measure every link in its inline style, including links currently hidden.
+      inlineLinks.hidden = false;
+      more.hidden = false;
+      links.forEach(function (link) { inlineLinks.appendChild(link); });
+      var gap = parseFloat(window.getComputedStyle(inlineLinks).columnGap) || 0;
+      var moreGap = parseFloat(navStyle.columnGap) || 0;
+      var toggleWidth = more.getBoundingClientRect().width;
+      var widths = links.map(function (link) { return link.getBoundingClientRect().width; });
+      var allWidth = widths.reduce(function (sum, width) { return sum + width; }, 0) + Math.max(0, links.length - 1) * gap;
+      var count = links.length;
+
+      if (allWidth > available) {
+        count = 0;
+        var used = 0;
+        widths.some(function (width, index) {
+          var nextWidth = used + (index ? gap : 0) + width;
+          if (nextWidth + moreGap + toggleWidth > available) return true;
+          used = nextWidth;
+          count += 1;
+          return false;
+        });
+      }
+
+      links.slice(count).forEach(function (link) { menu.appendChild(link); });
+      inlineLinks.hidden = count === 0;
+      more.hidden = count === links.length;
+      more.open = wasOpen && !more.hidden;
+
+      // Moving a focused node can blur it; keep keyboard focus on a visible control.
+      if (links.indexOf(focused) !== -1) {
+        var focusTarget = menu.contains(focused) && !more.open ? toggle : focused;
+        focusTarget.focus({ preventScroll: true });
+      } else if (focused === toggle && more.hidden && links.length) {
+        links[links.length - 1].focus({ preventScroll: true });
+      }
+    }
+
+    function scheduleLayout() {
+      if (layoutScheduled) return;
+      layoutScheduled = true;
+      window.requestAnimationFrame(layoutNavigation);
+    }
+
+    var header = nav.closest(".home-header");
+    if (header) header.addEventListener("click", function (event) {
+      if (!event.target.closest("a")) return;
+      if (menu.contains(document.activeElement)) toggle.focus({ preventScroll: true });
+      more.open = false;
+    });
+    document.addEventListener("click", function (event) {
+      if (!more.contains(event.target)) more.open = false;
+    });
+    document.addEventListener("keydown", function (event) {
+      if (event.key !== "Escape" || !more.open) return;
+      more.open = false;
+      toggle.focus({ preventScroll: true });
+      event.preventDefault();
+    });
+    window.addEventListener("resize", scheduleLayout);
+    if (window.ResizeObserver) {
+      var lastWidth = -1;
+      var observer = new ResizeObserver(function (entries) {
+        var width = entries[0].contentRect.width;
+        if (Math.abs(width - lastWidth) < 0.1) return;
+        lastWidth = width;
+        scheduleLayout();
+      });
+      observer.observe(nav);
+    }
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(scheduleLayout);
+    layoutNavigation();
+  }
+
+  setupOverflowNavigation();
+
   function updateCurrentSection() {
     var current = sections[0];
     var currentTop = -Infinity;
