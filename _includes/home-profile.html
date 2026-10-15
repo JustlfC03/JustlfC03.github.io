@@ -3,7 +3,7 @@
 {% else %}
   {% assign scholar_badge_data = 'https://raw.githubusercontent.com/' | append: site.repository | append: '/google-scholar-stats/gs_data_shieldsio.json' %}
 {% endif %}
-<section class="home-intro" id="about-me" aria-label="Introduction">
+<section class="home-intro" id="about-me" aria-label="Introduction" style="--intro-background-image: url('{{ site.author.avatar_webp | default: site.author.avatar | relative_url }}');">
   <div class="profile-summary" itemscope itemtype="https://schema.org/Person">
     <div class="portrait-frame">
       <picture>
