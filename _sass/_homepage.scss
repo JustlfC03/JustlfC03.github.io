@@ -2,6 +2,7 @@
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 84px;
+  overflow-x: clip;
 }
 
 .academic-home {
@@ -218,6 +219,8 @@ html {
   .page__content #about-me:before { display: none; }
 
   .home-intro {
+    position: relative;
+    isolation: isolate;
     display: grid;
     grid-template-columns: 190px minmax(0, 1fr);
     grid-template-areas: "profile details";
@@ -226,6 +229,25 @@ html {
     padding: 26px 0 20px;
     border-bottom: 1px solid var(--rule);
     a { color: var(--accent); }
+  }
+
+  // Extend only the decorative layer beyond the content column.
+  .home-intro:after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: calc(50% - 50vw);
+    right: calc(50% - 50vw);
+    pointer-events: none;
+    background-image:
+      linear-gradient(180deg, rgba(255, 255, 255, 0) 70%, #fff 100%),
+      linear-gradient(90deg, rgba(255, 255, 255, .78) 0%, rgba(255, 255, 255, .86) 32%, rgba(255, 255, 255, .97) 60%, #fff 78%),
+      var(--intro-background-image);
+    background-size: 100% 100%, 100% 100%, min(820px, 100vw) auto;
+    background-position: center, center, left 25%;
+    background-repeat: no-repeat;
   }
 
   .profile-summary { grid-area: profile; min-width: 0; }
@@ -935,6 +957,13 @@ html {
       grid-template-rows: auto auto auto 1fr auto;
       gap: 0;
     }
+    .home-intro:after {
+      background-image:
+        linear-gradient(180deg, rgba(255, 255, 255, 0) 0, rgba(255, 255, 255, .7) 200px, #fff 340px),
+        linear-gradient(90deg, rgba(255, 255, 255, .8), rgba(255, 255, 255, .9) 45%, #fff 85%),
+        var(--intro-background-image);
+      background-position: center, center, left top;
+    }
     .profile-summary { display: contents; }
     .intro-details, .intro-footer { display: contents; }
     .portrait-frame { grid-area: portrait; margin: 0; }
@@ -1042,7 +1071,7 @@ html {
 
 @media print {
   .academic-home {
-    .home-header, .skip-link, .visitor-map { display: none; }
+    .home-header, .skip-link, .visitor-map, .home-intro:after { display: none; }
     #main { width: 100%; }
     .home-intro { padding-top: 0; }
     .paper-box { break-inside: avoid; }
