@@ -139,8 +139,8 @@ html {
 
   .home-intro {
     display: grid;
-    grid-template-columns: 190px minmax(0, 1fr) 160px;
-    grid-template-areas: "profile copy copy" "profile bio logo";
+    grid-template-columns: 190px minmax(0, 1fr);
+    grid-template-areas: "profile details";
     align-items: start;
     gap: 8px 30px;
     padding: 26px 0 20px;
@@ -173,17 +173,11 @@ html {
   .page__content .profile-position { margin: 0 0 4px; font-size: 13px; line-height: 1.5; }
   .page__content .profile-email { font-size: 13px; text-decoration: none; overflow-wrap: anywhere; }
 
+  .intro-details { grid-area: details; min-width: 0; align-self: center; }
+
   .intro-copy {
     grid-area: copy;
     min-width: 0;
-    h1 {
-      margin: 0 0 12px;
-      padding: 0;
-      border: 0;
-      color: var(--heading);
-      font-size: 24px;
-      line-height: 1.25;
-    }
     p { margin: 0 0 10px; font-size: 15px; line-height: 1.6; }
     p a { text-underline-offset: 2px; }
     .intro-notes { margin: 0; padding-left: 20px; }
@@ -192,7 +186,15 @@ html {
     .collaboration-note a { color: #b71c1c; font-weight: bold; }
   }
 
-  .home-intro > .profile-bio {
+  .intro-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px 20px;
+    margin-top: 6px;
+  }
+
+  .profile-bio {
     grid-area: bio;
     align-self: center;
     display: flex;
@@ -209,10 +211,10 @@ html {
     grid-area: logo;
     justify-self: end;
     align-self: center;
-    transform: translateY(var(--lab-logo-shift, -13.3px));
     transition: none;
     display: block;
-    width: 160px;
+    flex-shrink: 0;
+    width: 140px;
     max-width: 100%;
     line-height: 0;
     img { display: block; width: 100%; height: auto; }
@@ -846,16 +848,19 @@ html {
     // Reflow before the two desktop columns develop unequal heights.
     // Keep the compact profile header independent of the full-width introduction.
     .home-intro {
-      grid-template-columns: 140px minmax(0, 1fr);
-      grid-template-areas: "portrait name" "portrait position" "portrait bio" "portrait logo" "copy copy";
+      --profile-portrait-width: 140px;
+      --profile-column-gap: 24px;
+      grid-template-columns: minmax(0, 1fr) calc(var(--profile-portrait-width) + var(--profile-column-gap)) minmax(0, max-content) minmax(0, 1fr);
+      grid-template-areas: ". portrait name ." ". portrait position ." ". portrait bio ." ". portrait logo ." "copy copy copy copy";
       grid-template-rows: auto auto auto 1fr auto;
-      gap: 0 24px;
+      gap: 0;
     }
     .profile-summary { display: contents; }
+    .intro-details, .intro-footer { display: contents; }
     .portrait-frame { grid-area: portrait; margin: 0; }
     .profile-name { grid-area: name; margin-bottom: 4px; }
     .page__content .profile-position { grid-area: position; margin-bottom: 8px; }
-    .home-intro > .profile-bio {
+    .profile-bio {
       align-self: start;
       flex-direction: column;
       align-items: flex-start;
@@ -864,7 +869,7 @@ html {
       margin: 0 0 8px;
     }
     // Exclude the image's white margin when aligning its visible artwork.
-    .profile-lab-logo { margin-left: -23px; justify-self: start; align-self: start; transform: none; }
+    .profile-lab-logo { width: 160px; margin-left: -23px; justify-self: start; align-self: start; }
     .intro-copy { margin-top: 20px; }
   }
 }
@@ -875,7 +880,7 @@ html {
     .home-header__inner { display: block; padding: 9px 0 0; }
     .home-nav { gap: 22px; padding: 10px 6px 9px; }
     .home-nav a + a:before { left: -11px; }
-    .home-intro { grid-template-columns: 120px minmax(0, 1fr); }
+    .home-intro { --profile-portrait-width: 120px; }
     .portrait-frame { width: 120px; }
     .portrait-frame img { height: 148px; }
     .profile-lab-logo { width: 120px; margin-left: -17px; }
@@ -893,13 +898,12 @@ html {
   html { scroll-padding-top: 106px; }
   .academic-home {
     --page-gutter: 24px;
-    .home-intro { grid-template-columns: 96px minmax(0, 1fr); column-gap: 18px; padding: 20px 0; }
+    .home-intro { --profile-portrait-width: 96px; --profile-column-gap: 18px; padding: 20px 0; }
     .portrait-frame { width: 96px; }
     .portrait-frame img { height: 124px; }
     .profile-name { font-size: 20px; margin: 0 0 4px; }
     .profile-name span { display: inline-block; }
     .profile-lab-logo { width: 112px; margin-left: -16px; }
-    .intro-copy h1 { font-size: 22px; margin-bottom: 10px; }
     .profile-links { gap: 8px 16px; margin-top: 12px; }
     .profile-links > a { font-size: 12px; }
     .internship-list { padding: 0 12px; }
