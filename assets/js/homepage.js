@@ -44,25 +44,6 @@
   window.addEventListener("hashchange", updateCurrentSection);
   updateCurrentSection();
 
-  // Move only the logo; keep the motto and its grid row in their original position.
-  var motto = document.querySelector(".profile-bio");
-  var labLogo = document.querySelector(".profile-lab-logo");
-  if (motto && labLogo) {
-    function alignLabLogo() {
-      var mottoHeight = parseFloat(window.getComputedStyle(motto).height);
-      var logoHeight = parseFloat(window.getComputedStyle(labLogo).height);
-      labLogo.style.setProperty("--lab-logo-shift", (mottoHeight - logoHeight) / 2 + "px");
-    }
-    if (window.ResizeObserver) {
-      var logoAlignmentObserver = new ResizeObserver(alignLabLogo);
-      logoAlignmentObserver.observe(motto);
-      logoAlignmentObserver.observe(labLogo);
-    } else {
-      window.addEventListener("resize", alignLabLogo);
-    }
-    alignLabLogo();
-  }
-
   // Preserve new-tab behavior for external references, while anchors stay in-page.
   document.querySelectorAll(".page__content a[href^='https://']").forEach(function (link) {
     link.target = "_blank";
