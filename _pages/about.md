@@ -491,35 +491,54 @@ redirect_from:
 
 <h1 id="awards">🏅 Awards</h1>
 
+<div class="competition-gallery" role="list" aria-labelledby="awards">
+  <article class="competition" role="listitem">
+    <a class="competition__image" href="{{ '/images/awards/miccai-iugc-2026.png' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="Open certificate in a new tab: MICCAI IUGC Challenge, 3rd Place, Team Lead, 2026">
+      <img src="{{ '/images/awards/miccai-iugc-2026-thumb.webp' | relative_url }}" alt="MICCAI 2026 certificate awarded to 3DVLab for overall third place in the Foundation Model Challenge for Ultrasound Biometry" width="776" height="600" loading="lazy" decoding="async">
+    </a>
+    <div class="competition__caption">
+      <h2 class="competition__title">MICCAI IUGC Challenge</h2>
+      <span class="competition__rank">3rd Place <span aria-hidden="true">🥉</span></span>
+      <p class="competition__team">3DVLab · Team Lead</p>
+      <time class="competition__year" datetime="2026">2026</time>
+    </div>
+  </article>
+  <article class="competition" role="listitem">
+    <a class="competition__image" href="{{ '/images/awards/miccai-autopet-2025.png' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="Open certificate in a new tab: MICCAI autoPET Challenge, 1st Place, Key Member, 2025">
+      <img src="{{ '/images/awards/miccai-autopet-2025-thumb.webp' | relative_url }}" alt="autoPET 2025 winner certificate awarded to BIRTH, including Yifei Chen, for first place in Task 1" width="415" height="600" loading="lazy" decoding="async">
+    </a>
+    <div class="competition__caption">
+      <h2 class="competition__title">MICCAI autoPET Challenge</h2>
+      <span class="competition__rank">1st Place <span aria-hidden="true">🥇</span></span>
+      <p class="competition__team">BIRTH · Key Member</p>
+      <time class="competition__year" datetime="2025">2025</time>
+    </div>
+  </article>
+  <article class="competition" role="listitem">
+    <a class="competition__image" href="{{ '/images/awards/miccai-vlm3d-2025.png' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="Open certificate in a new tab: MICCAI VLM3D Challenge, 2nd Place, Key Member, 2025">
+      <img src="{{ '/images/awards/miccai-vlm3d-2025-thumb.webp' | relative_url }}" alt="VLM3D Challenge 2025 certificate awarded to Yifei Chen of Birthlab for second place in the Multi-Abnormality Localization Task" width="800" height="565" loading="lazy" decoding="async">
+    </a>
+    <div class="competition__caption">
+      <h2 class="competition__title">MICCAI VLM3D Challenge</h2>
+      <span class="competition__rank">2nd Place <span aria-hidden="true">🥈</span></span>
+      <p class="competition__team">Birthlab · Key Member</p>
+      <time class="competition__year" datetime="2025">2025</time>
+    </div>
+  </article>
+  <article class="competition" role="listitem">
+    <a class="competition__image" href="{{ '/images/awards/miccai-hecktor-2025.png' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="Open certificate in a new tab: MICCAI HECKTOR Challenge, 3rd Place, Team Lead, 2025">
+      <img src="{{ '/images/awards/miccai-hecktor-2025-thumb.webp' | relative_url }}" alt="HECKTOR Challenge 2025 certificate awarded to HDUMedAI Team for third place in Task 2, Prognosis" width="800" height="545" loading="lazy" decoding="async">
+    </a>
+    <div class="competition__caption">
+      <h2 class="competition__title">MICCAI HECKTOR Challenge</h2>
+      <span class="competition__rank">3rd Place <span aria-hidden="true">🥉</span></span>
+      <p class="competition__team">HDUMedAI · Team Lead</p>
+      <time class="competition__year" datetime="2025">2025</time>
+    </div>
+  </article>
+</div>
+
 <div class="aw-tbl" markdown="0" role="list" aria-labelledby="awards">
-  <div class="cv-record" role="listitem">
-    <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
-    <div class="record-details">
-      <div class="c-name">MICCAI IUGC Challenge</div>
-      <div class="record-meta"><div class="c-tier"><span class="awtag">3rd Place</span></div><div class="c-role"><span class="rtag">Team Lead</span></div><div class="c-yr">2026</div></div>
-    </div>
-  </div>
-  <div class="cv-record" role="listitem">
-    <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
-    <div class="record-details">
-      <div class="c-name">MICCAI autoPET Challenge</div>
-      <div class="record-meta"><div class="c-tier"><span class="awtag">1st Place</span></div><div class="c-role"><span class="rtag">Key Member</span></div><div class="c-yr">2025</div></div>
-    </div>
-  </div>
-  <div class="cv-record" role="listitem">
-    <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
-    <div class="record-details">
-      <div class="c-name">MICCAI VLM3D Challenge</div>
-      <div class="record-meta"><div class="c-tier"><span class="awtag">2nd Place</span></div><div class="c-role"><span class="rtag">Key Member</span></div><div class="c-yr">2025</div></div>
-    </div>
-  </div>
-  <div class="cv-record" role="listitem">
-    <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
-    <div class="record-details">
-      <div class="c-name">MICCAI HECKTOR Challenge</div>
-      <div class="record-meta"><div class="c-tier"><span class="awtag">3rd Place</span></div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-yr">2025</div></div>
-    </div>
-  </div>
   <div class="cv-record" role="listitem">
     <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
     <div class="record-details">
@@ -626,12 +645,16 @@ redirect_from:
 <div class="svc" markdown="0">
   <div class="sblock service-overview">
     <div class="slabel"><i class="fa fa-users" aria-hidden="true"></i>Conference Organization</div>
-    <div class="sbody">Medical Imaging Computing Seminar (MICS), 2026.</div>
-    <div class="sbody">International Workshop on Accessible Medical Imaging Diagnosis, 2026.</div>
+    <ul class="service-list">
+      <li class="sbody">Medical Imaging Computing Seminar (MICS), 2026.</li>
+      <li class="sbody">International Workshop on Accessible Medical Imaging Diagnosis, 2026.</li>
+    </ul>
   </div>
   <div class="sblock service-overview">
     <div class="slabel"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Teaching Assistantship</div>
-    <div class="sbody">Medical Image Processing (Undergraduate Course), School of Biomedical Engineering, Tsinghua University, 2025, 2026.</div>
+    <ul class="service-list">
+      <li class="sbody">Medical Image Processing (Undergraduate Course), School of Biomedical Engineering, Tsinghua University, 2025, 2026.</li>
+    </ul>
   </div>
   <div class="sblock service-journals">
     <div class="slabel"><i class="fa fa-book-open" aria-hidden="true"></i>Journal Reviewer</div>
