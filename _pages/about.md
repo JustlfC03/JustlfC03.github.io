@@ -259,6 +259,14 @@ redirect_from:
     </div>
   </li>
 
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://justlfc03.github.io/">MAG-ADNet: A Modality-Adversarial Gated Network for Alzheimer's Disease Diagnosis</a>.</h3>
+      <p class="publication-authors">Weihong Chen<sup>✝</sup>, Beining Wu<sup>✝</sup>, Qianhan Weng, Liaonan Xu, Feiwei Qin<sup>*</sup>, Jin Fan, Yong Peng, Wanzhen Wu, Yifei Chen<span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>*</sup></span>.</p>
+      <div class="publication-meta"><span class="publication-venue">BIBM short paper 2026.</span><span class="publication-distinction">Oral</span></div>
+    </div>
+  </li>
+
 
 <!--
 - [FetAngle: Toward Generalizable Automated Fetal Brain Angle Biometry via Test-Time Adaptation](https://justlfc03.github.io/). Yitong Luo<sup>✝</sup>, Yijin Li<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, Yi Liao, Kasidit Anmahapong, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Xiaotian Hu, Haibo Qu<sup>*</sup>, Qiyuan Tian<sup>*</sup>. **BMVC 2026**.
@@ -285,7 +293,7 @@ redirect_from:
 
   <li class="publication-item">
     <div class="publication-copy">
-      <h3 class="publication-title"><a href="https://justlfc03.github.io/">R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound</a>.</h3>
+      <h3 class="publication-title"><a href="https://papers.miccai.org/miccai-2026-sat/PIPPI_005.html">R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound</a>.</h3>
       <p class="publication-authors">Yuanhan Wang<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Beining Wu, Mingxuan Liu, Xiaotian Hu, Chunbo Jiang, Yijin Li, Changmiao Wang, Feiwei Qin<sup>*</sup>, Qiyuan Tian<sup>*</sup>.</p>
       <div class="publication-meta"><span class="publication-venue">MICCAI 2026 Workshop on Perinatal, Preterm and Paediatric Image Analysis.</span><span class="publication-distinction">Oral</span></div>
     </div>
@@ -299,7 +307,7 @@ redirect_from:
       <figcaption>MICCAI 2026</figcaption>
     </figure>
     <div class="publication-copy">
-      <h3 class="publication-title"><a href="https://justlfc03.github.io/">GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT</a></h3>
+      <h3 class="publication-title"><a href="https://papers.miccai.org/miccai-2026/0430-Paper2407.html">GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT</a></h3>
       <p class="publication-authors">Shuo Jiang<sup>✝</sup>, Yuhao Hong<sup>✝</sup>, Chunbo Jiang, Weihong Chen, Huangwei Chen, Shenghao Zhu, Beining Wu, Mingxuan Liu, Zhu Zhu, Feiwei Qin<sup>*</sup>, Min Tan, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>*</sup></span>.</p>
       <div class="publication-meta"><span class="publication-venue">MICCAI 2026.</span><span class="publication-recognition">Best Paper Award Nominee</span><span class="publication-recognition">Shortlist (Top 0.5%)</span></div>
       <div class="publication-links">
