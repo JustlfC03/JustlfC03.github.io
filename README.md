@@ -36,7 +36,7 @@ Some examples:
 1. Configure the google scholar citation crawler:
     1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
     1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
+    1. Click the `Actions` tab of the repository and enable its workflows. The citation workflow generates `gs_data.json` on the `google-scholar-stats` branch. It runs only on Monday, Wednesday and Friday at 09:00 Asia/Shanghai (01:00 UTC); pushes, Pages builds and manual workflow dispatch do not trigger it.
 1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
 1. Modify the configuration of your homepage `_config.yml`:
     1. `title`: the title of your homepage
@@ -64,6 +64,41 @@ Some examples:
 1. Open http://127.0.0.1:4000 in your browser.
 1. If you change the source code of the website, the livereload server will automatically refresh.
 1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+
+## GitHub Star total
+
+The profile badge sums stars from public repositories owned by `author.github`
+and other public repositories whose GitHub Contributors list includes that user.
+Owned forks are included. Each repository ID is counted once, including when a
+repository appears in several sources or has been renamed. Starring a repository,
+opening an issue, or being listed as a paper coauthor does not add it to this total.
+
+`_data/github_stars.json` contains the verified snapshot, subtotals, update time,
+and repository breakdown. To refresh it locally:
+
+```sh
+python3 scripts/update_github_stars.py --username JustlfC03
+```
+
+Both `Get Citation Data` and `Update GitHub Stars` run only on Monday,
+Wednesday and Friday at 09:00 Asia/Shanghai (01:00 UTC). Push events,
+GitHub Pages builds and manual workflow dispatch do not trigger either workflow.
+The Stars workflow publishes `github-stars.json` to the `github-star-stats`
+branch using the workflow's built-in token. The live badge reads that JSON;
+no personal access token is needed or sent to the browser. Local previews use the
+checked-in snapshot. A failed update leaves the last successful total in place.
+The schedules take effect after these files reach the default branch on GitHub; repository Actions
+must be enabled and permit the workflow's `contents: write` permission.
+
+Candidate discovery uses all-time public commit search, supplemented by GitHub
+repository links in `_pages/about.md` and the previous contributed-repository
+list. Every external candidate must pass the Contributors API check. GitHub
+[commit search](https://docs.github.com/en/search-github/searching-on-github/searching-commits)
+only indexes the default branch; unlinked commit emails or coauthor-only work
+can need a repository link added to the page for discovery. GitHub also documents
+[contributor attribution limits](https://docs.github.com/en/rest/repos/repos#list-repository-contributors)
+for very large repositories. Incomplete searches or searches over GitHub's
+1,000-result limit fail explicitly rather than publish a partial total.
 
 # Acknowledges
 

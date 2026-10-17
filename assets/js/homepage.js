@@ -1,8 +1,40 @@
-/* Navigation and optional visitor/citation counts; content also works without JS. */
+/* Navigation and optional visitor/GitHub/citation counts; content also works without JS. */
 (function () {
   "use strict";
 
   var script = document.currentScript;
+
+  // The built-in snapshot works without JavaScript. Published pages refresh
+  // from the scheduled public aggregate, without exposing a token to visitors.
+  var starsBadge = document.querySelector(".profile-github-stars");
+  var isLocalPreview = /^(localhost|127\.0\.0\.1|\[?::1\]?)$/.test(window.location.hostname)
+    || window.location.protocol === "file:";
+  if (starsBadge && window.fetch && !isLocalPreview) {
+    fetch(starsBadge.getAttribute("data-stats-url"), { cache: "no-cache" }).then(function (response) {
+      if (!response.ok) throw new Error("GitHub star data unavailable");
+      return response.json();
+    }).then(function (data) {
+      var username = starsBadge.getAttribute("data-github-user");
+      var updated = Date.parse(data.updated_at);
+      var snapshotDate = Date.parse(starsBadge.getAttribute("data-updated-at"));
+      if (data.schemaVersion !== 1 || typeof data.username !== "string"
+        || data.username.toLowerCase() !== username.toLowerCase()
+        || ![data.total_stars, data.owned_stars, data.contributed_stars].every(function (count) {
+          return Number.isSafeInteger(count) && count >= 0;
+        }) || data.total_stars !== data.owned_stars + data.contributed_stars
+        || !Number.isFinite(updated) || updated < snapshotDate) return;
+      var count = data.total_stars.toLocaleString("en-US");
+      starsBadge.src = "https://img.shields.io/badge/Stars-" + encodeURIComponent(count)
+        + "-234e70?style=flat&logo=github&logoColor=234e70&labelColor=e4edf4";
+      starsBadge.alt = "GitHub stars across owned and contributed public repositories: " + count;
+      starsBadge.title = data.owned_stars.toLocaleString("en-US") + " owned + "
+        + data.contributed_stars.toLocaleString("en-US")
+        + " contributed · Each repository counted once · Updated " + data.updated_at;
+      starsBadge.setAttribute("data-updated-at", data.updated_at);
+    }).catch(function () {
+      // Retain the last verified total if the scheduled data is unavailable.
+    });
+  }
 
   // Keep the original MapMyVisitors project and its lifetime total.
   // Local previews retain the verified snapshot without recording test visits.

@@ -31,7 +31,7 @@
         </a>
         <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer">
           <i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span>
-          <img class="profile-stat-badge" src="https://img.shields.io/github/stars/{{ site.author.github | url_encode }}?style=flat&amp;logo=github&amp;logoColor=234e70&amp;labelColor=e4edf4&amp;color=234e70&amp;label=Stars" alt="GitHub total stars" height="20">
+          <img class="profile-stat-badge profile-github-stars" src="https://img.shields.io/badge/Stars-{{ site.data.github_stars.total_stars }}-234e70?style=flat&amp;logo=github&amp;logoColor=234e70&amp;labelColor=e4edf4" alt="GitHub stars across owned and contributed public repositories: {{ site.data.github_stars.total_stars }}" title="{{ site.data.github_stars.owned_stars }} owned + {{ site.data.github_stars.contributed_stars }} contributed · Each repository counted once · Updated {{ site.data.github_stars.updated_at }}" data-github-user="{{ site.author.github }}" data-updated-at="{{ site.data.github_stars.updated_at }}" data-stats-url="https://raw.githubusercontent.com/{{ site.repository }}/github-star-stats/github-stars.json" height="20">
         </a>
         <a class="profile-wechat" href="{{ '/images/wechat.png' | relative_url }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-weixin" aria-hidden="true"></i><span>WeChat 微信</span></a>
         <a class="profile-email" href="mailto:{{ site.author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i><span>{{ site.author.email }}</span></a>

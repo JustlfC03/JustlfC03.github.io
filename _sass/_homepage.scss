@@ -1154,6 +1154,8 @@ html {
   .profile-visitors__separator { color: #9aafbd; }
   .profile-visitors__count {
     color: #35516b;
+    // Georgia's oldstyle digits can persist when lining numerals are unavailable.
+    font-family: "Times New Roman", Times, serif;
     font-weight: 700;
     font-variant-numeric: lining-nums tabular-nums;
   }
