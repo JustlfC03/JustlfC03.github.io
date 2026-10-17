@@ -1,0 +1,59 @@
+name: Update GitHub Stars
+
+on:
+  schedule:
+    # Monday, Wednesday and Friday at 09:00 Asia/Shanghai (UTC+8).
+    - cron: '0 1 * * 1,3,5'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-star-stats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check aggregation and badge fallback
+        run: |
+          python -m unittest discover -s tests
+          node tests/test_homepage_stars.cjs
+      - name: Collect public owned and Contributor repository stars
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          previous="_data/github_stars.json"
+          if git show-ref --verify --quiet refs/remotes/origin/github-star-stats; then
+            previous="$RUNNER_TEMP/github-stars-previous.json"
+            git show origin/github-star-stats:github-stars.json > "$previous"
+          fi
+          username=$(ruby -ryaml -e 'puts YAML.load_file("_config.yml").fetch("author").fetch("github")')
+          python scripts/update_github_stars.py --username "$username" \
+            --previous "$previous" --output "$RUNNER_TEMP/github-stars.json"
+      - name: Publish statistics for the homepage badge
+        run: |
+          publish_dir="$RUNNER_TEMP/github-star-publish"
+          if git show-ref --verify --quiet refs/remotes/origin/github-star-stats; then
+            git worktree add --detach "$publish_dir" origin/github-star-stats
+          else
+            git worktree add --detach "$publish_dir" HEAD
+            git -C "$publish_dir" switch --orphan github-star-stats
+          fi
+          cp "$RUNNER_TEMP/github-stars.json" "$publish_dir/github-stars.json"
+          cd "$publish_dir"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add github-stars.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update public GitHub star totals'
+            git push origin HEAD:github-star-stats
+          fi
