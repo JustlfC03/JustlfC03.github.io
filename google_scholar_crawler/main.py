@@ -19,12 +19,12 @@ def get_author_with_retry(scholar_id, max_attempts=3):
                 scholarly.set_timeout(30)
                 scholarly.set_retries(5)
 
+                pg = ProxyGenerator()
                 if proxy_type == "free":
-                    pg = ProxyGenerator()
                     pg.FreeProxies()
-                    scholarly.use_proxy(pg)
-                else:
-                    scholarly.use_proxy(None)
+                # Supplying both channels avoids scholarly creating a free proxy
+                # implicitly, including when this strategy is a direct connection.
+                scholarly.use_proxy(pg, pg)
 
                 author = scholarly.search_author_id(scholar_id)
                 print("正在填充作者详细信息...")
