@@ -30,7 +30,7 @@ redirect_from:
     <div class="internship-period"><time datetime="2021-09">2021.09</time> - <time datetime="2024-04">2024.04</time></div>
     <div class="internship-details">
       <div class="internship-institution">The Chinese University of Hong Kong (Shenzhen)</div>
-      <div class="internship-description"><span class="internship-lab">SRIBD Laboratory</span>, advised by Professor <a href="https://www.sribd.cn/teacher/505">Changmiao Wang（王昌淼）</a>.</div>
+      <div class="internship-description"><span class="internship-lab">SRIBD Laboratory</span>, advised by Professor <a href="https://jiandanjinxin.github.io/changmiaowang/">Changmiao Wang（王昌淼）</a>.</div>
     </div>
   </li>
 </ol>
