@@ -1,8 +1,36 @@
-/* Navigation and optional citation counts; page content also works without JS. */
+/* Navigation and optional visitor/citation counts; content also works without JS. */
 (function () {
   "use strict";
 
   var script = document.currentScript;
+
+  // Busuanzi supplies site UV (visitors), independently of the former map service.
+  // Render the verified site snapshot first; only the published host records visits.
+  // Previews and unavailable services retain the snapshot with its timestamp.
+  var visitorBadge = document.querySelector(".profile-visitors");
+  if (visitorBadge) {
+    var hostname = window.location.hostname.toLowerCase();
+    var visitorHostname = visitorBadge.getAttribute("data-visitor-hostname");
+    if (/^https?:$/.test(window.location.protocol) && hostname === visitorHostname) {
+      var visitorCount = document.getElementById("busuanzi_value_site_uv");
+      var visitorSnapshot = visitorCount.textContent;
+      var visitorObserver = new MutationObserver(function () {
+        visitorObserver.disconnect();
+        if (/^\d+$/.test(visitorCount.textContent.trim())) {
+          visitorBadge.title = "View historical visitor map (opens in a new tab) · Count: Busuanzi live";
+        } else {
+          visitorCount.textContent = visitorSnapshot;
+        }
+      });
+      visitorObserver.observe(visitorCount, { childList: true, characterData: true, subtree: true });
+      var visitorScript = document.createElement("script");
+      visitorScript.src = "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js";
+      visitorScript.async = true;
+      visitorScript.onerror = function () { visitorObserver.disconnect(); };
+      document.head.appendChild(visitorScript);
+    }
+  }
+
   var navLinks = Array.from(document.querySelectorAll(".home-wordmark, .home-nav a"));
   var sections = navLinks.map(function (link) {
     return document.getElementById(link.hash.slice(1));
@@ -103,6 +131,56 @@
   }
 
   setupOverflowNavigation();
+
+  function setupFooterWrapping() {
+    var footer = document.querySelector(".home-footer__main");
+    if (!footer) return;
+    var motto = footer.querySelector(".home-footer__motto");
+    var address = footer.querySelector(".home-footer__address");
+    if (!motto || !address) return;
+    var blocks = [motto, address];
+    var layoutScheduled = false;
+
+    function layoutFooter() {
+      layoutScheduled = false;
+      // Always measure the unbroken text so widening can restore both single lines.
+      // Both columns retain their full width in either state, preventing oscillation.
+      footer.setAttribute("data-wrap", "single-line");
+      var needsWrap = blocks.some(function (block) {
+        var range = document.createRange();
+        range.selectNodeContents(block);
+        return range.getBoundingClientRect().width > block.getBoundingClientRect().width + 0.5;
+      });
+      footer.setAttribute("data-wrap", needsWrap ? "two-lines" : "single-line");
+    }
+
+    function scheduleLayout() {
+      if (layoutScheduled) return;
+      layoutScheduled = true;
+      window.requestAnimationFrame(layoutFooter);
+    }
+
+    window.addEventListener("resize", scheduleLayout);
+    if (window.ResizeObserver) {
+      var widths = new Map();
+      var observer = new ResizeObserver(function (entries) {
+        entries.forEach(function (entry) {
+          var width = entry.contentRect.width;
+          if (Math.abs(width - widths.get(entry.target)) < 0.1) return;
+          widths.set(entry.target, width);
+          scheduleLayout();
+        });
+      });
+      blocks.forEach(function (block) { observer.observe(block); });
+    }
+    if (document.fonts) {
+      document.fonts.ready.then(scheduleLayout);
+      document.fonts.addEventListener("loadingdone", scheduleLayout);
+    }
+    layoutFooter();
+  }
+
+  setupFooterWrapping();
 
   function updateCurrentSection() {
     var current = sections[0];

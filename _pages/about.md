@@ -3,6 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: false
+last_modified_at: "2026-10-17"
 redirect_from: 
   - /about/
   - /about.html
