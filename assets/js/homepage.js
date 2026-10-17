@@ -4,30 +4,45 @@
 
   var script = document.currentScript;
 
-  // Busuanzi supplies site UV (visitors), independently of the former map service.
-  // Render the verified site snapshot first; only the published host records visits.
-  // Previews and unavailable services retain the snapshot with its timestamp.
+  // Keep the original MapMyVisitors project and its lifetime total.
+  // Local previews retain the verified snapshot without recording test visits.
   var visitorBadge = document.querySelector(".profile-visitors");
   if (visitorBadge) {
+    var visitorCount = visitorBadge.querySelector(".profile-visitors__count");
+    var visitorTotal = Number(visitorCount.textContent.replace(/,/g, "").trim());
+    visitorCount.textContent = visitorTotal.toLocaleString("en-US");
     var hostname = window.location.hostname.toLowerCase();
     var visitorHostname = visitorBadge.getAttribute("data-visitor-hostname");
     if (/^https?:$/.test(window.location.protocol) && hostname === visitorHostname) {
-      var visitorCount = document.getElementById("busuanzi_value_site_uv");
-      var visitorSnapshot = visitorCount.textContent;
+      var visitorSource = document.createElement("div");
+      visitorSource.className = "home-footer__visitor-source";
+      visitorSource.setAttribute("aria-hidden", "true");
+      visitorSource.setAttribute("inert", "");
+      document.body.appendChild(visitorSource);
+
       var visitorObserver = new MutationObserver(function () {
+        var label = visitorSource.querySelector(".mapmyvisitors-visitors");
+        if (!label) return;
+        // The detail page also has a date-filtered visits total. Accept only
+        // the official widget's explicitly labelled lifetime pageview count.
+        var match = label.textContent.trim().match(/^([\d,\s]+)\s+Total\s+Pageviews$/i);
+        if (!match) return;
+        var total = Number(match[1].replace(/[,\s]/g, ""));
+        if (!Number.isSafeInteger(total) || total < visitorTotal) return;
+        visitorTotal = total;
+        visitorCount.textContent = total.toLocaleString("en-US");
+        visitorBadge.title = "Total pageviews since Dec 15, 2024 · MapMyVisitors · Open visitor map";
+        // The initial map creates many SVG nodes; subsequently watch its count only.
         visitorObserver.disconnect();
-        if (/^\d+$/.test(visitorCount.textContent.trim())) {
-          visitorBadge.title = "View historical visitor map (opens in a new tab) · Count: Busuanzi live";
-        } else {
-          visitorCount.textContent = visitorSnapshot;
-        }
+        visitorObserver.observe(label, { childList: true, characterData: true, subtree: true });
       });
-      visitorObserver.observe(visitorCount, { childList: true, characterData: true, subtree: true });
+      visitorObserver.observe(visitorSource, { childList: true, characterData: true, subtree: true });
       var visitorScript = document.createElement("script");
-      visitorScript.src = "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js";
+      visitorScript.id = "mapmyvisitors";
+      visitorScript.src = visitorBadge.getAttribute("data-visitor-script");
       visitorScript.async = true;
       visitorScript.onerror = function () { visitorObserver.disconnect(); };
-      document.head.appendChild(visitorScript);
+      visitorSource.appendChild(visitorScript);
     }
   }
 

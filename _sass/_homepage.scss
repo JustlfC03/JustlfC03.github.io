@@ -1060,6 +1060,17 @@ html {
     background: linear-gradient(180deg, #fff 0%, #f3f7fa 100%);
     color: #596d7c;
   }
+  // Preserve the original tracker without displaying its map or adding tab stops.
+  .home-footer__visitor-source {
+    position: fixed;
+    top: 0;
+    left: -10000px;
+    width: 500px;
+    height: 300px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    pointer-events: none;
+  }
   .home-footer__inner {
     position: relative;
     width: calc(100% - var(--page-gutter) - var(--page-gutter));

@@ -6,11 +6,11 @@
         <p class="home-footer__translation" lang="zh-CN">{{ site.author.bio | split: '<br>' | last }}</p>
       </div>
       <div class="home-footer__meta">
-        <a class="profile-visitors home-footer__visitors" href="https://mapmyvisitors.com/web/1bx54" target="_blank" rel="noopener noreferrer" title="View historical visitor map (opens in a new tab) · Count: Busuanzi snapshot {{ site.data.visitor_stats.fetched_at }}" data-visitor-hostname="{{ site.data.visitor_stats.hostname }}" aria-live="polite" aria-atomic="true">
+        <a class="profile-visitors home-footer__visitors" href="{{ site.data.visitor_stats.source_url }}" target="_blank" rel="noopener noreferrer" title="Total pageviews since Dec 15, 2024 · MapMyVisitors snapshot {{ site.data.visitor_stats.fetched_at }} · Open visitor map" data-visitor-hostname="{{ site.data.visitor_stats.hostname }}" data-visitor-script="{{ site.data.visitor_stats.widget_url }}" aria-live="polite" aria-atomic="true">
           <svg class="profile-visitors__icon" viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="9" cy="8" r="3"/><path d="M3 20v-2a6 6 0 0 1 12 0v2M16 5.2a3 3 0 0 1 0 5.6M18 14a5 5 0 0 1 3 4.6V20"/></svg>
           <span class="profile-visitors__label">Visitors</span>
           <span class="profile-visitors__separator" aria-hidden="true">·</span>
-          <span class="profile-visitors__count" id="busuanzi_value_site_uv">{{ site.data.visitor_stats.site_uv }}</span>
+          <span class="profile-visitors__count">{{ site.data.visitor_stats.total_pageviews }}</span>
         </a>
       </div>
       <address class="home-footer__contact" aria-label="Contact information">

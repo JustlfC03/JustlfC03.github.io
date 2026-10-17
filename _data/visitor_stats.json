@@ -1,10 +1,13 @@
 {
-  "provider": "Busuanzi",
+  "provider": "MapMyVisitors",
   "site_url": "https://justlfc03.github.io/",
   "hostname": "justlfc03.github.io",
-  "site_uv": 1,
-  "fetched_at": "2026-10-16T15:22:31+00:00",
-  "source_url": "https://busuanzi.ibruce.info/busuanzi",
-  "metric": "site_uv",
-  "note": "Provider-reported site UV, retrieved with this site URL as the Referer. Retrieving this snapshot records a visit. Independent of historical MapMyVisitors data."
+  "project_id": "1bx54",
+  "total_pageviews": 5534,
+  "tracking_since": "2024-12-15",
+  "fetched_at": "2026-10-17T03:01:18+00:00",
+  "source_url": "https://mapmyvisitors.com/web/1bx54",
+  "widget_url": "https://mapmyvisitors.com/map.js?cl=ffffff&w=500&t=tt&d=-9EoaDh9OBVmQUub32o-uoMNnM48k4bB5daRDoDCqPk",
+  "metric": "total_pageviews",
+  "note": "Verified lifetime Total Pageviews from the original project, not the date-filtered visits total or a new counter. The original official widget continues tracking on the published hostname; previews and unavailable service retain this snapshot."
 }
