@@ -1,0 +1,299 @@
+{
+  "schemaVersion": 1,
+  "username": "JustlfC03",
+  "updated_at": "2026-10-19T05:39:11Z",
+  "total_stars": 651,
+  "owned_stars": 373,
+  "contributed_stars": 278,
+  "owned_repositories": 18,
+  "contributed_repositories": 23,
+  "repositories": [
+    {
+      "id": 984869978,
+      "full_name": "baiyou1234/DR-TTA",
+      "url": "https://github.com/baiyou1234/DR-TTA",
+      "stars": 3,
+      "relationship": "contributed"
+    },
+    {
+      "id": 1060249120,
+      "full_name": "baiyou1234/SmaRT",
+      "url": "https://github.com/baiyou1234/SmaRT",
+      "stars": 6,
+      "relationship": "contributed"
+    },
+    {
+      "id": 1029692085,
+      "full_name": "Guanyu-Zhou/WARPNet",
+      "url": "https://github.com/Guanyu-Zhou/WARPNet",
+      "stars": 5,
+      "relationship": "contributed"
+    },
+    {
+      "id": 944877188,
+      "full_name": "HovChen/MMLNB",
+      "url": "https://github.com/HovChen/MMLNB",
+      "stars": 24,
+      "relationship": "contributed"
+    },
+    {
+      "id": 922127472,
+      "full_name": "JSLiam94/CoPath",
+      "url": "https://github.com/JSLiam94/CoPath",
+      "stars": 16,
+      "relationship": "contributed"
+    },
+    {
+      "id": 1341381730,
+      "full_name": "JustlfC03/AdaPhys",
+      "url": "https://github.com/JustlfC03/AdaPhys",
+      "stars": 6,
+      "relationship": "owned"
+    },
+    {
+      "id": 1072785161,
+      "full_name": "JustlfC03/AlignPET",
+      "url": "https://github.com/JustlfC03/AlignPET",
+      "stars": 4,
+      "relationship": "owned"
+    },
+    {
+      "id": 1269166194,
+      "full_name": "JustlfC03/AnatoReCT",
+      "url": "https://github.com/JustlfC03/AnatoReCT",
+      "stars": 2,
+      "relationship": "owned"
+    },
+    {
+      "id": 1255871649,
+      "full_name": "JustlfC03/CHIEF",
+      "url": "https://github.com/JustlfC03/CHIEF",
+      "stars": 3,
+      "relationship": "owned"
+    },
+    {
+      "id": 714851754,
+      "full_name": "JustlfC03/DFCPS",
+      "url": "https://github.com/JustlfC03/DFCPS",
+      "stars": 16,
+      "relationship": "owned"
+    },
+    {
+      "id": 1127665354,
+      "full_name": "JustlfC03/ERBrain",
+      "url": "https://github.com/JustlfC03/ERBrain",
+      "stars": 6,
+      "relationship": "owned"
+    },
+    {
+      "id": 1259391074,
+      "full_name": "JustlfC03/fundus",
+      "url": "https://github.com/JustlfC03/fundus",
+      "stars": 2,
+      "relationship": "owned"
+    },
+    {
+      "id": 1121621945,
+      "full_name": "JustlfC03/GaussPET",
+      "url": "https://github.com/JustlfC03/GaussPET",
+      "stars": 5,
+      "relationship": "owned"
+    },
+    {
+      "id": 840908814,
+      "full_name": "JustlfC03/JustlfC03",
+      "url": "https://github.com/JustlfC03/JustlfC03",
+      "stars": 2,
+      "relationship": "owned"
+    },
+    {
+      "id": 903653667,
+      "full_name": "JustlfC03/JustlfC03.github.io",
+      "url": "https://github.com/JustlfC03/JustlfC03.github.io",
+      "stars": 2,
+      "relationship": "owned"
+    },
+    {
+      "id": 714853378,
+      "full_name": "JustlfC03/MFDS-DETR",
+      "url": "https://github.com/JustlfC03/MFDS-DETR",
+      "stars": 81,
+      "relationship": "owned"
+    },
+    {
+      "id": 841882634,
+      "full_name": "JustlfC03/MicroKAN",
+      "url": "https://github.com/JustlfC03/MicroKAN",
+      "stars": 6,
+      "relationship": "owned"
+    },
+    {
+      "id": 756368112,
+      "full_name": "JustlfC03/MSTNet",
+      "url": "https://github.com/JustlfC03/MSTNet",
+      "stars": 71,
+      "relationship": "owned"
+    },
+    {
+      "id": 1194640281,
+      "full_name": "JustlfC03/MUIT-TTA",
+      "url": "https://github.com/JustlfC03/MUIT-TTA",
+      "stars": 7,
+      "relationship": "owned"
+    },
+    {
+      "id": 1259388368,
+      "full_name": "JustlfC03/OCT",
+      "url": "https://github.com/JustlfC03/OCT",
+      "stars": 3,
+      "relationship": "owned"
+    },
+    {
+      "id": 751696809,
+      "full_name": "JustlfC03/SCKansformer",
+      "url": "https://github.com/JustlfC03/SCKansformer",
+      "stars": 50,
+      "relationship": "owned"
+    },
+    {
+      "id": 714259481,
+      "full_name": "JustlfC03/SCUNet-plusplus",
+      "url": "https://github.com/JustlfC03/SCUNet-plusplus",
+      "stars": 85,
+      "relationship": "owned"
+    },
+    {
+      "id": 722426255,
+      "full_name": "JustlfC03/TC-DiffRecon",
+      "url": "https://github.com/JustlfC03/TC-DiffRecon",
+      "stars": 22,
+      "relationship": "owned"
+    },
+    {
+      "id": 1202419367,
+      "full_name": "khaithiencanh/Kan",
+      "url": "https://github.com/khaithiencanh/Kan",
+      "stars": 0,
+      "relationship": "contributed"
+    },
+    {
+      "id": 831461585,
+      "full_name": "lcbkmm/TC-KANRecon",
+      "url": "https://github.com/lcbkmm/TC-KANRecon",
+      "stars": 24,
+      "relationship": "contributed"
+    },
+    {
+      "id": 1168551038,
+      "full_name": "MaoFuyou/MorVess",
+      "url": "https://github.com/MaoFuyou/MorVess",
+      "stars": 6,
+      "relationship": "contributed"
+    },
+    {
+      "id": 1026224765,
+      "full_name": "Quanato607/AdaMM",
+      "url": "https://github.com/Quanato607/AdaMM",
+      "stars": 33,
+      "relationship": "contributed"
+    },
+    {
+      "id": 925225688,
+      "full_name": "Quanato607/MST-KDNet",
+      "url": "https://github.com/Quanato607/MST-KDNet",
+      "stars": 24,
+      "relationship": "contributed"
+    },
+    {
+      "id": 869595108,
+      "full_name": "Quanato607/XLSTM-HVED",
+      "url": "https://github.com/Quanato607/XLSTM-HVED",
+      "stars": 18,
+      "relationship": "contributed"
+    },
+    {
+      "id": 827403243,
+      "full_name": "Tinysqua/GFE-Mamba",
+      "url": "https://github.com/Tinysqua/GFE-Mamba",
+      "stars": 31,
+      "relationship": "contributed"
+    },
+    {
+      "id": 1183401656,
+      "full_name": "wenjing-gg/APRNet",
+      "url": "https://github.com/wenjing-gg/APRNet",
+      "stars": 8,
+      "relationship": "contributed"
+    },
+    {
+      "id": 1092252708,
+      "full_name": "wenjing-gg/MedSeg-TTA",
+      "url": "https://github.com/wenjing-gg/MedSeg-TTA",
+      "stars": 24,
+      "relationship": "contributed"
+    },
+    {
+      "id": 1089647411,
+      "full_name": "wonderfulpoet/CAM-Net",
+      "url": "https://github.com/wonderfulpoet/CAM-Net",
+      "stars": 3,
+      "relationship": "contributed"
+    },
+    {
+      "id": 1052724319,
+      "full_name": "Wu-beining/HM-VNet",
+      "url": "https://github.com/Wu-beining/HM-VNet",
+      "stars": 9,
+      "relationship": "contributed"
+    },
+    {
+      "id": 1164901685,
+      "full_name": "Wu-beining/R2AoP",
+      "url": "https://github.com/Wu-beining/R2AoP",
+      "stars": 2,
+      "relationship": "contributed"
+    },
+    {
+      "id": 1096335573,
+      "full_name": "wuchangw/AnyAD",
+      "url": "https://github.com/wuchangw/AnyAD",
+      "stars": 20,
+      "relationship": "contributed"
+    },
+    {
+      "id": 985607094,
+      "full_name": "wuchangw/FasterSNN",
+      "url": "https://github.com/wuchangw/FasterSNN",
+      "stars": 10,
+      "relationship": "contributed"
+    },
+    {
+      "id": 1313416342,
+      "full_name": "wuchangw/LeSA-Net",
+      "url": "https://github.com/wuchangw/LeSA-Net",
+      "stars": 5,
+      "relationship": "contributed"
+    },
+    {
+      "id": 1372613827,
+      "full_name": "wuchangw/LINet",
+      "url": "https://github.com/wuchangw/LINet",
+      "stars": 2,
+      "relationship": "contributed"
+    },
+    {
+      "id": 1197458411,
+      "full_name": "wuchangw/PARIS",
+      "url": "https://github.com/wuchangw/PARIS",
+      "stars": 3,
+      "relationship": "contributed"
+    },
+    {
+      "id": 1042457177,
+      "full_name": "yizhixiaolimao/MAG-ADNet",
+      "url": "https://github.com/yizhixiaolimao/MAG-ADNet",
+      "stars": 2,
+      "relationship": "contributed"
+    }
+  ]
+}
