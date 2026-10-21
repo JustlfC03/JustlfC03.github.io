@@ -611,7 +611,6 @@ redirect_from:
       <div class="record-meta"><div class="c-amt"><span class="amt">&yen; 10,000</span></div><div class="c-role"><span>Recipient</span></div><div class="c-yr">2026</div></div>
     </div>
   </div>
-<div class="fund-tbl" markdown="0" role="list" aria-labelledby="funding">
   <div class="cv-record" role="listitem">
     <span class="record-icon" aria-hidden="true"><i class="fa fa-university"></i></span>
     <div class="record-details">
