@@ -592,8 +592,8 @@ redirect_from:
   <div class="cv-record" role="listitem">
     <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
     <div class="record-details">
-      <div class="c-name">MCM/ICM Mathematical Contest in Modeling</div>
-      <div class="record-meta"><div class="c-tier"><span class="awtag">Second Prize</span></div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-yr">2023</div></div>
+      <div class="c-name">Mathematical Contest in Modeling (MCM) and Interdisciplinary Contest in Modeling (ICM)</div>
+      <div class="record-meta"><div class="c-tier"><span class="awtag">Honorable Mention</span></div><div class="c-role"><span class="rtag lead">Team Lead</span></div><div class="c-yr">2023</div></div>
     </div>
   </div>
 </div>
@@ -603,7 +603,14 @@ redirect_from:
 <span id="-funding" class="legacy-anchor" aria-hidden="true"></span>
 
 <h1 id="funding">💰 Funding</h1>
-
+<div class="fund-tbl" markdown="0" role="list" aria-labelledby="funding">
+  <div class="cv-record" role="listitem">
+    <span class="record-icon" aria-hidden="true"><i class="fa fa-university"></i></span>
+    <div class="record-details">
+      <div class="c-name">Young Science and Technology Scientists Sponsorship Program by CAST - Doctoral Student Special Plan</div>
+      <div class="record-meta"><div class="c-amt"><span class="amt">&yen; 10,000</span></div><div class="c-role"><span>Key Member</span></div><div class="c-yr">2026</div></div>
+    </div>
+  </div>
 <div class="fund-tbl" markdown="0" role="list" aria-labelledby="funding">
   <div class="cv-record" role="listitem">
     <span class="record-icon" aria-hidden="true"><i class="fa fa-university"></i></span>
