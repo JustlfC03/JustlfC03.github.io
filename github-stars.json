@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "username": "JustlfC03",
-  "updated_at": "2026-10-19T05:39:11Z",
-  "total_stars": 651,
+  "updated_at": "2026-10-23T05:41:59Z",
+  "total_stars": 668,
   "owned_stars": 373,
-  "contributed_stars": 278,
+  "contributed_stars": 295,
   "owned_repositories": 18,
   "contributed_repositories": 23,
   "repositories": [
@@ -12,14 +12,14 @@
       "id": 984869978,
       "full_name": "baiyou1234/DR-TTA",
       "url": "https://github.com/baiyou1234/DR-TTA",
-      "stars": 3,
+      "stars": 4,
       "relationship": "contributed"
     },
     {
       "id": 1060249120,
       "full_name": "baiyou1234/SmaRT",
       "url": "https://github.com/baiyou1234/SmaRT",
-      "stars": 6,
+      "stars": 7,
       "relationship": "contributed"
     },
     {
@@ -41,6 +41,13 @@
       "full_name": "JSLiam94/CoPath",
       "url": "https://github.com/JSLiam94/CoPath",
       "stars": 16,
+      "relationship": "contributed"
+    },
+    {
+      "id": 1239354684,
+      "full_name": "JSLiam94/GLeVE",
+      "url": "https://github.com/JSLiam94/GLeVE",
+      "stars": 15,
       "relationship": "contributed"
     },
     {
@@ -194,7 +201,7 @@
       "id": 1026224765,
       "full_name": "Quanato607/AdaMM",
       "url": "https://github.com/Quanato607/AdaMM",
-      "stars": 33,
+      "stars": 35,
       "relationship": "contributed"
     },
     {
@@ -244,13 +251,6 @@
       "full_name": "Wu-beining/HM-VNet",
       "url": "https://github.com/Wu-beining/HM-VNet",
       "stars": 9,
-      "relationship": "contributed"
-    },
-    {
-      "id": 1164901685,
-      "full_name": "Wu-beining/R2AoP",
-      "url": "https://github.com/Wu-beining/R2AoP",
-      "stars": 2,
       "relationship": "contributed"
     },
     {
