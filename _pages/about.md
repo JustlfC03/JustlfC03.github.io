@@ -98,7 +98,7 @@ redirect_from:
 
   <li class="publication-item">
     <div class="publication-copy">
-      <h3 class="publication-title"><a href="https://justlfc03.github.io/">Unsupervised CT Metal Artifact Reduction via Consistent Artifact Modeling</a>.</h3>
+      <h3 class="publication-title"><a href="https://xplorestaging.ieee.org/document/11723151/">Unsupervised CT Metal Artifact Reduction via Consistent Artifact Modeling</a>.</h3>
       <p class="publication-authors">Enyu Bao<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Junhao Ye, Xueyan Song, Kasidit Anmahapong, Ziang Wang, Guanyu Zhou, Feiwei Qin<sup>*</sup>, Yaqi Wang, Changmiao Wang, Huiyu Zhou and Qiyuan Tian<sup>*</sup>.</p>
       <div class="publication-meta"><span class="publication-venue">IEEE Journal of Biomedical and Health Informatics 2026.</span></div>
     </div>
@@ -106,7 +106,7 @@ redirect_from:
 
   <li class="publication-item">
     <div class="publication-copy">
-      <h3 class="publication-title"><a href="https://justlfc03.github.io/">Multi-center validation of machine learning models for predicting myopia progression across school-based screening and optical intervention settings in Chinese children and adolescents</a>.</h3>
+      <h3 class="publication-title"><a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aidi.70165">Multi-center validation of machine learning models for predicting myopia progression across school-based screening and optical intervention settings in Chinese children and adolescents</a>.</h3>
       <p class="publication-authors">Yitong Zhang<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Ying Wu<sup>*</sup>, Lijun Zhang, Mengyao Guo, Yulan Yan, Runmei Wei, Zihan Cui, Peng Luo, Fang Chen, Bo Yang, Youcang Han, Xiaoyang Liu,  Qiyuan Tian<sup>*</sup>.</p>
       <div class="publication-meta"><span class="publication-venue">Advanced Intelligent Discovery 2026.</span></div>
     </div>
