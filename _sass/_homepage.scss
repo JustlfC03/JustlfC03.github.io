@@ -805,6 +805,7 @@ html {
     .cell:last-child { border-bottom: 0; }
     .yr {
       color: #365670;
+      font-family: Georgia, "Times New Roman", serif;
       font-size: 11.5px;
       font-weight: 700;
       font-variant-numeric: tabular-nums;
@@ -1097,7 +1098,7 @@ html {
     .service-conferences {
       .chips { display: grid; grid-template-columns: repeat(8, minmax(0, 1fr)); gap: 2px 18px; }
       .chip { display: flex; align-items: baseline; justify-content: space-between; gap: 5px; min-width: 0; padding: 5px 0; border-bottom: 1px solid #e9edf1; color: #243d51; font-size: 13px; font-weight: 700; }
-      .service-year { color: #526775; font-family: "Trebuchet MS", Helvetica, sans-serif; font-size: 11px; font-weight: 400; font-variant-numeric: tabular-nums; }
+      .service-year { color: #526775; font-family: Georgia, "Times New Roman", serif; font-size: 11px; font-weight: 400; font-variant-numeric: tabular-nums; }
     }
   }
 
