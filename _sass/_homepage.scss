@@ -360,6 +360,7 @@ html {
 
   .academic-content { padding-bottom: 24px; }
   .academic-content > h1,
+  .academic-content .publications-heading > h1,
   .academic-content .achievement-panel > h1 {
     margin: 20px 0 10px;
     padding: 0;
@@ -405,6 +406,7 @@ html {
     align-self: start;
     padding: 8px 12px 0 0;
     color: #365670;
+    font-family: Georgia, "Times New Roman", serif;
     font-size: 13.5px;
     font-weight: 700;
     font-variant-numeric: tabular-nums;
@@ -447,13 +449,16 @@ html {
   }
   .internship-lab { color: #394d5d; }
 
-  .news-list {
+  .news-panel {
     margin: 0 0 22px;
-    padding: 0 14px;
-    list-style: none;
     border: 1px solid #e1e6eb;
     border-top: 2px solid #365670;
     background: #fff;
+  }
+  .news-list {
+    margin: 0;
+    padding: 0 14px;
+    list-style: none;
   }
   .news-row {
     display: grid;
@@ -464,12 +469,66 @@ html {
     padding: 5px 0;
     border-bottom: 1px solid #e9edf1;
     line-height: 1.5;
-    &:last-child { border-bottom: 0; }
+    &:last-child, &.news-row--last-visible { border-bottom: 0; }
+    &[hidden] { display: none; }
   }
+  .news-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+    width: fit-content;
+    max-width: calc(100% - 28px);
+    min-height: 24px;
+    margin: 0 14px 4px auto;
+    padding: 2px 0;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    color: #315570;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 12.5px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 1.4;
+    cursor: pointer;
+    &:hover { color: #18324f; }
+    &:hover .news-toggle__label { text-decoration-color: currentColor; }
+    &:focus-visible { outline: 2px solid #365670; outline-offset: 3px; }
+    &[hidden] { display: none; }
+    &[aria-expanded="true"] .news-toggle__icon { transform: rotate(180deg); }
+  }
+  .news-toggle__label {
+    text-decoration: underline;
+    text-decoration-color: #bacbd8;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 4px;
+  }
+  .news-toggle__icon {
+    flex: 0 0 12px;
+    width: 12px;
+    height: 12px;
+    color: #6e879b;
+    transition: transform .18s ease;
+  }
+  .news-panel--inline-toggle {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    > .news-list, > .news-toggle { grid-area: 1 / 1; }
+    > .news-toggle {
+      align-self: end;
+      justify-self: end;
+      margin: 0 14px 3px 0;
+    }
+    .news-row--last-visible { padding-right: 155px; }
+  }
+  .news-empty { margin: 0; padding: 14px; color: #65717c; font-size: 13px; }
+  .news-empty[hidden] { display: none; }
   .news-date {
     padding-right: 12px;
     border-right: 1px solid #dce3e9;
     color: #365670;
+    font-family: Georgia, "Times New Roman", serif;
     font-size: 13.5px;
     font-weight: 700;
     font-variant-numeric: tabular-nums;
@@ -492,20 +551,30 @@ html {
     a:hover { color: var(--heading); text-decoration-color: currentColor; }
   }
 
-  .publications-content {
-    margin-bottom: 22px;
-    color: #344653;
-
+  .academic-content .publications-heading {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 4px 20px;
+    margin: 20px 0 10px;
+    > h1 { margin: 0; }
     .publication-legend {
       display: flex;
       flex-wrap: wrap;
       gap: 4px 20px;
-      margin: 0 0 12px;
+      margin: 0;
       color: #53616e;
       font-size: 12px;
       line-height: 1.5;
       b { color: #a24438; }
     }
+  }
+
+  .publications-content {
+    margin-bottom: 22px;
+    color: #344653;
+
     .publication-group + .publication-group { margin-top: 20px; }
     .publication-group-header {
       display: flex;
@@ -527,7 +596,10 @@ html {
     }
     .publication-scholar {
       color: #526978;
-      font-size: 11.5px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 12.5px;
+      font-style: italic;
+      font-weight: 400;
       text-decoration: none;
       &:hover { color: #234e70; text-decoration: underline; text-underline-offset: 3px; }
     }
@@ -761,58 +833,108 @@ html {
       padding: 3px 0;
       border-bottom: 1px solid #e9edf1;
       line-height: 1.35;
+      &::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        bottom: -1px;
+        right: 46px;
+        width: 1px;
+        background: #dfe7ed;
+        pointer-events: none;
+      }
+      &:first-child::after { top: 50%; }
+      &:last-child::after { bottom: 50%; }
       &:last-child { border-bottom: 0; }
     }
     .record-icon { margin-top: 4px; color: #6b8091; font-size: 12px; text-align: center; line-height: 1; }
-    .record-details { min-width: 0; padding-right: 60px; }
-    .c-name { color: #283c4b; font-family: Georgia, "Times New Roman", serif; font-size: 14px; font-weight: 400; }
+    .record-details {
+      min-width: 0;
+      width: fit-content;
+      max-width: 100%;
+      box-sizing: border-box;
+      padding-right: 62px;
+    }
+    .c-name { color: #283c4b; font-family: Georgia, "Times New Roman", serif; font-size: 14px; font-weight: 400; line-height: 1.35; }
     .c-name br { display: none; }
     .c-name .sub { color: var(--cv-muted); font-weight: 400; }
     .record-meta {
       display: flex;
       flex-wrap: wrap;
       align-items: center;
-      gap: 2px 9px;
-      margin-top: 0;
+      gap: 3px 16px;
+      margin-top: 1px;
       color: #526775;
+      font-family: "Trebuchet MS", Helvetica, sans-serif;
       font-size: 11.5px;
-      line-height: 1.3;
+      line-height: 1.1;
     }
     .c-tier, .c-amt {
-      padding: 0 5px;
-      border: 1px solid #dce5ec;
-      border-radius: 2px;
-      background: #f3f6f8;
+      display: inline-flex;
+      align-items: baseline;
+      min-height: 14.65px;
       color: #315570;
-      font-size: 11px;
-      font-weight: 700;
-      line-height: 1.2;
       white-space: nowrap;
     }
+    .c-tier {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 12px;
+      font-weight: 700;
+    }
+    .c-amt {
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+      font-size: 11.5px;
+      font-weight: 500;
+    }
     .c-amt, .c-yr { font-variant-numeric: tabular-nums; }
-    .c-role { white-space: nowrap; }
-    .c-role .lead { color: #365670; }
+    .c-role {
+      display: inline-flex;
+      align-items: baseline;
+      margin-left: auto;
+      padding-left: 16px;
+      border-left: 1px solid #d9e2e9;
+      color: #526775;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 12px;
+      font-style: italic;
+      font-weight: 400;
+      line-height: 1.1;
+      white-space: nowrap;
+    }
+    .c-role .lead { color: inherit; font-weight: 400; }
     .c-yr {
       position: absolute;
+      z-index: 1;
       top: 50%;
       right: 0;
       transform: translateY(-50%);
-      box-sizing: border-box;
+      display: inline-flex;
+      align-items: center;
+      justify-content: flex-end;
       width: 46px;
-      flex: 0 0 46px;
-      padding: 2px 6px;
-      border: 1px solid #dce5ec;
-      border-left: 2px solid #8198aa;
-      border-radius: 2px;
-      background: #f1f5f8;
-      color: #365670;
-      font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
-      font-size: 11px;
-      font-weight: 500;
+      color: #3f596e;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 14px;
+      font-weight: 400;
+      font-variant-numeric: lining-nums tabular-nums;
       line-height: 1.35;
-      letter-spacing: .04em;
-      text-align: center;
+      letter-spacing: .02em;
+      text-align: right;
       white-space: nowrap;
+      &::before {
+        content: "";
+        position: absolute;
+        z-index: 1;
+        top: 50%;
+        left: -.5px;
+        transform: translate(-50%, -50%);
+        width: 5px;
+        height: 5px;
+        box-sizing: border-box;
+        border: 1px solid #94a9b9;
+        border-radius: 50%;
+        background: #fff;
+      }
     }
   }
 
@@ -1009,10 +1131,12 @@ html {
   .activity-date {
     position: relative;
     padding: 9px 12px 9px 0;
-    color: #365670;
+    color: #3f596e;
+    font-family: Georgia, "Times New Roman", serif;
     font-size: 11.5px;
-    font-weight: 700;
-    font-variant-numeric: tabular-nums;
+    font-weight: 400;
+    font-variant-numeric: lining-nums tabular-nums;
+    letter-spacing: .02em;
     white-space: nowrap;
     &:after {
       content: "";
@@ -1323,6 +1447,12 @@ html {
     .internship-details { padding: 0 0 8px; }
     .internship-row:last-child .internship-details { padding-bottom: 0; }
     .news-list { padding: 0 12px; }
+    .news-toggle { max-width: calc(100% - 24px); margin-right: 12px; }
+    .news-panel--inline-toggle {
+      display: block;
+      .news-row--last-visible { padding-right: 0; }
+      > .news-toggle { margin: 0 12px 4px auto; }
+    }
     .news-row { grid-template-columns: minmax(0, 1fr); gap: 2px; padding: 6px 0; }
     .news-date { padding: 0; border: 0; }
     .news-body { grid-template-columns: 22px minmax(0, 1fr); column-gap: 6px; }
@@ -1355,12 +1485,17 @@ html {
     .honors-panel .cell { grid-template-columns: 51px minmax(0, 1fr); gap: 9px; padding: 7px 6px 7px 0; }
     .aw-tbl, .fund-tbl {
       padding: 0 10px;
-      .cv-record { grid-template-columns: 12px minmax(0, 1fr); gap: 8px; padding: 5px 0; }
-      .record-icon { font-size: 12px; }
-      .record-details { padding-right: 0; }
-      .c-name { font-size: 14px; }
-      .record-meta { font-size: 11.5px; }
-      .c-yr { position: static; top: auto; right: auto; transform: none; padding-top: 0; padding-bottom: 0; }
+      .cv-record { grid-template-columns: 12px minmax(0, 1fr); gap: 8px; }
+      .record-details { padding-right: 58px; }
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .academic-home {
+    .aw-tbl, .fund-tbl {
+      .record-meta { column-gap: 12px; }
+      .c-role { padding-left: 0; border-left: 0; }
     }
   }
 }
@@ -1376,6 +1511,7 @@ html {
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   .academic-home .page__content .competition__image { transition: none; }
+  .academic-home .news-toggle__icon { transition: none; }
 }
 
 @media print {

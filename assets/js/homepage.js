@@ -1,4 +1,4 @@
-/* Navigation and optional visitor/GitHub/citation counts; content also works without JS. */
+/* Navigation, News disclosure and optional counts; content also works without JS. */
 (function () {
   "use strict";
 
@@ -77,6 +77,67 @@
       visitorSource.appendChild(visitorScript);
     }
   }
+
+  function setupNewsDisclosure() {
+    var panel = document.querySelector(".news-panel");
+    if (!panel) return;
+    var toggle = panel.querySelector(".news-toggle");
+    var label = panel.querySelector(".news-toggle__label");
+    var empty = panel.querySelector(".news-empty");
+    if (!toggle || !label || !empty) return;
+
+    var now = new Date();
+    var today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    // Subtract calendar months, clamping month-end dates (e.g. Aug 31 -> Feb 28).
+    var cutoff = new Date(today.getFullYear(), today.getMonth() - 6, 1);
+    var lastDay = new Date(cutoff.getFullYear(), cutoff.getMonth() + 1, 0).getDate();
+    cutoff.setDate(Math.min(today.getDate(), lastDay));
+    var year = today.getFullYear();
+    var entries = Array.from(panel.querySelectorAll(".news-row")).map(function (row) {
+      var time = row.querySelector("time[datetime]");
+      var parts = time && /^(\d{4})-(\d{2})-(\d{2})$/.exec(time.getAttribute("datetime"));
+      var date = parts ? new Date(Number(parts[1]), Number(parts[2]) - 1, Number(parts[3])) : null;
+      if (date && (date.getFullYear() !== Number(parts[1])
+        || date.getMonth() !== Number(parts[2]) - 1 || date.getDate() !== Number(parts[3]))) date = null;
+      return { row: row, date: date };
+    });
+    var hasEarlierNews = entries.some(function (entry) {
+      return entry.date && entry.date.getFullYear() === year && entry.date < cutoff;
+    });
+    var expanded = false;
+
+    function renderNews() {
+      var lastVisible = null;
+      entries.forEach(function (entry) {
+        // Retain undated entries rather than silently discarding their content.
+        var visible = !entry.date || (entry.date <= today
+          && (entry.date >= cutoff || (expanded && entry.date.getFullYear() === year)));
+        entry.row.hidden = !visible;
+        entry.row.classList.remove("news-row--last-visible");
+        if (visible) lastVisible = entry.row;
+      });
+      if (lastVisible) lastVisible.classList.add("news-row--last-visible");
+      panel.classList.toggle("news-panel--inline-toggle", hasEarlierNews && Boolean(lastVisible));
+      empty.hidden = Boolean(lastVisible);
+      toggle.hidden = !hasEarlierNews;
+      toggle.setAttribute("aria-expanded", String(expanded));
+      label.textContent = expanded ? "Show recent 6 months" : "Show all " + year + " news";
+    }
+
+    toggle.addEventListener("click", function () {
+      expanded = !expanded;
+      renderNews();
+      // Keep the focused control in view when the older entries disappear.
+      var header = document.querySelector(".home-header");
+      var headerBottom = header ? header.getBoundingClientRect().bottom : 0;
+      if (!expanded && toggle.getBoundingClientRect().top < headerBottom) {
+        toggle.scrollIntoView({ block: "center" });
+      }
+    });
+    renderNews();
+  }
+
+  setupNewsDisclosure();
 
   var navLinks = Array.from(document.querySelectorAll(".home-wordmark, .home-nav a"));
   var sections = navLinks.map(function (link) {

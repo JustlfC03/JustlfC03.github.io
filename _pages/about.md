@@ -40,7 +40,8 @@ redirect_from:
 # 🔥 News
 {: #news}
 
-<ol class="news-list" markdown="0" aria-labelledby="news">
+<div class="news-panel" markdown="0">
+<ol class="news-list" id="news-items" aria-labelledby="news">
   <li class="news-row"><div class="news-date"><time datetime="2026-10-02">2026.10.02</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://www.embs.org/jbhi/">IEEE Journal of Biomedical and Health Informatics</a>!</span></div></li>
   <li class="news-row"><div class="news-date"><time datetime="2026-09-24">2026.09.24</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our three papers have been accepted by <a href="https://www3.cs.stonybrook.edu/~bibm2026/">BIBM 2026</a>!</span></div></li>
   <li class="news-row"><div class="news-date"><time datetime="2026-09-15">2026.09.15</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://advanced.onlinelibrary.wiley.com/journal/29439981">Advanced Intelligent Discovery</a>!</span></div></li>
@@ -61,6 +62,12 @@ redirect_from:
   <li class="news-row"><div class="news-date"><time datetime="2026-01-27">2026.01.27</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our two abstracts have been accepted by <a href="https://www.ismrm.org/workshops/2026/PrenatalMRI/">ISMRM Workshop on Unlocking the Potential of Prenatal MRI</a>!</span></div></li>
   <li class="news-row"><div class="news-date"><time datetime="2026-01-09">2026.01.09</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control">Biomedical Signal Processing and Control</a>!</span></div></li>
 </ol>
+<p class="news-empty" hidden>No updates in the past six months.</p>
+<button class="news-toggle" type="button" aria-expanded="false" aria-controls="news-items" hidden>
+  <span class="news-toggle__label">Show all news</span>
+  <svg class="news-toggle__icon" viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true" focusable="false"><path d="m4 6 4 4 4-4"/></svg>
+</button>
+</div>
 
 <!--
 - *2025.11.08*: 🎉🎉 Our paper has been accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)!
@@ -83,11 +90,12 @@ redirect_from:
 
 <span id="-publications" class="legacy-anchor" aria-hidden="true"></span>
 
-# 📝 Publications
-{: #publications}
+<div class="publications-heading" markdown="0">
+<h1 id="publications">📝 Publications</h1>
+<p class="publication-legend"><span><b>✝</b> co-first author</span><span><b>*</b> corresponding author</span></p>
+</div>
 
 <div class="publications-content" markdown="0">
-<p class="publication-legend"><span><b>✝</b> co-first author</span><span><b>*</b> corresponding author</span></p>
 
 <section class="publication-group" aria-labelledby="journal-papers">
   <div class="publication-group-header">
