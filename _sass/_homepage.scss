@@ -832,7 +832,7 @@ html {
     }
     .it { min-width: 0; color: #43515d; font-family: Georgia, "Times New Roman", serif; font-size: 14px; }
     .it b { color: #243747; font-weight: 700; }
-    .amt { display: block; margin-top: 1px; color: #526775; font-family: "Trebuchet MS", Helvetica, sans-serif; font-size: 11.5px; white-space: nowrap; }
+    .amt { display: block; margin-top: 1px; color: #526775; font-family: "Trebuchet MS", Helvetica, sans-serif; font-size: 12.5px; white-space: nowrap; }
   }
 
   .achievement-panel {
@@ -886,7 +886,7 @@ html {
       margin-top: 1px;
       color: #526775;
       font-family: "Trebuchet MS", Helvetica, sans-serif;
-      font-size: 11.5px;
+      font-size: 12.5px;
       line-height: 1.1;
     }
     .c-tier, .c-amt {
@@ -898,12 +898,12 @@ html {
     }
     .c-tier {
       font-family: Georgia, "Times New Roman", serif;
-      font-size: 12px;
+      font-size: 12.5px;
       font-weight: 700;
     }
     .c-amt {
       font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
-      font-size: 11.5px;
+      font-size: 12.5px;
       font-weight: 500;
     }
     .c-amt, .c-yr { font-variant-numeric: tabular-nums; }
@@ -915,7 +915,7 @@ html {
       border-left: 1px solid #d9e2e9;
       color: #526775;
       font-family: Georgia, "Times New Roman", serif;
-      font-size: 12px;
+      font-size: 12.5px;
       font-style: italic;
       font-weight: 400;
       line-height: 1.1;
@@ -997,7 +997,7 @@ html {
     display: grid;
     grid-template-columns: minmax(0, 1fr) auto;
     align-items: baseline;
-    gap: 4px 8px;
+    gap: 4px 4px;
     margin: 9px 2px 0;
   }
   .competition__title {
@@ -1020,13 +1020,13 @@ html {
     padding-right: 36px;
     color: #727986;
     font-family: inherit;
-    font-size: 11.5px;
+    font-size: 12.5px;
     line-height: 1.5;
   }
   .competition__rank {
     justify-self: end;
     color: #1763cf;
-    font-size: 11.5px;
+    font-size: 12.5px;
     font-weight: 600;
     line-height: 1.4;
     white-space: nowrap;
@@ -1037,7 +1037,7 @@ html {
     grid-row: 2;
     justify-self: end;
     color: #858c97;
-    font-size: 11.5px;
+    font-size: 12.5px;
     line-height: 1.5;
     font-variant-numeric: tabular-nums;
   }
@@ -1048,9 +1048,9 @@ html {
     .competition-gallery { gap: 18px 12px; margin-bottom: 18px; }
     .page__content .competition__image { padding: 5px; border-radius: 9px; }
     .competition__caption { gap: 3px 5px; margin-top: 7px; }
-    .competition__title { font-size: 12px; letter-spacing: -.15px; }
-    .competition__team, .competition__year { font-size: 10.5px; }
-    .competition__rank { font-size: 10px; }
+    .competition__title { font-size: 13px; letter-spacing: -.15px; }
+    .competition__team, .competition__year { font-size: 12.5px; }
+    .competition__rank { font-size: 12.5px; }
     .competition__rank > span { font-size: 9px; }
   }
 
