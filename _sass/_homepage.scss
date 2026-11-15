@@ -582,9 +582,10 @@ html {
       align-items: baseline;
       justify-content: space-between;
       gap: 4px 16px;
-      padding: 8px 0;
+      padding: 8px 8px 8px 14px;
       border-top: 2px solid #365670;
       border-bottom: 1px solid #dce3e9;
+      background: #f8fafc;
       h2 {
         margin: 0;
         color: #28465d;
@@ -620,7 +621,7 @@ html {
         background: #8ca2b2;
       }
     }
-    .publication-copy { min-width: 0; }
+    .publication-copy { grid-column: 1; grid-row: 1; min-width: 0; }
     .publication-title {
       margin: 0 0 3px;
       color: #213e55;
@@ -641,6 +642,7 @@ html {
       font-size: 12.5px;
       line-height: 1.55;
       overflow-wrap: break-word;
+      > span { white-space: nowrap; }
       sup { font-size: .78em; }
     }
     .publication-meta {
@@ -649,7 +651,7 @@ html {
       align-items: baseline;
       gap: 3px 9px;
       margin-top: 3px;
-      font-size: 12px;
+      font-size: 12.5px;
       line-height: 1.45;
     }
     .publication-venue {
@@ -663,7 +665,7 @@ html {
       border-radius: 2px;
       background: #f4f7fa;
       color: #315570;
-      font-size: 10.5px;
+      font-size: 12.5px;
       font-weight: 700;
       line-height: 1.5;
     }
@@ -671,29 +673,31 @@ html {
       padding-left: 9px;
       border-left: 1px solid #dbc6c0;
       color: #984236;
-      font-size: 11px;
+      font-size: 12.5px;
       font-weight: 700;
     }
     .publication-item--illustrated {
       display: grid;
-      grid-template-columns: 228px minmax(0, 1fr);
+      grid-template-columns: minmax(0, 1fr) 190px;
       align-items: start;
       gap: 18px;
-      padding-top: 12px;
-      padding-bottom: 12px;
-      &:before { top: 20px; }
     }
     .publication-figure {
       display: block;
+      grid-column: 2;
+      grid-row: 1;
       margin: 0;
       min-width: 0;
       border: 1px solid #dce3e9;
+      border-radius: 2px;
+      overflow: hidden;
       background: #fff;
+      > a { display: block; }
       img {
         display: block;
         width: 100%;
         max-width: 100%;
-        height: 108px;
+        height: 92px;
         margin: 0;
         padding: 5px;
         object-fit: contain;
@@ -705,37 +709,52 @@ html {
         border-top: 1px solid #e5eaee;
         background: #f4f7f9;
         color: #365670;
-        font-size: 10.5px;
+        font-size: 12.5px;
         font-weight: 700;
         line-height: 1.5;
         letter-spacing: .02em;
+        text-align: center;
       }
     }
     .publication-links {
       display: flex;
       flex-wrap: wrap;
       align-items: center;
-      gap: 6px 10px;
-      margin-top: 7px;
+      gap: 6px 8px;
+      margin-top: 3px;
       font-size: 11px;
       line-height: 20px;
       a { color: #315570; }
-      .publication-citations { text-decoration-color: #c2d0dc; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+      .publication-citations {
+        display: inline-flex;
+        font-size: 12.5px;
+        align-items: center;
+        box-sizing: border-box;
+        height: 20px;
+        padding: 0 6px;
+        border: 1px solid #d2d9df;
+        border-radius: 2px;
+        background: #fff;
+        line-height: 18px;
+        text-decoration: none;
+        white-space: nowrap;
+        &:hover { border-color: #8ca2b2; text-decoration: underline; text-underline-offset: 2px; }
+      }
       .publication-code { display: inline-flex; text-decoration: none; }
       img { display: block; width: auto; max-width: 100%; height: 20px; margin: 0; }
       a:hover img { box-shadow: none; }
     }
     @media (max-width: 800px) {
-      .publication-item--illustrated { grid-template-columns: 180px minmax(0, 1fr); gap: 14px; }
-      .publication-figure img { height: 95px; }
+      .publication-item--illustrated { grid-template-columns: minmax(0, 1fr) 160px; gap: 14px; }
+      .publication-figure img { height: 82px; }
     }
     @media (max-width: 600px) {
-      .publication-group-header { gap: 2px 12px; }
+      .publication-group-header { gap: 2px 12px; padding-left: 12px; }
       .publication-item { padding-left: 12px; }
       .publication-item--illustrated { grid-template-columns: minmax(0, 1fr); gap: 8px; }
       .publication-copy { grid-row: 1; }
-      .publication-figure { width: 210px; max-width: 100%; }
-      .publication-figure img { height: 100px; }
+      .publication-figure { grid-column: 1; grid-row: 2; width: 200px; max-width: 100%; margin-top: 0; }
+      .publication-figure img { height: 96px; }
     }
   }
 
