@@ -167,10 +167,6 @@ redirect_from:
 
 
   <li class="publication-item publication-item--illustrated">
-    <figure class="publication-figure">
-      <img src="images/AdaMM.png" alt="Illustration for No Modality Left Behind: Adapting to Missing Modalities via Knowledge Distillation for Brain Tumor Segmentation" loading="lazy">
-      <figcaption>MedIA 2026</figcaption>
-    </figure>
     <div class="publication-copy">
       <h3 class="publication-title"><a href="https://www.sciencedirect.com/science/article/pii/S1361841526001775">No Modality Left Behind: Adapting to Missing Modalities via Knowledge Distillation for Brain Tumor Segmentation</a></h3>
       <p class="publication-authors">Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Shuo Jiang, Guanyu Zhou, Yuanhan Wang, Feiwei Qin<sup>*</sup>, Changmiao Wang, Qiyuan Tian<sup>*</sup>.</p>
@@ -180,6 +176,10 @@ redirect_from:
         <a class="publication-code" href="https://github.com/Quanato607/AdaMM"><img src="https://img.shields.io/github/stars/Quanato607/AdaMM?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
       </div>
     </div>
+    <figure class="publication-figure">
+      <img src="images/AdaMM.png" alt="Illustration for No Modality Left Behind: Adapting to Missing Modalities via Knowledge Distillation for Brain Tumor Segmentation" loading="lazy">
+      <figcaption>MedIA 2026</figcaption>
+    </figure>
   </li>
 
   <li class="publication-item">
@@ -219,10 +219,6 @@ redirect_from:
 
 
   <li class="publication-item publication-item--illustrated">
-    <figure class="publication-figure">
-      <img src="images/SCKansformer.png" alt="Illustration for Sckansformer: Fine-grained classification of bone marrow cells via kansformer backbone and hierarchical attention mechanisms" loading="lazy">
-      <figcaption>IEEE JBHI 2024</figcaption>
-    </figure>
     <div class="publication-copy">
       <h3 class="publication-title"><a href="https://ieeexplore.ieee.org/abstract/document/10713291">Sckansformer: Fine-grained classification of bone marrow cells via kansformer backbone and hierarchical attention mechanisms</a></h3>
       <p class="publication-authors"><span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhu Zhu<sup>✝, *</sup>, Shenghao Zhu, Linwei Qiu, Binfeng Zou, Fan Jia, Yunpeng Zhu, Chenyan Zhang, Zhaojie Fang, Feiwei Qin<sup>*</sup>, Jin Fan, Changmiao Wang, Gang Yu, Yu Gao.</p>
@@ -232,13 +228,13 @@ redirect_from:
         <a class="publication-code" href="https://github.com/JustlfC03/SCKansformer"><img src="https://img.shields.io/github/stars/JustlfC03/SCKansformer?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
       </div>
     </div>
+    <figure class="publication-figure">
+      <img src="images/SCKansformer.png" alt="Illustration for Sckansformer: Fine-grained classification of bone marrow cells via kansformer backbone and hierarchical attention mechanisms" loading="lazy">
+      <figcaption>IEEE JBHI 2024</figcaption>
+    </figure>
   </li>
 
   <li class="publication-item publication-item--illustrated">
-    <figure class="publication-figure">
-      <img src="images/MFDS-DETR.png" alt="Illustration for Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases" loading="lazy">
-      <figcaption>CIBM 2024</figcaption>
-    </figure>
     <div class="publication-copy">
       <h3 class="publication-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482524000015">Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases</a></h3>
       <p class="publication-authors"><span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>*</sup>, Yong Peng, Yu Gao.</p>
@@ -248,6 +244,10 @@ redirect_from:
         <a class="publication-code" href="https://github.com/JustlfC03/MFDS-DETR"><img src="https://img.shields.io/github/stars/JustlfC03/MFDS-DETR?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
       </div>
     </div>
+    <figure class="publication-figure">
+      <img src="images/MFDS-DETR.png" alt="Illustration for Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases" loading="lazy">
+      <figcaption>CIBM 2024</figcaption>
+    </figure>
   </li>
 
 </ol>
@@ -309,12 +309,6 @@ redirect_from:
   </li>
 
   <li class="publication-item publication-item--illustrated" id="gleve">
-    <figure class="publication-figure">
-      <a href="images/GLeVE.png" target="_blank" rel="noopener noreferrer" aria-label="View the full-size GLeVE model diagram (opens in a new tab)">
-        <img src="images/GLeVE.png" alt="GLeVE model architecture: lesion query encoding, anatomy-prior proposal and verification, and octree refinement for lesion grounding in 3D CT" width="5488" height="2188" loading="lazy">
-      </a>
-      <figcaption>MICCAI 2026</figcaption>
-    </figure>
     <div class="publication-copy">
       <h3 class="publication-title"><a href="https://papers.miccai.org/miccai-2026/0430-Paper2407.html">GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT</a></h3>
       <p class="publication-authors">Shuo Jiang<sup>✝</sup>, Yuhao Hong<sup>✝</sup>, Chunbo Jiang, Weihong Chen, Huangwei Chen, Shenghao Zhu, Beining Wu, Mingxuan Liu, Zhu Zhu, Feiwei Qin<sup>*</sup>, Min Tan, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>*</sup></span>.</p>
@@ -324,6 +318,12 @@ redirect_from:
         <a class="publication-code" href="https://github.com/JSLiam94/GLeVE/"><img src="https://img.shields.io/github/stars/JSLiam94/GLeVE?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
       </div>
     </div>
+    <figure class="publication-figure">
+      <a href="images/GLeVE.png" target="_blank" rel="noopener noreferrer" aria-label="View the full-size GLeVE model diagram (opens in a new tab)">
+        <img src="images/GLeVE.png" alt="GLeVE model architecture: lesion query encoding, anatomy-prior proposal and verification, and octree refinement for lesion grounding in 3D CT" width="5488" height="2188" loading="lazy">
+      </a>
+      <figcaption>MICCAI 2026</figcaption>
+    </figure>
   </li>
 
   <li class="publication-item">
@@ -359,10 +359,6 @@ redirect_from:
   </li>
 
   <li class="publication-item publication-item--illustrated">
-    <figure class="publication-figure">
-      <img src="images/MST-KDNet.png" alt="Illustration for Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation" loading="lazy">
-      <figcaption>MICCAI 2025</figcaption>
-    </figure>
     <div class="publication-copy">
       <h3 class="publication-title"><a href="https://link.springer.com/chapter/10.1007/978-3-032-04984-1_10">Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation</a></h3>
       <p class="publication-authors">Shenghao Zhu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Weihong Chen, Yuanhan Wang, Chang Liu, Shuo Jiang, Feiwei Qin<sup>*</sup>, Changmiao Wang<sup>*</sup>.</p>
@@ -372,6 +368,10 @@ redirect_from:
         <a class="publication-code" href="https://github.com/Quanato607/MST-KDNet"><img src="https://img.shields.io/github/stars/Quanato607/MST-KDNet?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
       </div>
     </div>
+    <figure class="publication-figure">
+      <img src="images/MST-KDNet.png" alt="Illustration for Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation" loading="lazy">
+      <figcaption>MICCAI 2025</figcaption>
+    </figure>
   </li>
 
   <li class="publication-item">
@@ -399,10 +399,6 @@ redirect_from:
   </li>
 
   <li class="publication-item publication-item--illustrated">
-    <figure class="publication-figure">
-      <img src="images/SCUNet++.png" alt="Illustration for SCUNet++: Swin-UNet and CNN Bottleneck Hybrid Architecture with Multi-Fusion Dense Skip Connection for Pulmonary Embolism CT Image Segmentation" loading="lazy">
-      <figcaption>WACV 2024</figcaption>
-    </figure>
     <div class="publication-copy">
       <h3 class="publication-title"><a href="https://openaccess.thecvf.com/content/WACV2024/html/Chen_SCUNet_Swin-UNet_and_CNN_Bottleneck_Hybrid_Architecture_With_Multi-Fusion_Dense_WACV_2024_paper.html">SCUNet++: Swin-UNet and CNN Bottleneck Hybrid Architecture with Multi-Fusion Dense Skip Connection for Pulmonary Embolism CT Image Segmentation</a></h3>
       <p class="publication-authors"><span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Binfeng Zou, Zhaoxin Guo, Yiyu Huang, Yifan Huang, Feiwei Qin<sup>*</sup>, Qinhai Li, Changmiao Wang<sup>*</sup>.</p>
@@ -412,6 +408,10 @@ redirect_from:
         <a class="publication-code" href="https://github.com/JustlfC03/SCUNet-plusplus"><img src="https://img.shields.io/github/stars/JustlfC03/SCUNet-plusplus?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
       </div>
     </div>
+    <figure class="publication-figure">
+      <img src="images/SCUNet++.png" alt="Illustration for SCUNet++: Swin-UNet and CNN Bottleneck Hybrid Architecture with Multi-Fusion Dense Skip Connection for Pulmonary Embolism CT Image Segmentation" loading="lazy">
+      <figcaption>WACV 2024</figcaption>
+    </figure>
   </li>
 
   <li class="publication-item">
