@@ -4,6 +4,36 @@
 
   var script = document.currentScript;
 
+  // Keep Shields' artwork and live counts with a consistent badge typeface.
+  // Local SVG snapshots remain visible if a remote update cannot be loaded.
+  function refreshBadge(image, url) {
+    if (!/^https:\/\/img\.shields\.io\//.test(url || "")) return Promise.resolve(false);
+    var request = (image.badgeRequest || 0) + 1;
+    image.badgeRequest = request;
+    return fetch(url).then(function (response) {
+      if (!response.ok) throw new Error("Badge unavailable");
+      return response.text();
+    }).then(function (svg) {
+      // Error badges contain status text rather than a numeric count.
+      if (!/^\s*<svg\b[^>]*xmlns=["']http:\/\/www\.w3\.org\/2000\/svg["'][\s\S]*<\/svg>\s*$/.test(svg)
+        || !/<text\b[^>]*>\s*\d[\d,.]*[kmbt]?\s*<\/text>/i.test(svg)
+        || !/\bfont-family\s*=/.test(svg)) return false;
+      svg = svg.replace(/\bfont-family\s*=\s*(["'])[\s\S]*?\1/gi,
+        'font-family="Helvetica Neue, Helvetica, Arial, sans-serif"')
+        .replace(/\s+textLength\s*=\s*(["'])[\s\S]*?\1/gi, "");
+      var isSocial = /[?&]style=social(?:&|$)/.test(url);
+      svg = svg.replace(/<text\b([^>]*)>([\s\S]*?)<\/text>/gi, function (text, attributes, value) {
+        var weight = isSocial ? "700" : (/^\s*\d[\d,.]*[kmbt]?\s*$/i.test(value) ? "600" : "400");
+        attributes = attributes.replace(/\s+font-weight\s*=\s*(["'])[\s\S]*?\1/gi, "");
+        return "<text" + attributes + ' font-weight="' + weight + '">' + value + "</text>";
+      });
+      if (request !== image.badgeRequest) return false;
+      image.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svg);
+      image.setAttribute("data-badge-source", url);
+      return true;
+    }).catch(function () { return false; });
+  }
+
   // The built-in snapshot works without JavaScript. Published pages refresh
   // from the scheduled public aggregate, without exposing a token to visitors.
   var starsBadge = document.querySelector(".profile-github-stars");
@@ -14,6 +44,7 @@
       if (!response.ok) throw new Error("GitHub star data unavailable");
       return response.json();
     }).then(function (data) {
+      if (!data || typeof data !== "object") return;
       var username = starsBadge.getAttribute("data-github-user");
       var updated = Date.parse(data.updated_at);
       var snapshotDate = Date.parse(starsBadge.getAttribute("data-updated-at"));
@@ -24,15 +55,25 @@
         }) || data.total_stars !== data.owned_stars + data.contributed_stars
         || !Number.isFinite(updated) || updated < snapshotDate) return;
       var count = data.total_stars.toLocaleString("en-US");
-      starsBadge.src = "https://img.shields.io/badge/Stars-" + encodeURIComponent(count)
+      var badgeUrl = "https://img.shields.io/badge/Stars-" + encodeURIComponent(count)
         + "-234e70?style=flat&logo=github&logoColor=234e70&labelColor=e4edf4";
-      starsBadge.alt = "GitHub stars across owned and contributed public repositories: " + count;
-      starsBadge.title = data.owned_stars.toLocaleString("en-US") + " owned + "
-        + data.contributed_stars.toLocaleString("en-US")
-        + " contributed · Each repository counted once · Updated " + data.updated_at;
-      starsBadge.setAttribute("data-updated-at", data.updated_at);
+      return refreshBadge(starsBadge, badgeUrl).then(function (refreshed) {
+        if (!refreshed) return;
+        starsBadge.alt = "GitHub stars across owned and contributed public repositories: " + count;
+        starsBadge.title = data.owned_stars.toLocaleString("en-US") + " owned + "
+          + data.contributed_stars.toLocaleString("en-US")
+          + " contributed · Each repository counted once · Updated " + data.updated_at;
+        starsBadge.setAttribute("data-updated-at", data.updated_at);
+      });
     }).catch(function () {
       // Retain the last verified total if the scheduled data is unavailable.
+    });
+  }
+
+  if (window.fetch && !isLocalPreview) {
+    document.querySelectorAll("img[data-badge-source]").forEach(function (image) {
+      // The aggregate above owns this badge, avoiding a competing stale request.
+      if (image !== starsBadge) refreshBadge(image, image.getAttribute("data-badge-source"));
     });
   }
 

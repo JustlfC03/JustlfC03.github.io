@@ -100,7 +100,7 @@ redirect_from:
 <section class="publication-group" aria-labelledby="journal-papers">
   <div class="publication-group-header">
     <h2 id="journal-papers">Selected Journal Papers</h2>
-    <a class="publication-scholar" href="https://scholar.google.com/citations?user=QpOCKMwAAAAJ&amp;hl=zh-CN">Full list is available in Google Scholar <span aria-hidden="true">↗</span></a>
+    <a class="publication-scholar" href="https://scholar.google.com/citations?user=QpOCKMwAAAAJ&amp;hl=zh-CN">Full list is available on Google Scholar <span aria-hidden="true">↗</span></a>
   </div>
   <ol class="publication-list" role="list">
 
@@ -173,7 +173,7 @@ redirect_from:
       <div class="publication-meta"><span class="publication-venue">Medical Image Analysis 2026.</span></div>
       <div class="publication-links">
         <a class="publication-citations" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=QpOCKMwAAAAJ&amp;citation_for_view=QpOCKMwAAAAJ:kNdYIx-mwKoC"><span class="show_paper_citations" data="QpOCKMwAAAAJ:kNdYIx-mwKoC">Citations</span></a>
-        <a class="publication-code" href="https://github.com/Quanato607/AdaMM"><img src="https://img.shields.io/github/stars/Quanato607/AdaMM?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
+        <a class="publication-code" href="https://github.com/Quanato607/AdaMM"><img src="{{ '/assets/badges/code-stars-adamm.svg' | relative_url }}" data-badge-source="https://img.shields.io/github/stars/Quanato607/AdaMM?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
       </div>
     </div>
     <figure class="publication-figure">
@@ -192,9 +192,9 @@ redirect_from:
 
   <li class="publication-item">
     <div class="publication-copy">
-      <h3 class="publication-title"><a href="https://ieeexplore.ieee.org/abstract/document/11223166">Tc-kanrecon: High-quality and accelerated mri reconstruction via adaptive kan mechanisms and intelligent feature scaling</a>.</h3>
+      <h3 class="publication-title"><a href="https://ieeexplore.ieee.org/abstract/document/11223166">TC-KANRecon: High-quality and accelerated MRI reconstruction via adaptive KAN mechanisms and intelligent feature scaling</a>.</h3>
       <p class="publication-authors">Ruiquan Ge, Xiao Yu, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Fan Jia, Shenghao Zhu, Dong Zeng, Changmiao Wang, Qiegen Liu<sup>*</sup>, Shanzhou Niu<sup>*</sup>.</p>
-      <div class="publication-meta"><span class="publication-venue">IEEE Journal of Biomedical and Health Informatics 2025.</span></div>
+      <div class="publication-meta"><span class="publication-venue">IEEE Journal of Biomedical and Health Informatics 2026.</span></div>
     </div>
   </li>
 
@@ -220,17 +220,17 @@ redirect_from:
 
   <li class="publication-item publication-item--illustrated">
     <div class="publication-copy">
-      <h3 class="publication-title"><a href="https://ieeexplore.ieee.org/abstract/document/10713291">Sckansformer: Fine-grained classification of bone marrow cells via kansformer backbone and hierarchical attention mechanisms</a></h3>
+      <h3 class="publication-title"><a href="https://ieeexplore.ieee.org/abstract/document/10713291">SCKansformer: Fine-grained classification of bone marrow cells via Kansformer backbone and hierarchical attention mechanisms</a></h3>
       <p class="publication-authors"><span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Zhu Zhu<sup>✝, *</sup>, Shenghao Zhu, Linwei Qiu, Binfeng Zou, Fan Jia, Yunpeng Zhu, Chenyan Zhang, Zhaojie Fang, Feiwei Qin<sup>*</sup>, Jin Fan, Changmiao Wang, Gang Yu, Yu Gao.</p>
       <div class="publication-meta"><span class="publication-venue">IEEE Journal of Biomedical and Health Informatics 2025.</span><span class="publication-recognition">ESI Hot Paper</span></div>
       <div class="publication-links">
         <a class="publication-citations" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=QpOCKMwAAAAJ&amp;citation_for_view=QpOCKMwAAAAJ:d1gkVwhDpl0C"><span class="show_paper_citations" data="QpOCKMwAAAAJ:d1gkVwhDpl0C">Citations</span></a>
-        <a class="publication-code" href="https://github.com/JustlfC03/SCKansformer"><img src="https://img.shields.io/github/stars/JustlfC03/SCKansformer?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
+        <a class="publication-code" href="https://github.com/JustlfC03/SCKansformer"><img src="{{ '/assets/badges/code-stars-sckansformer.svg' | relative_url }}" data-badge-source="https://img.shields.io/github/stars/JustlfC03/SCKansformer?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
       </div>
     </div>
     <figure class="publication-figure">
-      <img src="images/SCKansformer.png" alt="Illustration for Sckansformer: Fine-grained classification of bone marrow cells via kansformer backbone and hierarchical attention mechanisms" loading="lazy">
-      <figcaption>IEEE JBHI 2024</figcaption>
+      <img src="images/SCKansformer.png" alt="Illustration for SCKansformer: Fine-grained classification of bone marrow cells via Kansformer backbone and hierarchical attention mechanisms" loading="lazy">
+      <figcaption>IEEE JBHI 2025</figcaption>
     </figure>
   </li>
 
@@ -241,7 +241,7 @@ redirect_from:
       <div class="publication-meta"><span class="publication-venue">Computers in Biology and Medicine 2024.</span><span class="publication-recognition">ESI Hot Paper &amp; ESI Highly Cited Paper</span></div>
       <div class="publication-links">
         <a class="publication-citations" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=QpOCKMwAAAAJ&amp;citation_for_view=QpOCKMwAAAAJ:u5HHmVD_uO8C"><span class="show_paper_citations" data="QpOCKMwAAAAJ:u5HHmVD_uO8C">Citations</span></a>
-        <a class="publication-code" href="https://github.com/JustlfC03/MFDS-DETR"><img src="https://img.shields.io/github/stars/JustlfC03/MFDS-DETR?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
+        <a class="publication-code" href="https://github.com/JustlfC03/MFDS-DETR"><img src="{{ '/assets/badges/code-stars-mfds-detr.svg' | relative_url }}" data-badge-source="https://img.shields.io/github/stars/JustlfC03/MFDS-DETR?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
       </div>
     </div>
     <figure class="publication-figure">
@@ -256,7 +256,7 @@ redirect_from:
 <section class="publication-group" aria-labelledby="conference-papers">
   <div class="publication-group-header">
     <h2 id="conference-papers">Selected Conference Papers</h2>
-    <a class="publication-scholar" href="https://scholar.google.com/citations?user=QpOCKMwAAAAJ&amp;hl=zh-CN">Full list is available in Google Scholar <span aria-hidden="true">↗</span></a>
+    <a class="publication-scholar" href="https://scholar.google.com/citations?user=QpOCKMwAAAAJ&amp;hl=zh-CN">Full list is available on Google Scholar <span aria-hidden="true">↗</span></a>
   </div>
   <ol class="publication-list" role="list">
 
@@ -272,7 +272,7 @@ redirect_from:
     <div class="publication-copy">
       <h3 class="publication-title"><a href="https://justlfc03.github.io/">MAG-ADNet: A Modality-Adversarial Gated Network for Alzheimer's Disease Diagnosis</a>.</h3>
       <p class="publication-authors">Weihong Chen<sup>✝</sup>, Beining Wu<sup>✝</sup>, Qianhan Weng, Liaonan Xu, Feiwei Qin<sup>*</sup>, Jin Fan, Yong Peng, Wanzhen Wu, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>*</sup></span>.</p>
-      <div class="publication-meta"><span class="publication-venue">BIBM short paper 2026.</span><span class="publication-distinction">Oral</span></div>
+      <div class="publication-meta"><span class="publication-venue">BIBM 2026 (Short Paper).</span><span class="publication-distinction">Oral</span></div>
     </div>
   </li>
 
@@ -315,7 +315,7 @@ redirect_from:
       <div class="publication-meta"><span class="publication-venue">MICCAI 2026.</span><span class="publication-recognition">Best Paper Award Nominee</span><span class="publication-recognition">Shortlist (Top 0.5%)</span></div>
       <div class="publication-links">
         <a class="publication-citations" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=QpOCKMwAAAAJ&amp;sortby=pubdate&amp;citation_for_view=QpOCKMwAAAAJ:hC7cP41nSMkC"><span class="show_paper_citations" data="QpOCKMwAAAAJ:hC7cP41nSMkC">Citations</span></a>
-        <a class="publication-code" href="https://github.com/JSLiam94/GLeVE/"><img src="https://img.shields.io/github/stars/JSLiam94/GLeVE?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
+        <a class="publication-code" href="https://github.com/JSLiam94/GLeVE/"><img src="{{ '/assets/badges/code-stars-gleve.svg' | relative_url }}" data-badge-source="https://img.shields.io/github/stars/JSLiam94/GLeVE?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
       </div>
     </div>
     <figure class="publication-figure">
@@ -352,7 +352,7 @@ redirect_from:
 
   <li class="publication-item">
     <div class="publication-copy">
-      <h3 class="publication-title"><a href="https://link.springer.com/chapter/10.1007/978-3-032-05997-0_11">FetalExtract-LLM: Structured Information Extraction from Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models</a>.</h3>
+      <h3 class="publication-title"><a href="https://link.springer.com/chapter/10.1007/978-3-032-05997-0_11">FetalExtract-LLM: Structured Information Extraction from Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-Weights Large Language Models</a>.</h3>
       <p class="publication-authors">Mingxuan Liu<sup>✝</sup>, Yijin Li<sup>✝</sup>, Juncheng Zhu<sup>✝</sup>, Hongjia Yang, Yiming Huang, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian<sup>*</sup>.</p>
       <div class="publication-meta"><span class="publication-venue">MICCAI 2025 Workshop on Perinatal, Preterm and Paediatric Image Analysis.</span><span class="publication-distinction">Oral</span></div>
     </div>
@@ -365,7 +365,7 @@ redirect_from:
       <div class="publication-meta"><span class="publication-venue">MICCAI 2025.</span></div>
       <div class="publication-links">
         <a class="publication-citations" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=QpOCKMwAAAAJ&amp;citation_for_view=QpOCKMwAAAAJ:roLk4NBRz8UC"><span class="show_paper_citations" data="QpOCKMwAAAAJ:roLk4NBRz8UC">Citations</span></a>
-        <a class="publication-code" href="https://github.com/Quanato607/MST-KDNet"><img src="https://img.shields.io/github/stars/Quanato607/MST-KDNet?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
+        <a class="publication-code" href="https://github.com/Quanato607/MST-KDNet"><img src="{{ '/assets/badges/code-stars-mst-kdnet.svg' | relative_url }}" data-badge-source="https://img.shields.io/github/stars/Quanato607/MST-KDNet?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
       </div>
     </div>
     <figure class="publication-figure">
@@ -376,7 +376,7 @@ redirect_from:
 
   <li class="publication-item">
     <div class="publication-copy">
-      <h3 class="publication-title"><a href="https://openreview.net/forum?id=ns6nq592HX">Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest CT Using Weakly Supervised Deep Learning from Free-text Radiology Report</a>.</h3>
+      <h3 class="publication-title"><a href="https://openreview.net/forum?id=ns6nq592HX">Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest Computed Tomography Using Weakly Supervised Deep Learning from Free-text Radiology Report</a>.</h3>
       <p class="publication-authors">Xuguang Bai<sup>✝</sup>, Mingxuan Liu<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen</span>, Hongjia Yang, Qiyuan Tian<sup>*</sup>.</p>
       <div class="publication-meta"><span class="publication-venue">MIDL 2025.</span></div>
     </div>
@@ -405,7 +405,7 @@ redirect_from:
       <div class="publication-meta"><span class="publication-venue">WACV 2024.</span></div>
       <div class="publication-links">
         <a class="publication-citations" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=QpOCKMwAAAAJ&amp;citation_for_view=QpOCKMwAAAAJ:u-x6o8ySG0sC"><span class="show_paper_citations" data="QpOCKMwAAAAJ:u-x6o8ySG0sC">Citations</span></a>
-        <a class="publication-code" href="https://github.com/JustlfC03/SCUNet-plusplus"><img src="https://img.shields.io/github/stars/JustlfC03/SCUNet-plusplus?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
+        <a class="publication-code" href="https://github.com/JustlfC03/SCUNet-plusplus"><img src="{{ '/assets/badges/code-stars-scunet-plusplus.svg' | relative_url }}" data-badge-source="https://img.shields.io/github/stars/JustlfC03/SCUNet-plusplus?style=social&amp;label=Code+Stars" alt="Code Stars" height="20" loading="lazy"></a>
       </div>
     </div>
     <figure class="publication-figure">
@@ -468,28 +468,28 @@ redirect_from:
   <section class="honors-panel" aria-labelledby="honors-scholarships">
     <h2 class="cv-sub" id="honors-scholarships"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Scholarships</h2>
     <div class="cv-grid" tabindex="0" role="region" aria-labelledby="honors-scholarships">
-  <div class="cell"><span class="yr">2025&ndash;26</span><span class="it">Awarded <b>National Scholarship</b>. <span class="amt">(&yen; 20,000)</span></span></div>
-  <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Awarded <b>Tsinghua University College Scholarship</b>. <span class="amt">(&yen; 5,000)</span></span></div>
-  <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Awarded <b>Graduate Entrance Examination Scholarship</b>. <span class="amt">(&yen; 1,500)</span></span></div>
-  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Awarded <b>National Scholarship</b>. <span class="amt">(&yen; 8,000)</span></span></div>
-  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Awarded <b>University First-Class Scholarships</b> twice. <span class="amt">(&yen; 1,500)</span></span></div>
-  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Awarded <b>National Scholarship</b>. <span class="amt">(&yen; 8,000)</span></span></div>
-  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Awarded <b>University First-Class Scholarships</b> twice. <span class="amt">(&yen; 1,500)</span></span></div>
-  <div class="cell"><span class="yr">2021&ndash;22</span><span class="it">Awarded <b>Zhejiang Provincial Government Scholarship</b>. <span class="amt">(&yen; 6,000)</span></span></div>
-  <div class="cell"><span class="yr">2021&ndash;22</span><span class="it">Awarded <b>University First-Class Scholarships</b> twice. <span class="amt">(&yen; 1,500)</span></span></div>
+  <div class="cell"><span class="yr">2025&ndash;26</span><span class="it">Received the <b>National Scholarship</b>. <span class="amt">(&yen; 20,000)</span></span></div>
+  <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Received the <b>Tsinghua University College Scholarship</b>. <span class="amt">(&yen; 5,000)</span></span></div>
+  <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Received the <b>Graduate Entrance Examination Scholarship</b>. <span class="amt">(&yen; 1,500)</span></span></div>
+  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Received the <b>National Scholarship</b>. <span class="amt">(&yen; 8,000)</span></span></div>
+  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Received the <b>University First-Class Scholarship</b> twice. <span class="amt">(&yen; 1,500)</span></span></div>
+  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Received the <b>National Scholarship</b>. <span class="amt">(&yen; 8,000)</span></span></div>
+  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Received the <b>University First-Class Scholarship</b> twice. <span class="amt">(&yen; 1,500)</span></span></div>
+  <div class="cell"><span class="yr">2021&ndash;22</span><span class="it">Received the <b>Zhejiang Provincial Government Scholarship</b>. <span class="amt">(&yen; 6,000)</span></span></div>
+  <div class="cell"><span class="yr">2021&ndash;22</span><span class="it">Received the <b>University First-Class Scholarship</b> twice. <span class="amt">(&yen; 1,500)</span></span></div>
     </div>
   </section>
   <section class="honors-panel" aria-labelledby="honors-recognitions">
     <h2 class="cv-sub" id="honors-recognitions"><i class="fa fa-award" aria-hidden="true"></i>Recognitions</h2>
     <div class="cv-grid" tabindex="0" role="region" aria-labelledby="honors-recognitions">
-  <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Recognized as <b>Outstanding Graduate of Zhejiang Province</b>.</span></div>
-  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as <b>Star of Innovation</b> in the 5th &ldquo;Youth of HDU&rdquo; program.</span></div>
-  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Recognized as <b>Top 10 Outstanding Students</b> in the 6th &ldquo;Youth of HDU&rdquo; program.</span></div>
-  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as <b>Merit Student</b> at HDU.</span></div>
-  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Recognized as <b>Outstanding Student Cadre</b> at HDU.</span></div>
-  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as <b>Outstanding Student Cadre</b> at HDU.</span></div>
-  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as <b>Advanced Individual</b> at HDU.</span></div>
-  <div class="cell"><span class="yr">2021&ndash;22</span><span class="it">Recognized as <b>Outstanding Student Cadre</b> at HDU.</span></div>
+  <div class="cell"><span class="yr">2024&ndash;25</span><span class="it">Recognized as an <b>Outstanding Graduate of Zhejiang Province</b>.</span></div>
+  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as one of the <b>Stars of Innovation</b> in the 5th &ldquo;Youth of HDU&rdquo; program.</span></div>
+  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Recognized as one of the <b>Top 10 Outstanding Students</b> in the 6th &ldquo;Youth of HDU&rdquo; program.</span></div>
+  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as a <b>Merit Student</b> at HDU.</span></div>
+  <div class="cell"><span class="yr">2023&ndash;24</span><span class="it">Recognized as an <b>Outstanding Student Cadre</b> at HDU.</span></div>
+  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as an <b>Outstanding Student Cadre</b> at HDU.</span></div>
+  <div class="cell"><span class="yr">2022&ndash;23</span><span class="it">Recognized as an <b>Advanced Individual</b> at HDU.</span></div>
+  <div class="cell"><span class="yr">2021&ndash;22</span><span class="it">Recognized as an <b>Outstanding Student Cadre</b> at HDU.</span></div>
     </div>
   </section>
 </div>
@@ -551,7 +551,7 @@ redirect_from:
   <div class="cv-record" role="listitem">
     <span class="record-icon" aria-hidden="true"><i class="fa fa-trophy"></i></span>
     <div class="record-details">
-      <div class="c-name">National Biomedical Engineering Innovation Design Competition for College Student</div>
+      <div class="c-name">National Biomedical Engineering Innovation Design Competition for College Students</div>
       <div class="record-meta"><div class="c-tier"><span class="awtag">First Prize</span></div><div class="c-role"><span class="rtag">Key Member</span></div><div class="c-yr">2025</div></div>
     </div>
   </div>
@@ -668,7 +668,7 @@ redirect_from:
   <div class="sblock service-overview">
     <div class="slabel"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Teaching Assistantship</div>
     <ul class="service-list">
-      <li class="sbody">Medical Image Processing (Undergraduate Course), School of Biomedical Engineering, Tsinghua University, 2025, 2026.</li>
+      <li class="sbody">Medical Image Processing (Undergraduate Course), School of Biomedical Engineering, Tsinghua University, 2025 and 2026.</li>
     </ul>
   </div>
   <div class="sblock service-journals">
@@ -693,7 +693,7 @@ redirect_from:
   <li class="activity-row"><time class="activity-date" datetime="2026-07-10">2026.07.10</time><div class="activity-details"><a class="activity-title" href="https://www.mics-ai.com/MICS2026/index.html">2026 Medical Imaging Computing Seminar</a><a class="activity-location" href="https://www.google.com/maps/search/?api=1&amp;query=Beijing%2C%20China" target="_blank" rel="noopener noreferrer" aria-label="Beijing, China — view on Google Maps (opens in a new tab)" title="View Beijing, China on Google Maps"><svg class="location-pin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.5"/></svg><span class="location-text"><span class="location-city">Beijing</span><span class="location-country">, China</span></span><svg class="location-arrow" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 12 12 4M4 4h8v8"/></svg></a></div></li>
   <li class="activity-row"><time class="activity-date" datetime="2026-03-02">2026.03.02</time><div class="activity-details"><a class="activity-title" href="https://echo.ismrm.org/program/PRENATAL2026">2026 ISMRM Workshop on Unlocking the Potential of Prenatal MRI</a><a class="activity-location" href="https://www.google.com/maps/search/?api=1&amp;query=Washington%2C%20D.C.%2C%20USA" target="_blank" rel="noopener noreferrer" aria-label="Washington, D.C., USA — view on Google Maps (opens in a new tab)" title="View Washington, D.C., USA on Google Maps"><svg class="location-pin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.5"/></svg><span class="location-text"><span class="location-city">Washington, D.C.</span><span class="location-country">, USA</span></span><svg class="location-arrow" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 12 12 4M4 4h8v8"/></svg></a></div></li>
   <li class="activity-row"><time class="activity-date" datetime="2025-10-10">2025.10.10</time><div class="activity-details"><a class="activity-title" href="https://www.imagecomputing.org/isicdm2025/index.html">2025 International Symposium on Image Computing and Digital Medicine</a><a class="activity-location" href="https://www.google.com/maps/search/?api=1&amp;query=Beijing%2C%20China" target="_blank" rel="noopener noreferrer" aria-label="Beijing, China — view on Google Maps (opens in a new tab)" title="View Beijing, China on Google Maps"><svg class="location-pin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.5"/></svg><span class="location-text"><span class="location-city">Beijing</span><span class="location-country">, China</span></span><svg class="location-arrow" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 12 12 4M4 4h8v8"/></svg></a></div></li>
-  <li class="activity-row"><time class="activity-date" datetime="2025-09-23">2025.09.23</time><div class="activity-details"><a class="activity-title" href="https://conferences.miccai.org/2025/">2025 International Conference on Medical Image Computing and Computer Assisted Intervention</a><a class="activity-location" href="https://www.google.com/maps/search/?api=1&amp;query=Daejeon%2C%20South%20Korea" target="_blank" rel="noopener noreferrer" aria-label="Daejeon, Korea — view on Google Maps (opens in a new tab)" title="View Daejeon, Korea on Google Maps"><svg class="location-pin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.5"/></svg><span class="location-text"><span class="location-city">Daejeon</span><span class="location-country">, Korea</span></span><svg class="location-arrow" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 12 12 4M4 4h8v8"/></svg></a></div></li>
+  <li class="activity-row"><time class="activity-date" datetime="2025-09-23">2025.09.23</time><div class="activity-details"><a class="activity-title" href="https://conferences.miccai.org/2025/">2025 International Conference on Medical Image Computing and Computer Assisted Intervention</a><a class="activity-location" href="https://www.google.com/maps/search/?api=1&amp;query=Daejeon%2C%20South%20Korea" target="_blank" rel="noopener noreferrer" aria-label="Daejeon, South Korea — view on Google Maps (opens in a new tab)" title="View Daejeon, South Korea on Google Maps"><svg class="location-pin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.5"/></svg><span class="location-text"><span class="location-city">Daejeon</span><span class="location-country">, South Korea</span></span><svg class="location-arrow" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 12 12 4M4 4h8v8"/></svg></a></div></li>
   <li class="activity-row"><time class="activity-date" datetime="2025-09-09">2025.09.09</time><div class="activity-details"><a class="activity-title" href="https://www.maka.im/mk-viewer-8/longH5/1755198/6JPVEX1DW1755198?pre_hash=c01edd35e62ba691fad8e47a59147737">2025 Beijing Radiological Imaging Quality Control Conference</a><a class="activity-location" href="https://www.google.com/maps/search/?api=1&amp;query=Beijing%2C%20China" target="_blank" rel="noopener noreferrer" aria-label="Beijing, China — view on Google Maps (opens in a new tab)" title="View Beijing, China on Google Maps"><svg class="location-pin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.5"/></svg><span class="location-text"><span class="location-city">Beijing</span><span class="location-country">, China</span></span><svg class="location-arrow" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 12 12 4M4 4h8v8"/></svg></a></div></li>
   <li class="activity-row"><time class="activity-date" datetime="2025-07-18">2025.07.18</time><div class="activity-details"><a class="activity-title" href="https://www.mics-ai.com/wp-content/uploads/2025/04/MICS2025.html">2025 Medical Imaging Computing Seminar</a><a class="activity-location" href="https://www.google.com/maps/search/?api=1&amp;query=Cixi%2C%20Zhejiang%2C%20China" target="_blank" rel="noopener noreferrer" aria-label="Cixi, Zhejiang, China — view on Google Maps (opens in a new tab)" title="View Cixi, Zhejiang, China on Google Maps"><svg class="location-pin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.5"/></svg><span class="location-text"><span class="location-city">Cixi, Zhejiang</span><span class="location-country">, China</span></span><svg class="location-arrow" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 12 12 4M4 4h8v8"/></svg></a></div></li>
   <li class="activity-row"><time class="activity-date" datetime="2025-06-20">2025.06.20</time><div class="activity-details"><a class="activity-title" href="https://csbme2025.sciconf.cn/?from=csbme">2025 China Biomedical Engineering Conference &amp; Medical Innovation Summit</a><a class="activity-location" href="https://www.google.com/maps/search/?api=1&amp;query=Suzhou%2C%20Jiangsu%2C%20China" target="_blank" rel="noopener noreferrer" aria-label="Suzhou, Jiangsu, China — view on Google Maps (opens in a new tab)" title="View Suzhou, Jiangsu, China on Google Maps"><svg class="location-pin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.5"/></svg><span class="location-text"><span class="location-city">Suzhou, Jiangsu</span><span class="location-country">, China</span></span><svg class="location-arrow" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 12 12 4M4 4h8v8"/></svg></a></div></li>
