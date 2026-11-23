@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "username": "JustlfC03",
-  "updated_at": "2026-11-20T08:00:16Z",
-  "total_stars": 673,
-  "owned_stars": 375,
-  "contributed_stars": 298,
+  "updated_at": "2026-11-23T08:32:41Z",
+  "total_stars": 675,
+  "owned_stars": 376,
+  "contributed_stars": 299,
   "owned_repositories": 18,
   "contributed_repositories": 23,
   "repositories": [
@@ -68,7 +68,7 @@
       "id": 1269166194,
       "full_name": "JustlfC03/AnatoReCT",
       "url": "https://github.com/JustlfC03/AnatoReCT",
-      "stars": 2,
+      "stars": 3,
       "relationship": "owned"
     },
     {
@@ -236,7 +236,7 @@
       "id": 1092252708,
       "full_name": "wenjing-gg/MedSeg-TTA",
       "url": "https://github.com/wenjing-gg/MedSeg-TTA",
-      "stars": 24,
+      "stars": 25,
       "relationship": "contributed"
     },
     {
