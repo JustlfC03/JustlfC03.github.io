@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: false
-last_modified_at: "2026-11-03"
+last_modified_at: "2026-11-25"
 redirect_from: 
   - /about/
   - /about.html
@@ -42,6 +42,7 @@ redirect_from:
 
 <div class="news-panel" markdown="0">
 <ol class="news-list" id="news-items" aria-labelledby="news">
+  <li class="news-row"><div class="news-date"><time datetime="2026-11-25">2026.11.25</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://www.nature.com/npjdigitalmed/">npj Digital Medicine</a>!</span></div></li>
   <li class="news-row"><div class="news-date"><time datetime="2026-10-02">2026.10.02</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://www.embs.org/jbhi/">IEEE Journal of Biomedical and Health Informatics</a>!</span></div></li>
   <li class="news-row"><div class="news-date"><time datetime="2026-09-24">2026.09.24</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our three papers have been accepted by <a href="https://www3.cs.stonybrook.edu/~bibm2026/">BIBM 2026</a>!</span></div></li>
   <li class="news-row"><div class="news-date"><time datetime="2026-09-15">2026.09.15</time>:</div><div class="news-body"><span class="news-celebration">🎉🎉</span> <span class="news-update">Our paper has been accepted by <a href="https://advanced.onlinelibrary.wiley.com/journal/29439981">Advanced Intelligent Discovery</a>!</span></div></li>
@@ -103,6 +104,14 @@ redirect_from:
     <a class="publication-scholar" href="https://scholar.google.com/citations?user=QpOCKMwAAAAJ&amp;hl=zh-CN">Full list is available on Google Scholar <span aria-hidden="true">↗</span></a>
   </div>
   <ol class="publication-list" role="list">
+
+  <li class="publication-item">
+    <div class="publication-copy">
+      <h3 class="publication-title"><a href="https://arxiv.org/abs/2604.24146">EXACT: an explainable anomaly-aware vision foundation model for analysis of 3D chest CT</a>.</h3>
+      <p class="publication-authors">Xuguang Bai<sup>✝</sup>, Mingxuan Liu<sup>✝, *</sup>, Tongxi Song<sup>✝</sup>, <span style="color:#b02418; font-weight:bold;">Yifei Chen<sup>✝</sup></span>, Hongjia Yang, Kasidit Anmahapong, Zihan Li, Ying Zhou, Qiyuan Tian<sup>*</sup>.</p>
+      <div class="publication-meta"><span class="publication-venue">npj Digital Medicine 2026.</span></div>
+    </div>
+  </li>
 
   <li class="publication-item">
     <div class="publication-copy">
