@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "username": "JustlfC03",
-  "updated_at": "2026-11-23T08:32:41Z",
-  "total_stars": 675,
+  "updated_at": "2026-11-25T09:29:08Z",
+  "total_stars": 681,
   "owned_stars": 376,
-  "contributed_stars": 299,
+  "contributed_stars": 305,
   "owned_repositories": 18,
-  "contributed_repositories": 23,
+  "contributed_repositories": 24,
   "repositories": [
     {
       "id": 984869978,
@@ -244,6 +244,13 @@
       "full_name": "wonderfulpoet/CAM-Net",
       "url": "https://github.com/wonderfulpoet/CAM-Net",
       "stars": 4,
+      "relationship": "contributed"
+    },
+    {
+      "id": 1470001556,
+      "full_name": "Wu-beining/AlzheimerAgent",
+      "url": "https://github.com/Wu-beining/AlzheimerAgent",
+      "stars": 6,
       "relationship": "contributed"
     },
     {
