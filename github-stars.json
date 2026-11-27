@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "username": "JustlfC03",
-  "updated_at": "2026-11-25T09:29:08Z",
-  "total_stars": 681,
-  "owned_stars": 376,
-  "contributed_stars": 305,
-  "owned_repositories": 18,
+  "updated_at": "2026-11-27T09:23:48Z",
+  "total_stars": 685,
+  "owned_stars": 379,
+  "contributed_stars": 306,
+  "owned_repositories": 19,
   "contributed_repositories": 24,
   "repositories": [
     {
@@ -149,6 +149,13 @@
       "relationship": "owned"
     },
     {
+      "id": 1472739177,
+      "full_name": "JustlfC03/NB-PET",
+      "url": "https://github.com/JustlfC03/NB-PET",
+      "stars": 3,
+      "relationship": "owned"
+    },
+    {
       "id": 1259388368,
       "full_name": "JustlfC03/OCT",
       "url": "https://github.com/JustlfC03/OCT",
@@ -250,7 +257,7 @@
       "id": 1470001556,
       "full_name": "Wu-beining/AlzheimerAgent",
       "url": "https://github.com/Wu-beining/AlzheimerAgent",
-      "stars": 6,
+      "stars": 7,
       "relationship": "contributed"
     },
     {
